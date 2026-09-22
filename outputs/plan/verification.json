@@ -1,0 +1,12 @@
+{
+  "eventos_centrales": 1001,
+  "event_ids_duplicados": 0,
+  "movimientos": 1001,
+  "auditorias_con_movimiento": 1001,
+  "auditorias_huerfanas": 0,
+  "offline_intentos": 1000,
+  "offline_exitos": 1000,
+  "sync_intentos": 7,
+  "sync_reintentos_fallidos": 1,
+  "sync_confirmaciones": 6
+}

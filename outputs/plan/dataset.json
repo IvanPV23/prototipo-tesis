@@ -1,0 +1,7183 @@
+{
+  "devices": {
+    "CLI-1": [
+      {
+        "aggregate_id": "U-1-000",
+        "cantidad": 1.0,
+        "codigo": "U-1-000",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-001",
+        "cantidad": 2.0,
+        "codigo": "U-1-001",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-002",
+        "cantidad": 3.0,
+        "codigo": "U-1-002",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-003",
+        "cantidad": 4.0,
+        "codigo": "U-1-003",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-004",
+        "cantidad": 5.0,
+        "codigo": "U-1-004",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-005",
+        "cantidad": 6.0,
+        "codigo": "U-1-005",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-006",
+        "cantidad": 7.0,
+        "codigo": "U-1-006",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-007",
+        "cantidad": 8.0,
+        "codigo": "U-1-007",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-008",
+        "cantidad": 9.0,
+        "codigo": "U-1-008",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-009",
+        "cantidad": 1.0,
+        "codigo": "U-1-009",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-010",
+        "cantidad": 2.0,
+        "codigo": "U-1-010",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-011",
+        "cantidad": 3.0,
+        "codigo": "U-1-011",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-012",
+        "cantidad": 4.0,
+        "codigo": "U-1-012",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-013",
+        "cantidad": 5.0,
+        "codigo": "U-1-013",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-014",
+        "cantidad": 6.0,
+        "codigo": "U-1-014",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-015",
+        "cantidad": 7.0,
+        "codigo": "U-1-015",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-016",
+        "cantidad": 8.0,
+        "codigo": "U-1-016",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-017",
+        "cantidad": 9.0,
+        "codigo": "U-1-017",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-018",
+        "cantidad": 1.0,
+        "codigo": "U-1-018",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-019",
+        "cantidad": 2.0,
+        "codigo": "U-1-019",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-020",
+        "cantidad": 3.0,
+        "codigo": "U-1-020",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-021",
+        "cantidad": 4.0,
+        "codigo": "U-1-021",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-022",
+        "cantidad": 5.0,
+        "codigo": "U-1-022",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-023",
+        "cantidad": 6.0,
+        "codigo": "U-1-023",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-024",
+        "cantidad": 7.0,
+        "codigo": "U-1-024",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-025",
+        "cantidad": 8.0,
+        "codigo": "U-1-025",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-026",
+        "cantidad": 9.0,
+        "codigo": "U-1-026",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-027",
+        "cantidad": 1.0,
+        "codigo": "U-1-027",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-028",
+        "cantidad": 2.0,
+        "codigo": "U-1-028",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-029",
+        "cantidad": 3.0,
+        "codigo": "U-1-029",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-030",
+        "cantidad": 4.0,
+        "codigo": "U-1-030",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-031",
+        "cantidad": 5.0,
+        "codigo": "U-1-031",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-032",
+        "cantidad": 6.0,
+        "codigo": "U-1-032",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-033",
+        "cantidad": 7.0,
+        "codigo": "U-1-033",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-034",
+        "cantidad": 8.0,
+        "codigo": "U-1-034",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-035",
+        "cantidad": 9.0,
+        "codigo": "U-1-035",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-036",
+        "cantidad": 1.0,
+        "codigo": "U-1-036",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-037",
+        "cantidad": 2.0,
+        "codigo": "U-1-037",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-038",
+        "cantidad": 3.0,
+        "codigo": "U-1-038",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-039",
+        "cantidad": 4.0,
+        "codigo": "U-1-039",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-040",
+        "cantidad": 5.0,
+        "codigo": "U-1-040",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-041",
+        "cantidad": 6.0,
+        "codigo": "U-1-041",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-042",
+        "cantidad": 7.0,
+        "codigo": "U-1-042",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-043",
+        "cantidad": 8.0,
+        "codigo": "U-1-043",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-044",
+        "cantidad": 9.0,
+        "codigo": "U-1-044",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-045",
+        "cantidad": 1.0,
+        "codigo": "U-1-045",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-046",
+        "cantidad": 2.0,
+        "codigo": "U-1-046",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-047",
+        "cantidad": 3.0,
+        "codigo": "U-1-047",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-048",
+        "cantidad": 4.0,
+        "codigo": "U-1-048",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-049",
+        "cantidad": 5.0,
+        "codigo": "U-1-049",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-050",
+        "cantidad": 6.0,
+        "codigo": "U-1-050",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-1-051",
+        "cantidad": 7.0,
+        "codigo": "U-1-051",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-052",
+        "cantidad": 8.0,
+        "codigo": "U-1-052",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-053",
+        "cantidad": 9.0,
+        "codigo": "U-1-053",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-054",
+        "cantidad": 1.0,
+        "codigo": "U-1-054",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-055",
+        "cantidad": 2.0,
+        "codigo": "U-1-055",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-056",
+        "cantidad": 3.0,
+        "codigo": "U-1-056",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-057",
+        "cantidad": 4.0,
+        "codigo": "U-1-057",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-058",
+        "cantidad": 5.0,
+        "codigo": "U-1-058",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-059",
+        "cantidad": 6.0,
+        "codigo": "U-1-059",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-060",
+        "cantidad": 7.0,
+        "codigo": "U-1-060",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-061",
+        "cantidad": 8.0,
+        "codigo": "U-1-061",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-062",
+        "cantidad": 9.0,
+        "codigo": "U-1-062",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-063",
+        "cantidad": 1.0,
+        "codigo": "U-1-063",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-064",
+        "cantidad": 2.0,
+        "codigo": "U-1-064",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-065",
+        "cantidad": 3.0,
+        "codigo": "U-1-065",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-066",
+        "cantidad": 4.0,
+        "codigo": "U-1-066",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-067",
+        "cantidad": 5.0,
+        "codigo": "U-1-067",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-068",
+        "cantidad": 6.0,
+        "codigo": "U-1-068",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-069",
+        "cantidad": 7.0,
+        "codigo": "U-1-069",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-070",
+        "cantidad": 8.0,
+        "codigo": "U-1-070",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-071",
+        "cantidad": 9.0,
+        "codigo": "U-1-071",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-072",
+        "cantidad": 1.0,
+        "codigo": "U-1-072",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-073",
+        "cantidad": 2.0,
+        "codigo": "U-1-073",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-074",
+        "cantidad": 3.0,
+        "codigo": "U-1-074",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-075",
+        "cantidad": 4.0,
+        "codigo": "U-1-075",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-076",
+        "cantidad": 5.0,
+        "codigo": "U-1-076",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-077",
+        "cantidad": 6.0,
+        "codigo": "U-1-077",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-078",
+        "cantidad": 7.0,
+        "codigo": "U-1-078",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-079",
+        "cantidad": 8.0,
+        "codigo": "U-1-079",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-080",
+        "cantidad": 9.0,
+        "codigo": "U-1-080",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-081",
+        "cantidad": 1.0,
+        "codigo": "U-1-081",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-082",
+        "cantidad": 2.0,
+        "codigo": "U-1-082",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-083",
+        "cantidad": 3.0,
+        "codigo": "U-1-083",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-084",
+        "cantidad": 4.0,
+        "codigo": "U-1-084",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-085",
+        "cantidad": 5.0,
+        "codigo": "U-1-085",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-086",
+        "cantidad": 6.0,
+        "codigo": "U-1-086",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-087",
+        "cantidad": 7.0,
+        "codigo": "U-1-087",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-088",
+        "cantidad": 8.0,
+        "codigo": "U-1-088",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-089",
+        "cantidad": 9.0,
+        "codigo": "U-1-089",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-090",
+        "cantidad": 1.0,
+        "codigo": "U-1-090",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-091",
+        "cantidad": 2.0,
+        "codigo": "U-1-091",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-092",
+        "cantidad": 3.0,
+        "codigo": "U-1-092",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-093",
+        "cantidad": 4.0,
+        "codigo": "U-1-093",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-094",
+        "cantidad": 5.0,
+        "codigo": "U-1-094",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-095",
+        "cantidad": 6.0,
+        "codigo": "U-1-095",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-096",
+        "cantidad": 7.0,
+        "codigo": "U-1-096",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-097",
+        "cantidad": 8.0,
+        "codigo": "U-1-097",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-098",
+        "cantidad": 9.0,
+        "codigo": "U-1-098",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-099",
+        "cantidad": 1.0,
+        "codigo": "U-1-099",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-100",
+        "cantidad": 2.0,
+        "codigo": "U-1-100",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-101",
+        "cantidad": 3.0,
+        "codigo": "U-1-101",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-102",
+        "cantidad": 4.0,
+        "codigo": "U-1-102",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-103",
+        "cantidad": 5.0,
+        "codigo": "U-1-103",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-104",
+        "cantidad": 6.0,
+        "codigo": "U-1-104",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-105",
+        "cantidad": 7.0,
+        "codigo": "U-1-105",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-106",
+        "cantidad": 8.0,
+        "codigo": "U-1-106",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-107",
+        "cantidad": 9.0,
+        "codigo": "U-1-107",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-108",
+        "cantidad": 1.0,
+        "codigo": "U-1-108",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-109",
+        "cantidad": 2.0,
+        "codigo": "U-1-109",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-110",
+        "cantidad": 3.0,
+        "codigo": "U-1-110",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-111",
+        "cantidad": 4.0,
+        "codigo": "U-1-111",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-112",
+        "cantidad": 5.0,
+        "codigo": "U-1-112",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-113",
+        "cantidad": 6.0,
+        "codigo": "U-1-113",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-114",
+        "cantidad": 7.0,
+        "codigo": "U-1-114",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-115",
+        "cantidad": 8.0,
+        "codigo": "U-1-115",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-116",
+        "cantidad": 9.0,
+        "codigo": "U-1-116",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-117",
+        "cantidad": 1.0,
+        "codigo": "U-1-117",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-118",
+        "cantidad": 2.0,
+        "codigo": "U-1-118",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-119",
+        "cantidad": 3.0,
+        "codigo": "U-1-119",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-120",
+        "cantidad": 4.0,
+        "codigo": "U-1-120",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-121",
+        "cantidad": 5.0,
+        "codigo": "U-1-121",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-122",
+        "cantidad": 6.0,
+        "codigo": "U-1-122",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-123",
+        "cantidad": 7.0,
+        "codigo": "U-1-123",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-124",
+        "cantidad": 8.0,
+        "codigo": "U-1-124",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-125",
+        "cantidad": 9.0,
+        "codigo": "U-1-125",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-126",
+        "cantidad": 1.0,
+        "codigo": "U-1-126",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-127",
+        "cantidad": 2.0,
+        "codigo": "U-1-127",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-128",
+        "cantidad": 3.0,
+        "codigo": "U-1-128",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-129",
+        "cantidad": 4.0,
+        "codigo": "U-1-129",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-130",
+        "cantidad": 5.0,
+        "codigo": "U-1-130",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-131",
+        "cantidad": 6.0,
+        "codigo": "U-1-131",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-132",
+        "cantidad": 7.0,
+        "codigo": "U-1-132",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-133",
+        "cantidad": 8.0,
+        "codigo": "U-1-133",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-134",
+        "cantidad": 9.0,
+        "codigo": "U-1-134",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-135",
+        "cantidad": 1.0,
+        "codigo": "U-1-135",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-136",
+        "cantidad": 2.0,
+        "codigo": "U-1-136",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-137",
+        "cantidad": 3.0,
+        "codigo": "U-1-137",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-138",
+        "cantidad": 4.0,
+        "codigo": "U-1-138",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-139",
+        "cantidad": 5.0,
+        "codigo": "U-1-139",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-140",
+        "cantidad": 6.0,
+        "codigo": "U-1-140",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-141",
+        "cantidad": 7.0,
+        "codigo": "U-1-141",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-142",
+        "cantidad": 8.0,
+        "codigo": "U-1-142",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-143",
+        "cantidad": 9.0,
+        "codigo": "U-1-143",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-144",
+        "cantidad": 1.0,
+        "codigo": "U-1-144",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-145",
+        "cantidad": 2.0,
+        "codigo": "U-1-145",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-146",
+        "cantidad": 3.0,
+        "codigo": "U-1-146",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-147",
+        "cantidad": 4.0,
+        "codigo": "U-1-147",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-148",
+        "cantidad": 5.0,
+        "codigo": "U-1-148",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-149",
+        "cantidad": 6.0,
+        "codigo": "U-1-149",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-150",
+        "cantidad": 7.0,
+        "codigo": "U-1-150",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-1-151",
+        "cantidad": 8.0,
+        "codigo": "U-1-151",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-152",
+        "cantidad": 9.0,
+        "codigo": "U-1-152",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-153",
+        "cantidad": 1.0,
+        "codigo": "U-1-153",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-154",
+        "cantidad": 2.0,
+        "codigo": "U-1-154",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-155",
+        "cantidad": 3.0,
+        "codigo": "U-1-155",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-156",
+        "cantidad": 4.0,
+        "codigo": "U-1-156",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-157",
+        "cantidad": 5.0,
+        "codigo": "U-1-157",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-158",
+        "cantidad": 6.0,
+        "codigo": "U-1-158",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-159",
+        "cantidad": 7.0,
+        "codigo": "U-1-159",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-160",
+        "cantidad": 8.0,
+        "codigo": "U-1-160",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-161",
+        "cantidad": 9.0,
+        "codigo": "U-1-161",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-162",
+        "cantidad": 1.0,
+        "codigo": "U-1-162",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-163",
+        "cantidad": 2.0,
+        "codigo": "U-1-163",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-164",
+        "cantidad": 3.0,
+        "codigo": "U-1-164",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-165",
+        "cantidad": 4.0,
+        "codigo": "U-1-165",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-166",
+        "cantidad": 5.0,
+        "codigo": "U-1-166",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-167",
+        "cantidad": 6.0,
+        "codigo": "U-1-167",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-168",
+        "cantidad": 7.0,
+        "codigo": "U-1-168",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-1-169",
+        "cantidad": 8.0,
+        "codigo": "U-1-169",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "C-000",
+        "cantidad": 1.0,
+        "codigo": "C-000",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-003",
+        "cantidad": 3.0,
+        "codigo": "C-003",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-004",
+        "cantidad": 2.0,
+        "codigo": "C-004",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-005",
+        "cantidad": 1.0,
+        "codigo": "C-005",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-008",
+        "cantidad": 3.0,
+        "codigo": "C-008",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-009",
+        "cantidad": 2.0,
+        "codigo": "C-009",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-010",
+        "cantidad": 1.0,
+        "codigo": "C-010",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-013",
+        "cantidad": 3.0,
+        "codigo": "C-013",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-014",
+        "cantidad": 2.0,
+        "codigo": "C-014",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-015",
+        "cantidad": 1.0,
+        "codigo": "C-015",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-018",
+        "cantidad": 3.0,
+        "codigo": "C-018",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-019",
+        "cantidad": 2.0,
+        "codigo": "C-019",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-020",
+        "cantidad": 1.0,
+        "codigo": "C-020",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-023",
+        "cantidad": 3.0,
+        "codigo": "C-023",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-024",
+        "cantidad": 2.0,
+        "codigo": "C-024",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-025",
+        "cantidad": 1.0,
+        "codigo": "C-025",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-028",
+        "cantidad": 3.0,
+        "codigo": "C-028",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-029",
+        "cantidad": 2.0,
+        "codigo": "C-029",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-030",
+        "cantidad": 1.0,
+        "codigo": "C-030",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-033",
+        "cantidad": 3.0,
+        "codigo": "C-033",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-034",
+        "cantidad": 2.0,
+        "codigo": "C-034",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-035",
+        "cantidad": 1.0,
+        "codigo": "C-035",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-038",
+        "cantidad": 3.0,
+        "codigo": "C-038",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-039",
+        "cantidad": 2.0,
+        "codigo": "C-039",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-040",
+        "cantidad": 1.0,
+        "codigo": "C-040",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-043",
+        "cantidad": 3.0,
+        "codigo": "C-043",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-044",
+        "cantidad": 2.0,
+        "codigo": "C-044",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-045",
+        "cantidad": 1.0,
+        "codigo": "C-045",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-048",
+        "cantidad": 3.0,
+        "codigo": "C-048",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-049",
+        "cantidad": 2.0,
+        "codigo": "C-049",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      }
+    ],
+    "CLI-2": [
+      {
+        "aggregate_id": "U-2-000",
+        "cantidad": 1.0,
+        "codigo": "U-2-000",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-001",
+        "cantidad": 2.0,
+        "codigo": "U-2-001",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-002",
+        "cantidad": 3.0,
+        "codigo": "U-2-002",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-003",
+        "cantidad": 4.0,
+        "codigo": "U-2-003",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-004",
+        "cantidad": 5.0,
+        "codigo": "U-2-004",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-005",
+        "cantidad": 6.0,
+        "codigo": "U-2-005",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-006",
+        "cantidad": 7.0,
+        "codigo": "U-2-006",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-007",
+        "cantidad": 8.0,
+        "codigo": "U-2-007",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-008",
+        "cantidad": 9.0,
+        "codigo": "U-2-008",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-009",
+        "cantidad": 1.0,
+        "codigo": "U-2-009",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-010",
+        "cantidad": 2.0,
+        "codigo": "U-2-010",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-011",
+        "cantidad": 3.0,
+        "codigo": "U-2-011",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-012",
+        "cantidad": 4.0,
+        "codigo": "U-2-012",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-013",
+        "cantidad": 5.0,
+        "codigo": "U-2-013",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-014",
+        "cantidad": 6.0,
+        "codigo": "U-2-014",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-015",
+        "cantidad": 7.0,
+        "codigo": "U-2-015",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-016",
+        "cantidad": 8.0,
+        "codigo": "U-2-016",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-017",
+        "cantidad": 9.0,
+        "codigo": "U-2-017",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-018",
+        "cantidad": 1.0,
+        "codigo": "U-2-018",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-019",
+        "cantidad": 2.0,
+        "codigo": "U-2-019",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-020",
+        "cantidad": 3.0,
+        "codigo": "U-2-020",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-021",
+        "cantidad": 4.0,
+        "codigo": "U-2-021",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-022",
+        "cantidad": 5.0,
+        "codigo": "U-2-022",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-023",
+        "cantidad": 6.0,
+        "codigo": "U-2-023",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-024",
+        "cantidad": 7.0,
+        "codigo": "U-2-024",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-025",
+        "cantidad": 8.0,
+        "codigo": "U-2-025",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-026",
+        "cantidad": 9.0,
+        "codigo": "U-2-026",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-027",
+        "cantidad": 1.0,
+        "codigo": "U-2-027",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-028",
+        "cantidad": 2.0,
+        "codigo": "U-2-028",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-029",
+        "cantidad": 3.0,
+        "codigo": "U-2-029",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-030",
+        "cantidad": 4.0,
+        "codigo": "U-2-030",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-031",
+        "cantidad": 5.0,
+        "codigo": "U-2-031",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-032",
+        "cantidad": 6.0,
+        "codigo": "U-2-032",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-033",
+        "cantidad": 7.0,
+        "codigo": "U-2-033",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-034",
+        "cantidad": 8.0,
+        "codigo": "U-2-034",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-035",
+        "cantidad": 9.0,
+        "codigo": "U-2-035",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-036",
+        "cantidad": 1.0,
+        "codigo": "U-2-036",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-037",
+        "cantidad": 2.0,
+        "codigo": "U-2-037",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-038",
+        "cantidad": 3.0,
+        "codigo": "U-2-038",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-039",
+        "cantidad": 4.0,
+        "codigo": "U-2-039",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-040",
+        "cantidad": 5.0,
+        "codigo": "U-2-040",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-041",
+        "cantidad": 6.0,
+        "codigo": "U-2-041",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-042",
+        "cantidad": 7.0,
+        "codigo": "U-2-042",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-043",
+        "cantidad": 8.0,
+        "codigo": "U-2-043",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-044",
+        "cantidad": 9.0,
+        "codigo": "U-2-044",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-045",
+        "cantidad": 1.0,
+        "codigo": "U-2-045",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-046",
+        "cantidad": 2.0,
+        "codigo": "U-2-046",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-047",
+        "cantidad": 3.0,
+        "codigo": "U-2-047",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-048",
+        "cantidad": 4.0,
+        "codigo": "U-2-048",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-049",
+        "cantidad": 5.0,
+        "codigo": "U-2-049",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-050",
+        "cantidad": 6.0,
+        "codigo": "U-2-050",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-2-051",
+        "cantidad": 7.0,
+        "codigo": "U-2-051",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-052",
+        "cantidad": 8.0,
+        "codigo": "U-2-052",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-053",
+        "cantidad": 9.0,
+        "codigo": "U-2-053",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-054",
+        "cantidad": 1.0,
+        "codigo": "U-2-054",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-055",
+        "cantidad": 2.0,
+        "codigo": "U-2-055",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-056",
+        "cantidad": 3.0,
+        "codigo": "U-2-056",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-057",
+        "cantidad": 4.0,
+        "codigo": "U-2-057",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-058",
+        "cantidad": 5.0,
+        "codigo": "U-2-058",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-059",
+        "cantidad": 6.0,
+        "codigo": "U-2-059",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-060",
+        "cantidad": 7.0,
+        "codigo": "U-2-060",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-061",
+        "cantidad": 8.0,
+        "codigo": "U-2-061",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-062",
+        "cantidad": 9.0,
+        "codigo": "U-2-062",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-063",
+        "cantidad": 1.0,
+        "codigo": "U-2-063",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-064",
+        "cantidad": 2.0,
+        "codigo": "U-2-064",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-065",
+        "cantidad": 3.0,
+        "codigo": "U-2-065",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-066",
+        "cantidad": 4.0,
+        "codigo": "U-2-066",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-067",
+        "cantidad": 5.0,
+        "codigo": "U-2-067",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-068",
+        "cantidad": 6.0,
+        "codigo": "U-2-068",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-069",
+        "cantidad": 7.0,
+        "codigo": "U-2-069",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-070",
+        "cantidad": 8.0,
+        "codigo": "U-2-070",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-071",
+        "cantidad": 9.0,
+        "codigo": "U-2-071",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-072",
+        "cantidad": 1.0,
+        "codigo": "U-2-072",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-073",
+        "cantidad": 2.0,
+        "codigo": "U-2-073",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-074",
+        "cantidad": 3.0,
+        "codigo": "U-2-074",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-075",
+        "cantidad": 4.0,
+        "codigo": "U-2-075",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-076",
+        "cantidad": 5.0,
+        "codigo": "U-2-076",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-077",
+        "cantidad": 6.0,
+        "codigo": "U-2-077",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-078",
+        "cantidad": 7.0,
+        "codigo": "U-2-078",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-079",
+        "cantidad": 8.0,
+        "codigo": "U-2-079",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-080",
+        "cantidad": 9.0,
+        "codigo": "U-2-080",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-081",
+        "cantidad": 1.0,
+        "codigo": "U-2-081",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-082",
+        "cantidad": 2.0,
+        "codigo": "U-2-082",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-083",
+        "cantidad": 3.0,
+        "codigo": "U-2-083",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-084",
+        "cantidad": 4.0,
+        "codigo": "U-2-084",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-085",
+        "cantidad": 5.0,
+        "codigo": "U-2-085",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-086",
+        "cantidad": 6.0,
+        "codigo": "U-2-086",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-087",
+        "cantidad": 7.0,
+        "codigo": "U-2-087",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-088",
+        "cantidad": 8.0,
+        "codigo": "U-2-088",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-089",
+        "cantidad": 9.0,
+        "codigo": "U-2-089",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-090",
+        "cantidad": 1.0,
+        "codigo": "U-2-090",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-091",
+        "cantidad": 2.0,
+        "codigo": "U-2-091",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-092",
+        "cantidad": 3.0,
+        "codigo": "U-2-092",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-093",
+        "cantidad": 4.0,
+        "codigo": "U-2-093",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-094",
+        "cantidad": 5.0,
+        "codigo": "U-2-094",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-095",
+        "cantidad": 6.0,
+        "codigo": "U-2-095",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-096",
+        "cantidad": 7.0,
+        "codigo": "U-2-096",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-097",
+        "cantidad": 8.0,
+        "codigo": "U-2-097",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-098",
+        "cantidad": 9.0,
+        "codigo": "U-2-098",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-099",
+        "cantidad": 1.0,
+        "codigo": "U-2-099",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-100",
+        "cantidad": 2.0,
+        "codigo": "U-2-100",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-101",
+        "cantidad": 3.0,
+        "codigo": "U-2-101",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-102",
+        "cantidad": 4.0,
+        "codigo": "U-2-102",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-103",
+        "cantidad": 5.0,
+        "codigo": "U-2-103",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-104",
+        "cantidad": 6.0,
+        "codigo": "U-2-104",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-105",
+        "cantidad": 7.0,
+        "codigo": "U-2-105",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-106",
+        "cantidad": 8.0,
+        "codigo": "U-2-106",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-107",
+        "cantidad": 9.0,
+        "codigo": "U-2-107",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-108",
+        "cantidad": 1.0,
+        "codigo": "U-2-108",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-109",
+        "cantidad": 2.0,
+        "codigo": "U-2-109",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-110",
+        "cantidad": 3.0,
+        "codigo": "U-2-110",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-111",
+        "cantidad": 4.0,
+        "codigo": "U-2-111",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-112",
+        "cantidad": 5.0,
+        "codigo": "U-2-112",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-113",
+        "cantidad": 6.0,
+        "codigo": "U-2-113",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-114",
+        "cantidad": 7.0,
+        "codigo": "U-2-114",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-115",
+        "cantidad": 8.0,
+        "codigo": "U-2-115",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-116",
+        "cantidad": 9.0,
+        "codigo": "U-2-116",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-117",
+        "cantidad": 1.0,
+        "codigo": "U-2-117",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-118",
+        "cantidad": 2.0,
+        "codigo": "U-2-118",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-119",
+        "cantidad": 3.0,
+        "codigo": "U-2-119",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-120",
+        "cantidad": 4.0,
+        "codigo": "U-2-120",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-121",
+        "cantidad": 5.0,
+        "codigo": "U-2-121",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-122",
+        "cantidad": 6.0,
+        "codigo": "U-2-122",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-123",
+        "cantidad": 7.0,
+        "codigo": "U-2-123",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-124",
+        "cantidad": 8.0,
+        "codigo": "U-2-124",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-125",
+        "cantidad": 9.0,
+        "codigo": "U-2-125",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-126",
+        "cantidad": 1.0,
+        "codigo": "U-2-126",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-127",
+        "cantidad": 2.0,
+        "codigo": "U-2-127",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-128",
+        "cantidad": 3.0,
+        "codigo": "U-2-128",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-129",
+        "cantidad": 4.0,
+        "codigo": "U-2-129",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-130",
+        "cantidad": 5.0,
+        "codigo": "U-2-130",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-131",
+        "cantidad": 6.0,
+        "codigo": "U-2-131",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-132",
+        "cantidad": 7.0,
+        "codigo": "U-2-132",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-133",
+        "cantidad": 8.0,
+        "codigo": "U-2-133",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-134",
+        "cantidad": 9.0,
+        "codigo": "U-2-134",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-135",
+        "cantidad": 1.0,
+        "codigo": "U-2-135",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-136",
+        "cantidad": 2.0,
+        "codigo": "U-2-136",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-137",
+        "cantidad": 3.0,
+        "codigo": "U-2-137",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-138",
+        "cantidad": 4.0,
+        "codigo": "U-2-138",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-139",
+        "cantidad": 5.0,
+        "codigo": "U-2-139",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-140",
+        "cantidad": 6.0,
+        "codigo": "U-2-140",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-141",
+        "cantidad": 7.0,
+        "codigo": "U-2-141",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-142",
+        "cantidad": 8.0,
+        "codigo": "U-2-142",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-143",
+        "cantidad": 9.0,
+        "codigo": "U-2-143",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-144",
+        "cantidad": 1.0,
+        "codigo": "U-2-144",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-145",
+        "cantidad": 2.0,
+        "codigo": "U-2-145",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-146",
+        "cantidad": 3.0,
+        "codigo": "U-2-146",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-147",
+        "cantidad": 4.0,
+        "codigo": "U-2-147",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-148",
+        "cantidad": 5.0,
+        "codigo": "U-2-148",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-149",
+        "cantidad": 6.0,
+        "codigo": "U-2-149",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-150",
+        "cantidad": 7.0,
+        "codigo": "U-2-150",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-2-151",
+        "cantidad": 8.0,
+        "codigo": "U-2-151",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-152",
+        "cantidad": 9.0,
+        "codigo": "U-2-152",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-153",
+        "cantidad": 1.0,
+        "codigo": "U-2-153",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-154",
+        "cantidad": 2.0,
+        "codigo": "U-2-154",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-155",
+        "cantidad": 3.0,
+        "codigo": "U-2-155",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-156",
+        "cantidad": 4.0,
+        "codigo": "U-2-156",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-157",
+        "cantidad": 5.0,
+        "codigo": "U-2-157",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-158",
+        "cantidad": 6.0,
+        "codigo": "U-2-158",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-159",
+        "cantidad": 7.0,
+        "codigo": "U-2-159",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-160",
+        "cantidad": 8.0,
+        "codigo": "U-2-160",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-161",
+        "cantidad": 9.0,
+        "codigo": "U-2-161",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-162",
+        "cantidad": 1.0,
+        "codigo": "U-2-162",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-163",
+        "cantidad": 2.0,
+        "codigo": "U-2-163",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-164",
+        "cantidad": 3.0,
+        "codigo": "U-2-164",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-165",
+        "cantidad": 4.0,
+        "codigo": "U-2-165",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-166",
+        "cantidad": 5.0,
+        "codigo": "U-2-166",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-167",
+        "cantidad": 6.0,
+        "codigo": "U-2-167",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-168",
+        "cantidad": 7.0,
+        "codigo": "U-2-168",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-2-169",
+        "cantidad": 8.0,
+        "codigo": "U-2-169",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "C-000",
+        "cantidad": 2.0,
+        "codigo": "C-000",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-001",
+        "cantidad": 1.0,
+        "codigo": "C-001",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-004",
+        "cantidad": 3.0,
+        "codigo": "C-004",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-005",
+        "cantidad": 2.0,
+        "codigo": "C-005",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-006",
+        "cantidad": 1.0,
+        "codigo": "C-006",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-009",
+        "cantidad": 3.0,
+        "codigo": "C-009",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-010",
+        "cantidad": 2.0,
+        "codigo": "C-010",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-011",
+        "cantidad": 1.0,
+        "codigo": "C-011",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-014",
+        "cantidad": 3.0,
+        "codigo": "C-014",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-015",
+        "cantidad": 2.0,
+        "codigo": "C-015",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-016",
+        "cantidad": 1.0,
+        "codigo": "C-016",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-019",
+        "cantidad": 3.0,
+        "codigo": "C-019",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-020",
+        "cantidad": 2.0,
+        "codigo": "C-020",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-021",
+        "cantidad": 1.0,
+        "codigo": "C-021",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-024",
+        "cantidad": 3.0,
+        "codigo": "C-024",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-025",
+        "cantidad": 2.0,
+        "codigo": "C-025",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-026",
+        "cantidad": 1.0,
+        "codigo": "C-026",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-029",
+        "cantidad": 3.0,
+        "codigo": "C-029",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-030",
+        "cantidad": 2.0,
+        "codigo": "C-030",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-031",
+        "cantidad": 1.0,
+        "codigo": "C-031",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-034",
+        "cantidad": 3.0,
+        "codigo": "C-034",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-035",
+        "cantidad": 2.0,
+        "codigo": "C-035",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-036",
+        "cantidad": 1.0,
+        "codigo": "C-036",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-039",
+        "cantidad": 3.0,
+        "codigo": "C-039",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-040",
+        "cantidad": 2.0,
+        "codigo": "C-040",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-041",
+        "cantidad": 1.0,
+        "codigo": "C-041",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-044",
+        "cantidad": 3.0,
+        "codigo": "C-044",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-045",
+        "cantidad": 2.0,
+        "codigo": "C-045",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-046",
+        "cantidad": 1.0,
+        "codigo": "C-046",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-049",
+        "cantidad": 3.0,
+        "codigo": "C-049",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      }
+    ],
+    "CLI-3": [
+      {
+        "aggregate_id": "U-3-000",
+        "cantidad": 1.0,
+        "codigo": "U-3-000",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-001",
+        "cantidad": 2.0,
+        "codigo": "U-3-001",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-002",
+        "cantidad": 3.0,
+        "codigo": "U-3-002",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-003",
+        "cantidad": 4.0,
+        "codigo": "U-3-003",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-004",
+        "cantidad": 5.0,
+        "codigo": "U-3-004",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-005",
+        "cantidad": 6.0,
+        "codigo": "U-3-005",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-006",
+        "cantidad": 7.0,
+        "codigo": "U-3-006",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-007",
+        "cantidad": 8.0,
+        "codigo": "U-3-007",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-008",
+        "cantidad": 9.0,
+        "codigo": "U-3-008",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-009",
+        "cantidad": 1.0,
+        "codigo": "U-3-009",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-010",
+        "cantidad": 2.0,
+        "codigo": "U-3-010",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-011",
+        "cantidad": 3.0,
+        "codigo": "U-3-011",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-012",
+        "cantidad": 4.0,
+        "codigo": "U-3-012",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-013",
+        "cantidad": 5.0,
+        "codigo": "U-3-013",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-014",
+        "cantidad": 6.0,
+        "codigo": "U-3-014",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-015",
+        "cantidad": 7.0,
+        "codigo": "U-3-015",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-016",
+        "cantidad": 8.0,
+        "codigo": "U-3-016",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-017",
+        "cantidad": 9.0,
+        "codigo": "U-3-017",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-018",
+        "cantidad": 1.0,
+        "codigo": "U-3-018",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-019",
+        "cantidad": 2.0,
+        "codigo": "U-3-019",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-020",
+        "cantidad": 3.0,
+        "codigo": "U-3-020",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-021",
+        "cantidad": 4.0,
+        "codigo": "U-3-021",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-022",
+        "cantidad": 5.0,
+        "codigo": "U-3-022",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-023",
+        "cantidad": 6.0,
+        "codigo": "U-3-023",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-024",
+        "cantidad": 7.0,
+        "codigo": "U-3-024",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-025",
+        "cantidad": 8.0,
+        "codigo": "U-3-025",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-026",
+        "cantidad": 9.0,
+        "codigo": "U-3-026",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-027",
+        "cantidad": 1.0,
+        "codigo": "U-3-027",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-028",
+        "cantidad": 2.0,
+        "codigo": "U-3-028",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-029",
+        "cantidad": 3.0,
+        "codigo": "U-3-029",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-030",
+        "cantidad": 4.0,
+        "codigo": "U-3-030",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-031",
+        "cantidad": 5.0,
+        "codigo": "U-3-031",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-032",
+        "cantidad": 6.0,
+        "codigo": "U-3-032",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-033",
+        "cantidad": 7.0,
+        "codigo": "U-3-033",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-034",
+        "cantidad": 8.0,
+        "codigo": "U-3-034",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-035",
+        "cantidad": 9.0,
+        "codigo": "U-3-035",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-036",
+        "cantidad": 1.0,
+        "codigo": "U-3-036",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-037",
+        "cantidad": 2.0,
+        "codigo": "U-3-037",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-038",
+        "cantidad": 3.0,
+        "codigo": "U-3-038",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-039",
+        "cantidad": 4.0,
+        "codigo": "U-3-039",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-040",
+        "cantidad": 5.0,
+        "codigo": "U-3-040",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-041",
+        "cantidad": 6.0,
+        "codigo": "U-3-041",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-042",
+        "cantidad": 7.0,
+        "codigo": "U-3-042",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-043",
+        "cantidad": 8.0,
+        "codigo": "U-3-043",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-044",
+        "cantidad": 9.0,
+        "codigo": "U-3-044",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-045",
+        "cantidad": 1.0,
+        "codigo": "U-3-045",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-046",
+        "cantidad": 2.0,
+        "codigo": "U-3-046",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-047",
+        "cantidad": 3.0,
+        "codigo": "U-3-047",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-048",
+        "cantidad": 4.0,
+        "codigo": "U-3-048",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-049",
+        "cantidad": 5.0,
+        "codigo": "U-3-049",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-050",
+        "cantidad": 6.0,
+        "codigo": "U-3-050",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-3-051",
+        "cantidad": 7.0,
+        "codigo": "U-3-051",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-052",
+        "cantidad": 8.0,
+        "codigo": "U-3-052",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-053",
+        "cantidad": 9.0,
+        "codigo": "U-3-053",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-054",
+        "cantidad": 1.0,
+        "codigo": "U-3-054",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-055",
+        "cantidad": 2.0,
+        "codigo": "U-3-055",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-056",
+        "cantidad": 3.0,
+        "codigo": "U-3-056",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-057",
+        "cantidad": 4.0,
+        "codigo": "U-3-057",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-058",
+        "cantidad": 5.0,
+        "codigo": "U-3-058",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-059",
+        "cantidad": 6.0,
+        "codigo": "U-3-059",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-060",
+        "cantidad": 7.0,
+        "codigo": "U-3-060",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-061",
+        "cantidad": 8.0,
+        "codigo": "U-3-061",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-062",
+        "cantidad": 9.0,
+        "codigo": "U-3-062",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-063",
+        "cantidad": 1.0,
+        "codigo": "U-3-063",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-064",
+        "cantidad": 2.0,
+        "codigo": "U-3-064",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-065",
+        "cantidad": 3.0,
+        "codigo": "U-3-065",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-066",
+        "cantidad": 4.0,
+        "codigo": "U-3-066",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-067",
+        "cantidad": 5.0,
+        "codigo": "U-3-067",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-068",
+        "cantidad": 6.0,
+        "codigo": "U-3-068",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-069",
+        "cantidad": 7.0,
+        "codigo": "U-3-069",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-070",
+        "cantidad": 8.0,
+        "codigo": "U-3-070",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-071",
+        "cantidad": 9.0,
+        "codigo": "U-3-071",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-072",
+        "cantidad": 1.0,
+        "codigo": "U-3-072",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-073",
+        "cantidad": 2.0,
+        "codigo": "U-3-073",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-074",
+        "cantidad": 3.0,
+        "codigo": "U-3-074",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-075",
+        "cantidad": 4.0,
+        "codigo": "U-3-075",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-076",
+        "cantidad": 5.0,
+        "codigo": "U-3-076",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-077",
+        "cantidad": 6.0,
+        "codigo": "U-3-077",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-078",
+        "cantidad": 7.0,
+        "codigo": "U-3-078",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-079",
+        "cantidad": 8.0,
+        "codigo": "U-3-079",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-080",
+        "cantidad": 9.0,
+        "codigo": "U-3-080",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-081",
+        "cantidad": 1.0,
+        "codigo": "U-3-081",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-082",
+        "cantidad": 2.0,
+        "codigo": "U-3-082",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-083",
+        "cantidad": 3.0,
+        "codigo": "U-3-083",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-084",
+        "cantidad": 4.0,
+        "codigo": "U-3-084",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-085",
+        "cantidad": 5.0,
+        "codigo": "U-3-085",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-086",
+        "cantidad": 6.0,
+        "codigo": "U-3-086",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-087",
+        "cantidad": 7.0,
+        "codigo": "U-3-087",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-088",
+        "cantidad": 8.0,
+        "codigo": "U-3-088",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-089",
+        "cantidad": 9.0,
+        "codigo": "U-3-089",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-090",
+        "cantidad": 1.0,
+        "codigo": "U-3-090",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-091",
+        "cantidad": 2.0,
+        "codigo": "U-3-091",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-092",
+        "cantidad": 3.0,
+        "codigo": "U-3-092",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-093",
+        "cantidad": 4.0,
+        "codigo": "U-3-093",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-094",
+        "cantidad": 5.0,
+        "codigo": "U-3-094",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-095",
+        "cantidad": 6.0,
+        "codigo": "U-3-095",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-096",
+        "cantidad": 7.0,
+        "codigo": "U-3-096",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-097",
+        "cantidad": 8.0,
+        "codigo": "U-3-097",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-098",
+        "cantidad": 9.0,
+        "codigo": "U-3-098",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-099",
+        "cantidad": 1.0,
+        "codigo": "U-3-099",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-100",
+        "cantidad": 2.0,
+        "codigo": "U-3-100",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-101",
+        "cantidad": 3.0,
+        "codigo": "U-3-101",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-102",
+        "cantidad": 4.0,
+        "codigo": "U-3-102",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-103",
+        "cantidad": 5.0,
+        "codigo": "U-3-103",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-104",
+        "cantidad": 6.0,
+        "codigo": "U-3-104",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-105",
+        "cantidad": 7.0,
+        "codigo": "U-3-105",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-106",
+        "cantidad": 8.0,
+        "codigo": "U-3-106",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-107",
+        "cantidad": 9.0,
+        "codigo": "U-3-107",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-108",
+        "cantidad": 1.0,
+        "codigo": "U-3-108",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-109",
+        "cantidad": 2.0,
+        "codigo": "U-3-109",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-110",
+        "cantidad": 3.0,
+        "codigo": "U-3-110",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-111",
+        "cantidad": 4.0,
+        "codigo": "U-3-111",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-112",
+        "cantidad": 5.0,
+        "codigo": "U-3-112",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-113",
+        "cantidad": 6.0,
+        "codigo": "U-3-113",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-114",
+        "cantidad": 7.0,
+        "codigo": "U-3-114",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-115",
+        "cantidad": 8.0,
+        "codigo": "U-3-115",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-116",
+        "cantidad": 9.0,
+        "codigo": "U-3-116",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-117",
+        "cantidad": 1.0,
+        "codigo": "U-3-117",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-118",
+        "cantidad": 2.0,
+        "codigo": "U-3-118",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-119",
+        "cantidad": 3.0,
+        "codigo": "U-3-119",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-120",
+        "cantidad": 4.0,
+        "codigo": "U-3-120",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-121",
+        "cantidad": 5.0,
+        "codigo": "U-3-121",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-122",
+        "cantidad": 6.0,
+        "codigo": "U-3-122",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-123",
+        "cantidad": 7.0,
+        "codigo": "U-3-123",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-124",
+        "cantidad": 8.0,
+        "codigo": "U-3-124",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-125",
+        "cantidad": 9.0,
+        "codigo": "U-3-125",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-126",
+        "cantidad": 1.0,
+        "codigo": "U-3-126",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-127",
+        "cantidad": 2.0,
+        "codigo": "U-3-127",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-128",
+        "cantidad": 3.0,
+        "codigo": "U-3-128",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-129",
+        "cantidad": 4.0,
+        "codigo": "U-3-129",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-130",
+        "cantidad": 5.0,
+        "codigo": "U-3-130",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-131",
+        "cantidad": 6.0,
+        "codigo": "U-3-131",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-132",
+        "cantidad": 7.0,
+        "codigo": "U-3-132",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-133",
+        "cantidad": 8.0,
+        "codigo": "U-3-133",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-134",
+        "cantidad": 9.0,
+        "codigo": "U-3-134",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-135",
+        "cantidad": 1.0,
+        "codigo": "U-3-135",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-136",
+        "cantidad": 2.0,
+        "codigo": "U-3-136",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-137",
+        "cantidad": 3.0,
+        "codigo": "U-3-137",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-138",
+        "cantidad": 4.0,
+        "codigo": "U-3-138",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-139",
+        "cantidad": 5.0,
+        "codigo": "U-3-139",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-140",
+        "cantidad": 6.0,
+        "codigo": "U-3-140",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-141",
+        "cantidad": 7.0,
+        "codigo": "U-3-141",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-142",
+        "cantidad": 8.0,
+        "codigo": "U-3-142",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-143",
+        "cantidad": 9.0,
+        "codigo": "U-3-143",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-144",
+        "cantidad": 1.0,
+        "codigo": "U-3-144",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-145",
+        "cantidad": 2.0,
+        "codigo": "U-3-145",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-146",
+        "cantidad": 3.0,
+        "codigo": "U-3-146",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-147",
+        "cantidad": 4.0,
+        "codigo": "U-3-147",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-148",
+        "cantidad": 5.0,
+        "codigo": "U-3-148",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-149",
+        "cantidad": 6.0,
+        "codigo": "U-3-149",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-150",
+        "cantidad": 7.0,
+        "codigo": "U-3-150",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-3-151",
+        "cantidad": 8.0,
+        "codigo": "U-3-151",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-152",
+        "cantidad": 9.0,
+        "codigo": "U-3-152",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-153",
+        "cantidad": 1.0,
+        "codigo": "U-3-153",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-154",
+        "cantidad": 2.0,
+        "codigo": "U-3-154",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-155",
+        "cantidad": 3.0,
+        "codigo": "U-3-155",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-156",
+        "cantidad": 4.0,
+        "codigo": "U-3-156",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-157",
+        "cantidad": 5.0,
+        "codigo": "U-3-157",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-158",
+        "cantidad": 6.0,
+        "codigo": "U-3-158",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-159",
+        "cantidad": 7.0,
+        "codigo": "U-3-159",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-160",
+        "cantidad": 8.0,
+        "codigo": "U-3-160",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-161",
+        "cantidad": 9.0,
+        "codigo": "U-3-161",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-162",
+        "cantidad": 1.0,
+        "codigo": "U-3-162",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-163",
+        "cantidad": 2.0,
+        "codigo": "U-3-163",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-164",
+        "cantidad": 3.0,
+        "codigo": "U-3-164",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-165",
+        "cantidad": 4.0,
+        "codigo": "U-3-165",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-166",
+        "cantidad": 5.0,
+        "codigo": "U-3-166",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-167",
+        "cantidad": 6.0,
+        "codigo": "U-3-167",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-168",
+        "cantidad": 7.0,
+        "codigo": "U-3-168",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-3-169",
+        "cantidad": 8.0,
+        "codigo": "U-3-169",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "C-000",
+        "cantidad": 3.0,
+        "codigo": "C-000",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-001",
+        "cantidad": 2.0,
+        "codigo": "C-001",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-002",
+        "cantidad": 1.0,
+        "codigo": "C-002",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-005",
+        "cantidad": 3.0,
+        "codigo": "C-005",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-006",
+        "cantidad": 2.0,
+        "codigo": "C-006",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-007",
+        "cantidad": 1.0,
+        "codigo": "C-007",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-010",
+        "cantidad": 3.0,
+        "codigo": "C-010",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-011",
+        "cantidad": 2.0,
+        "codigo": "C-011",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-012",
+        "cantidad": 1.0,
+        "codigo": "C-012",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-015",
+        "cantidad": 3.0,
+        "codigo": "C-015",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-016",
+        "cantidad": 2.0,
+        "codigo": "C-016",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-017",
+        "cantidad": 1.0,
+        "codigo": "C-017",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-020",
+        "cantidad": 3.0,
+        "codigo": "C-020",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-021",
+        "cantidad": 2.0,
+        "codigo": "C-021",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-022",
+        "cantidad": 1.0,
+        "codigo": "C-022",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-025",
+        "cantidad": 3.0,
+        "codigo": "C-025",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-026",
+        "cantidad": 2.0,
+        "codigo": "C-026",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-027",
+        "cantidad": 1.0,
+        "codigo": "C-027",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-030",
+        "cantidad": 3.0,
+        "codigo": "C-030",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-031",
+        "cantidad": 2.0,
+        "codigo": "C-031",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-032",
+        "cantidad": 1.0,
+        "codigo": "C-032",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-035",
+        "cantidad": 3.0,
+        "codigo": "C-035",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-036",
+        "cantidad": 2.0,
+        "codigo": "C-036",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-037",
+        "cantidad": 1.0,
+        "codigo": "C-037",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-040",
+        "cantidad": 3.0,
+        "codigo": "C-040",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-041",
+        "cantidad": 2.0,
+        "codigo": "C-041",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-042",
+        "cantidad": 1.0,
+        "codigo": "C-042",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-045",
+        "cantidad": 3.0,
+        "codigo": "C-045",
+        "material": "Cemento",
+        "cancelar": true,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-046",
+        "cantidad": 2.0,
+        "codigo": "C-046",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-047",
+        "cantidad": 1.0,
+        "codigo": "C-047",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      }
+    ],
+    "CLI-4": [
+      {
+        "aggregate_id": "U-4-000",
+        "cantidad": 1.0,
+        "codigo": "U-4-000",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-001",
+        "cantidad": 2.0,
+        "codigo": "U-4-001",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-002",
+        "cantidad": 3.0,
+        "codigo": "U-4-002",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-003",
+        "cantidad": 4.0,
+        "codigo": "U-4-003",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-004",
+        "cantidad": 5.0,
+        "codigo": "U-4-004",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-005",
+        "cantidad": 6.0,
+        "codigo": "U-4-005",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-006",
+        "cantidad": 7.0,
+        "codigo": "U-4-006",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-007",
+        "cantidad": 8.0,
+        "codigo": "U-4-007",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-008",
+        "cantidad": 9.0,
+        "codigo": "U-4-008",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-009",
+        "cantidad": 1.0,
+        "codigo": "U-4-009",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-010",
+        "cantidad": 2.0,
+        "codigo": "U-4-010",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-011",
+        "cantidad": 3.0,
+        "codigo": "U-4-011",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-012",
+        "cantidad": 4.0,
+        "codigo": "U-4-012",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-013",
+        "cantidad": 5.0,
+        "codigo": "U-4-013",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-014",
+        "cantidad": 6.0,
+        "codigo": "U-4-014",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-015",
+        "cantidad": 7.0,
+        "codigo": "U-4-015",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-016",
+        "cantidad": 8.0,
+        "codigo": "U-4-016",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-017",
+        "cantidad": 9.0,
+        "codigo": "U-4-017",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-018",
+        "cantidad": 1.0,
+        "codigo": "U-4-018",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-019",
+        "cantidad": 2.0,
+        "codigo": "U-4-019",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-020",
+        "cantidad": 3.0,
+        "codigo": "U-4-020",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-021",
+        "cantidad": 4.0,
+        "codigo": "U-4-021",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-022",
+        "cantidad": 5.0,
+        "codigo": "U-4-022",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-023",
+        "cantidad": 6.0,
+        "codigo": "U-4-023",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-024",
+        "cantidad": 7.0,
+        "codigo": "U-4-024",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-025",
+        "cantidad": 8.0,
+        "codigo": "U-4-025",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-026",
+        "cantidad": 9.0,
+        "codigo": "U-4-026",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-027",
+        "cantidad": 1.0,
+        "codigo": "U-4-027",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-028",
+        "cantidad": 2.0,
+        "codigo": "U-4-028",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-029",
+        "cantidad": 3.0,
+        "codigo": "U-4-029",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-030",
+        "cantidad": 4.0,
+        "codigo": "U-4-030",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-031",
+        "cantidad": 5.0,
+        "codigo": "U-4-031",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-032",
+        "cantidad": 6.0,
+        "codigo": "U-4-032",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-033",
+        "cantidad": 7.0,
+        "codigo": "U-4-033",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-034",
+        "cantidad": 8.0,
+        "codigo": "U-4-034",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-035",
+        "cantidad": 9.0,
+        "codigo": "U-4-035",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-036",
+        "cantidad": 1.0,
+        "codigo": "U-4-036",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-037",
+        "cantidad": 2.0,
+        "codigo": "U-4-037",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-038",
+        "cantidad": 3.0,
+        "codigo": "U-4-038",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-039",
+        "cantidad": 4.0,
+        "codigo": "U-4-039",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-040",
+        "cantidad": 5.0,
+        "codigo": "U-4-040",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-041",
+        "cantidad": 6.0,
+        "codigo": "U-4-041",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-042",
+        "cantidad": 7.0,
+        "codigo": "U-4-042",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-043",
+        "cantidad": 8.0,
+        "codigo": "U-4-043",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-044",
+        "cantidad": 9.0,
+        "codigo": "U-4-044",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-045",
+        "cantidad": 1.0,
+        "codigo": "U-4-045",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-046",
+        "cantidad": 2.0,
+        "codigo": "U-4-046",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-047",
+        "cantidad": 3.0,
+        "codigo": "U-4-047",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-048",
+        "cantidad": 4.0,
+        "codigo": "U-4-048",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-049",
+        "cantidad": 5.0,
+        "codigo": "U-4-049",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-050",
+        "cantidad": 6.0,
+        "codigo": "U-4-050",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-4-051",
+        "cantidad": 7.0,
+        "codigo": "U-4-051",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-052",
+        "cantidad": 8.0,
+        "codigo": "U-4-052",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-053",
+        "cantidad": 9.0,
+        "codigo": "U-4-053",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-054",
+        "cantidad": 1.0,
+        "codigo": "U-4-054",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-055",
+        "cantidad": 2.0,
+        "codigo": "U-4-055",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-056",
+        "cantidad": 3.0,
+        "codigo": "U-4-056",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-057",
+        "cantidad": 4.0,
+        "codigo": "U-4-057",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-058",
+        "cantidad": 5.0,
+        "codigo": "U-4-058",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-059",
+        "cantidad": 6.0,
+        "codigo": "U-4-059",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-060",
+        "cantidad": 7.0,
+        "codigo": "U-4-060",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-061",
+        "cantidad": 8.0,
+        "codigo": "U-4-061",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-062",
+        "cantidad": 9.0,
+        "codigo": "U-4-062",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-063",
+        "cantidad": 1.0,
+        "codigo": "U-4-063",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-064",
+        "cantidad": 2.0,
+        "codigo": "U-4-064",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-065",
+        "cantidad": 3.0,
+        "codigo": "U-4-065",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-066",
+        "cantidad": 4.0,
+        "codigo": "U-4-066",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-067",
+        "cantidad": 5.0,
+        "codigo": "U-4-067",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-068",
+        "cantidad": 6.0,
+        "codigo": "U-4-068",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-069",
+        "cantidad": 7.0,
+        "codigo": "U-4-069",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-070",
+        "cantidad": 8.0,
+        "codigo": "U-4-070",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-071",
+        "cantidad": 9.0,
+        "codigo": "U-4-071",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-072",
+        "cantidad": 1.0,
+        "codigo": "U-4-072",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-073",
+        "cantidad": 2.0,
+        "codigo": "U-4-073",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-074",
+        "cantidad": 3.0,
+        "codigo": "U-4-074",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-075",
+        "cantidad": 4.0,
+        "codigo": "U-4-075",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-076",
+        "cantidad": 5.0,
+        "codigo": "U-4-076",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-077",
+        "cantidad": 6.0,
+        "codigo": "U-4-077",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-078",
+        "cantidad": 7.0,
+        "codigo": "U-4-078",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-079",
+        "cantidad": 8.0,
+        "codigo": "U-4-079",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-080",
+        "cantidad": 9.0,
+        "codigo": "U-4-080",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-081",
+        "cantidad": 1.0,
+        "codigo": "U-4-081",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-082",
+        "cantidad": 2.0,
+        "codigo": "U-4-082",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-083",
+        "cantidad": 3.0,
+        "codigo": "U-4-083",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-084",
+        "cantidad": 4.0,
+        "codigo": "U-4-084",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-085",
+        "cantidad": 5.0,
+        "codigo": "U-4-085",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-086",
+        "cantidad": 6.0,
+        "codigo": "U-4-086",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-087",
+        "cantidad": 7.0,
+        "codigo": "U-4-087",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-088",
+        "cantidad": 8.0,
+        "codigo": "U-4-088",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-089",
+        "cantidad": 9.0,
+        "codigo": "U-4-089",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-090",
+        "cantidad": 1.0,
+        "codigo": "U-4-090",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-091",
+        "cantidad": 2.0,
+        "codigo": "U-4-091",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-092",
+        "cantidad": 3.0,
+        "codigo": "U-4-092",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-093",
+        "cantidad": 4.0,
+        "codigo": "U-4-093",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-094",
+        "cantidad": 5.0,
+        "codigo": "U-4-094",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-095",
+        "cantidad": 6.0,
+        "codigo": "U-4-095",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-096",
+        "cantidad": 7.0,
+        "codigo": "U-4-096",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-097",
+        "cantidad": 8.0,
+        "codigo": "U-4-097",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-098",
+        "cantidad": 9.0,
+        "codigo": "U-4-098",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-099",
+        "cantidad": 1.0,
+        "codigo": "U-4-099",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-100",
+        "cantidad": 2.0,
+        "codigo": "U-4-100",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-101",
+        "cantidad": 3.0,
+        "codigo": "U-4-101",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-102",
+        "cantidad": 4.0,
+        "codigo": "U-4-102",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-103",
+        "cantidad": 5.0,
+        "codigo": "U-4-103",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-104",
+        "cantidad": 6.0,
+        "codigo": "U-4-104",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-105",
+        "cantidad": 7.0,
+        "codigo": "U-4-105",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-106",
+        "cantidad": 8.0,
+        "codigo": "U-4-106",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-107",
+        "cantidad": 9.0,
+        "codigo": "U-4-107",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-108",
+        "cantidad": 1.0,
+        "codigo": "U-4-108",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-109",
+        "cantidad": 2.0,
+        "codigo": "U-4-109",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-110",
+        "cantidad": 3.0,
+        "codigo": "U-4-110",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-111",
+        "cantidad": 4.0,
+        "codigo": "U-4-111",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-112",
+        "cantidad": 5.0,
+        "codigo": "U-4-112",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-113",
+        "cantidad": 6.0,
+        "codigo": "U-4-113",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-114",
+        "cantidad": 7.0,
+        "codigo": "U-4-114",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-115",
+        "cantidad": 8.0,
+        "codigo": "U-4-115",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-116",
+        "cantidad": 9.0,
+        "codigo": "U-4-116",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-117",
+        "cantidad": 1.0,
+        "codigo": "U-4-117",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-118",
+        "cantidad": 2.0,
+        "codigo": "U-4-118",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-119",
+        "cantidad": 3.0,
+        "codigo": "U-4-119",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-120",
+        "cantidad": 4.0,
+        "codigo": "U-4-120",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-121",
+        "cantidad": 5.0,
+        "codigo": "U-4-121",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-122",
+        "cantidad": 6.0,
+        "codigo": "U-4-122",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-123",
+        "cantidad": 7.0,
+        "codigo": "U-4-123",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-124",
+        "cantidad": 8.0,
+        "codigo": "U-4-124",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-125",
+        "cantidad": 9.0,
+        "codigo": "U-4-125",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-126",
+        "cantidad": 1.0,
+        "codigo": "U-4-126",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-127",
+        "cantidad": 2.0,
+        "codigo": "U-4-127",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-128",
+        "cantidad": 3.0,
+        "codigo": "U-4-128",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-129",
+        "cantidad": 4.0,
+        "codigo": "U-4-129",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-130",
+        "cantidad": 5.0,
+        "codigo": "U-4-130",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-131",
+        "cantidad": 6.0,
+        "codigo": "U-4-131",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-132",
+        "cantidad": 7.0,
+        "codigo": "U-4-132",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-133",
+        "cantidad": 8.0,
+        "codigo": "U-4-133",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-134",
+        "cantidad": 9.0,
+        "codigo": "U-4-134",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-135",
+        "cantidad": 1.0,
+        "codigo": "U-4-135",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-136",
+        "cantidad": 2.0,
+        "codigo": "U-4-136",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-137",
+        "cantidad": 3.0,
+        "codigo": "U-4-137",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-138",
+        "cantidad": 4.0,
+        "codigo": "U-4-138",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-139",
+        "cantidad": 5.0,
+        "codigo": "U-4-139",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-140",
+        "cantidad": 6.0,
+        "codigo": "U-4-140",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-141",
+        "cantidad": 7.0,
+        "codigo": "U-4-141",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-142",
+        "cantidad": 8.0,
+        "codigo": "U-4-142",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-143",
+        "cantidad": 9.0,
+        "codigo": "U-4-143",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-144",
+        "cantidad": 1.0,
+        "codigo": "U-4-144",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-145",
+        "cantidad": 2.0,
+        "codigo": "U-4-145",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-146",
+        "cantidad": 3.0,
+        "codigo": "U-4-146",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-147",
+        "cantidad": 4.0,
+        "codigo": "U-4-147",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-148",
+        "cantidad": 5.0,
+        "codigo": "U-4-148",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-149",
+        "cantidad": 6.0,
+        "codigo": "U-4-149",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-150",
+        "cantidad": 7.0,
+        "codigo": "U-4-150",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-4-151",
+        "cantidad": 8.0,
+        "codigo": "U-4-151",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-152",
+        "cantidad": 9.0,
+        "codigo": "U-4-152",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-153",
+        "cantidad": 1.0,
+        "codigo": "U-4-153",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-154",
+        "cantidad": 2.0,
+        "codigo": "U-4-154",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-155",
+        "cantidad": 3.0,
+        "codigo": "U-4-155",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-156",
+        "cantidad": 4.0,
+        "codigo": "U-4-156",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-157",
+        "cantidad": 5.0,
+        "codigo": "U-4-157",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-158",
+        "cantidad": 6.0,
+        "codigo": "U-4-158",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-159",
+        "cantidad": 7.0,
+        "codigo": "U-4-159",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-160",
+        "cantidad": 8.0,
+        "codigo": "U-4-160",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-161",
+        "cantidad": 9.0,
+        "codigo": "U-4-161",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-162",
+        "cantidad": 1.0,
+        "codigo": "U-4-162",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-163",
+        "cantidad": 2.0,
+        "codigo": "U-4-163",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-164",
+        "cantidad": 3.0,
+        "codigo": "U-4-164",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-165",
+        "cantidad": 4.0,
+        "codigo": "U-4-165",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-166",
+        "cantidad": 5.0,
+        "codigo": "U-4-166",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-167",
+        "cantidad": 6.0,
+        "codigo": "U-4-167",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-168",
+        "cantidad": 7.0,
+        "codigo": "U-4-168",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-4-169",
+        "cantidad": 8.0,
+        "codigo": "U-4-169",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "C-001",
+        "cantidad": 3.0,
+        "codigo": "C-001",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-002",
+        "cantidad": 2.0,
+        "codigo": "C-002",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-003",
+        "cantidad": 1.0,
+        "codigo": "C-003",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-006",
+        "cantidad": 3.0,
+        "codigo": "C-006",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-007",
+        "cantidad": 2.0,
+        "codigo": "C-007",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-008",
+        "cantidad": 1.0,
+        "codigo": "C-008",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-011",
+        "cantidad": 3.0,
+        "codigo": "C-011",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-012",
+        "cantidad": 2.0,
+        "codigo": "C-012",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-013",
+        "cantidad": 1.0,
+        "codigo": "C-013",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-016",
+        "cantidad": 3.0,
+        "codigo": "C-016",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-017",
+        "cantidad": 2.0,
+        "codigo": "C-017",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-018",
+        "cantidad": 1.0,
+        "codigo": "C-018",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-021",
+        "cantidad": 3.0,
+        "codigo": "C-021",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-022",
+        "cantidad": 2.0,
+        "codigo": "C-022",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-023",
+        "cantidad": 1.0,
+        "codigo": "C-023",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-026",
+        "cantidad": 3.0,
+        "codigo": "C-026",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-027",
+        "cantidad": 2.0,
+        "codigo": "C-027",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-028",
+        "cantidad": 1.0,
+        "codigo": "C-028",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-031",
+        "cantidad": 3.0,
+        "codigo": "C-031",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-032",
+        "cantidad": 2.0,
+        "codigo": "C-032",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-033",
+        "cantidad": 1.0,
+        "codigo": "C-033",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-036",
+        "cantidad": 3.0,
+        "codigo": "C-036",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-037",
+        "cantidad": 2.0,
+        "codigo": "C-037",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-038",
+        "cantidad": 1.0,
+        "codigo": "C-038",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-041",
+        "cantidad": 3.0,
+        "codigo": "C-041",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-042",
+        "cantidad": 2.0,
+        "codigo": "C-042",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-043",
+        "cantidad": 1.0,
+        "codigo": "C-043",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-046",
+        "cantidad": 3.0,
+        "codigo": "C-046",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-047",
+        "cantidad": 2.0,
+        "codigo": "C-047",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-048",
+        "cantidad": 1.0,
+        "codigo": "C-048",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      }
+    ],
+    "CLI-5": [
+      {
+        "aggregate_id": "U-5-000",
+        "cantidad": 1.0,
+        "codigo": "U-5-000",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-001",
+        "cantidad": 2.0,
+        "codigo": "U-5-001",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-002",
+        "cantidad": 3.0,
+        "codigo": "U-5-002",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-003",
+        "cantidad": 4.0,
+        "codigo": "U-5-003",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-004",
+        "cantidad": 5.0,
+        "codigo": "U-5-004",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-005",
+        "cantidad": 6.0,
+        "codigo": "U-5-005",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-006",
+        "cantidad": 7.0,
+        "codigo": "U-5-006",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-007",
+        "cantidad": 8.0,
+        "codigo": "U-5-007",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-008",
+        "cantidad": 9.0,
+        "codigo": "U-5-008",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-009",
+        "cantidad": 1.0,
+        "codigo": "U-5-009",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-010",
+        "cantidad": 2.0,
+        "codigo": "U-5-010",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-011",
+        "cantidad": 3.0,
+        "codigo": "U-5-011",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-012",
+        "cantidad": 4.0,
+        "codigo": "U-5-012",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-013",
+        "cantidad": 5.0,
+        "codigo": "U-5-013",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-014",
+        "cantidad": 6.0,
+        "codigo": "U-5-014",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-015",
+        "cantidad": 7.0,
+        "codigo": "U-5-015",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-016",
+        "cantidad": 8.0,
+        "codigo": "U-5-016",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-017",
+        "cantidad": 9.0,
+        "codigo": "U-5-017",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-018",
+        "cantidad": 1.0,
+        "codigo": "U-5-018",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-019",
+        "cantidad": 2.0,
+        "codigo": "U-5-019",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-020",
+        "cantidad": 3.0,
+        "codigo": "U-5-020",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-021",
+        "cantidad": 4.0,
+        "codigo": "U-5-021",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-022",
+        "cantidad": 5.0,
+        "codigo": "U-5-022",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-023",
+        "cantidad": 6.0,
+        "codigo": "U-5-023",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-024",
+        "cantidad": 7.0,
+        "codigo": "U-5-024",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-025",
+        "cantidad": 8.0,
+        "codigo": "U-5-025",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-026",
+        "cantidad": 9.0,
+        "codigo": "U-5-026",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-027",
+        "cantidad": 1.0,
+        "codigo": "U-5-027",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-028",
+        "cantidad": 2.0,
+        "codigo": "U-5-028",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-029",
+        "cantidad": 3.0,
+        "codigo": "U-5-029",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-030",
+        "cantidad": 4.0,
+        "codigo": "U-5-030",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-031",
+        "cantidad": 5.0,
+        "codigo": "U-5-031",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-032",
+        "cantidad": 6.0,
+        "codigo": "U-5-032",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-033",
+        "cantidad": 7.0,
+        "codigo": "U-5-033",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-034",
+        "cantidad": 8.0,
+        "codigo": "U-5-034",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-035",
+        "cantidad": 9.0,
+        "codigo": "U-5-035",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-036",
+        "cantidad": 1.0,
+        "codigo": "U-5-036",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-037",
+        "cantidad": 2.0,
+        "codigo": "U-5-037",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-038",
+        "cantidad": 3.0,
+        "codigo": "U-5-038",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-039",
+        "cantidad": 4.0,
+        "codigo": "U-5-039",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-040",
+        "cantidad": 5.0,
+        "codigo": "U-5-040",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-041",
+        "cantidad": 6.0,
+        "codigo": "U-5-041",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-042",
+        "cantidad": 7.0,
+        "codigo": "U-5-042",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-043",
+        "cantidad": 8.0,
+        "codigo": "U-5-043",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-044",
+        "cantidad": 9.0,
+        "codigo": "U-5-044",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-045",
+        "cantidad": 1.0,
+        "codigo": "U-5-045",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-046",
+        "cantidad": 2.0,
+        "codigo": "U-5-046",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-047",
+        "cantidad": 3.0,
+        "codigo": "U-5-047",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-048",
+        "cantidad": 4.0,
+        "codigo": "U-5-048",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-049",
+        "cantidad": 5.0,
+        "codigo": "U-5-049",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-050",
+        "cantidad": 6.0,
+        "codigo": "U-5-050",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-5-051",
+        "cantidad": 7.0,
+        "codigo": "U-5-051",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-052",
+        "cantidad": 8.0,
+        "codigo": "U-5-052",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-053",
+        "cantidad": 9.0,
+        "codigo": "U-5-053",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-054",
+        "cantidad": 1.0,
+        "codigo": "U-5-054",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-055",
+        "cantidad": 2.0,
+        "codigo": "U-5-055",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-056",
+        "cantidad": 3.0,
+        "codigo": "U-5-056",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-057",
+        "cantidad": 4.0,
+        "codigo": "U-5-057",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-058",
+        "cantidad": 5.0,
+        "codigo": "U-5-058",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-059",
+        "cantidad": 6.0,
+        "codigo": "U-5-059",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-060",
+        "cantidad": 7.0,
+        "codigo": "U-5-060",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-061",
+        "cantidad": 8.0,
+        "codigo": "U-5-061",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-062",
+        "cantidad": 9.0,
+        "codigo": "U-5-062",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-063",
+        "cantidad": 1.0,
+        "codigo": "U-5-063",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-064",
+        "cantidad": 2.0,
+        "codigo": "U-5-064",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-065",
+        "cantidad": 3.0,
+        "codigo": "U-5-065",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-066",
+        "cantidad": 4.0,
+        "codigo": "U-5-066",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-067",
+        "cantidad": 5.0,
+        "codigo": "U-5-067",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-068",
+        "cantidad": 6.0,
+        "codigo": "U-5-068",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-069",
+        "cantidad": 7.0,
+        "codigo": "U-5-069",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-070",
+        "cantidad": 8.0,
+        "codigo": "U-5-070",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-071",
+        "cantidad": 9.0,
+        "codigo": "U-5-071",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-072",
+        "cantidad": 1.0,
+        "codigo": "U-5-072",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-073",
+        "cantidad": 2.0,
+        "codigo": "U-5-073",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-074",
+        "cantidad": 3.0,
+        "codigo": "U-5-074",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-075",
+        "cantidad": 4.0,
+        "codigo": "U-5-075",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-076",
+        "cantidad": 5.0,
+        "codigo": "U-5-076",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-077",
+        "cantidad": 6.0,
+        "codigo": "U-5-077",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-078",
+        "cantidad": 7.0,
+        "codigo": "U-5-078",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-079",
+        "cantidad": 8.0,
+        "codigo": "U-5-079",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-080",
+        "cantidad": 9.0,
+        "codigo": "U-5-080",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-081",
+        "cantidad": 1.0,
+        "codigo": "U-5-081",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-082",
+        "cantidad": 2.0,
+        "codigo": "U-5-082",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-083",
+        "cantidad": 3.0,
+        "codigo": "U-5-083",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-084",
+        "cantidad": 4.0,
+        "codigo": "U-5-084",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-085",
+        "cantidad": 5.0,
+        "codigo": "U-5-085",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-086",
+        "cantidad": 6.0,
+        "codigo": "U-5-086",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-087",
+        "cantidad": 7.0,
+        "codigo": "U-5-087",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-088",
+        "cantidad": 8.0,
+        "codigo": "U-5-088",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-089",
+        "cantidad": 9.0,
+        "codigo": "U-5-089",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-090",
+        "cantidad": 1.0,
+        "codigo": "U-5-090",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-091",
+        "cantidad": 2.0,
+        "codigo": "U-5-091",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-092",
+        "cantidad": 3.0,
+        "codigo": "U-5-092",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-093",
+        "cantidad": 4.0,
+        "codigo": "U-5-093",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-094",
+        "cantidad": 5.0,
+        "codigo": "U-5-094",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-095",
+        "cantidad": 6.0,
+        "codigo": "U-5-095",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-096",
+        "cantidad": 7.0,
+        "codigo": "U-5-096",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-097",
+        "cantidad": 8.0,
+        "codigo": "U-5-097",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-098",
+        "cantidad": 9.0,
+        "codigo": "U-5-098",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-099",
+        "cantidad": 1.0,
+        "codigo": "U-5-099",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-100",
+        "cantidad": 2.0,
+        "codigo": "U-5-100",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-101",
+        "cantidad": 3.0,
+        "codigo": "U-5-101",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-102",
+        "cantidad": 4.0,
+        "codigo": "U-5-102",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-103",
+        "cantidad": 5.0,
+        "codigo": "U-5-103",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-104",
+        "cantidad": 6.0,
+        "codigo": "U-5-104",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-105",
+        "cantidad": 7.0,
+        "codigo": "U-5-105",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-106",
+        "cantidad": 8.0,
+        "codigo": "U-5-106",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-107",
+        "cantidad": 9.0,
+        "codigo": "U-5-107",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-108",
+        "cantidad": 1.0,
+        "codigo": "U-5-108",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-109",
+        "cantidad": 2.0,
+        "codigo": "U-5-109",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-110",
+        "cantidad": 3.0,
+        "codigo": "U-5-110",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-111",
+        "cantidad": 4.0,
+        "codigo": "U-5-111",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-112",
+        "cantidad": 5.0,
+        "codigo": "U-5-112",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-113",
+        "cantidad": 6.0,
+        "codigo": "U-5-113",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-114",
+        "cantidad": 7.0,
+        "codigo": "U-5-114",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-115",
+        "cantidad": 8.0,
+        "codigo": "U-5-115",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-116",
+        "cantidad": 9.0,
+        "codigo": "U-5-116",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-117",
+        "cantidad": 1.0,
+        "codigo": "U-5-117",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-118",
+        "cantidad": 2.0,
+        "codigo": "U-5-118",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-119",
+        "cantidad": 3.0,
+        "codigo": "U-5-119",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-120",
+        "cantidad": 4.0,
+        "codigo": "U-5-120",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-121",
+        "cantidad": 5.0,
+        "codigo": "U-5-121",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-122",
+        "cantidad": 6.0,
+        "codigo": "U-5-122",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-123",
+        "cantidad": 7.0,
+        "codigo": "U-5-123",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-124",
+        "cantidad": 8.0,
+        "codigo": "U-5-124",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-125",
+        "cantidad": 9.0,
+        "codigo": "U-5-125",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-126",
+        "cantidad": 1.0,
+        "codigo": "U-5-126",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-127",
+        "cantidad": 2.0,
+        "codigo": "U-5-127",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-128",
+        "cantidad": 3.0,
+        "codigo": "U-5-128",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-129",
+        "cantidad": 4.0,
+        "codigo": "U-5-129",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-130",
+        "cantidad": 5.0,
+        "codigo": "U-5-130",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-131",
+        "cantidad": 6.0,
+        "codigo": "U-5-131",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-132",
+        "cantidad": 7.0,
+        "codigo": "U-5-132",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-133",
+        "cantidad": 8.0,
+        "codigo": "U-5-133",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-134",
+        "cantidad": 9.0,
+        "codigo": "U-5-134",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-135",
+        "cantidad": 1.0,
+        "codigo": "U-5-135",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-136",
+        "cantidad": 2.0,
+        "codigo": "U-5-136",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-137",
+        "cantidad": 3.0,
+        "codigo": "U-5-137",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-138",
+        "cantidad": 4.0,
+        "codigo": "U-5-138",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-139",
+        "cantidad": 5.0,
+        "codigo": "U-5-139",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-140",
+        "cantidad": 6.0,
+        "codigo": "U-5-140",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-141",
+        "cantidad": 7.0,
+        "codigo": "U-5-141",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-142",
+        "cantidad": 8.0,
+        "codigo": "U-5-142",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-143",
+        "cantidad": 9.0,
+        "codigo": "U-5-143",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-144",
+        "cantidad": 1.0,
+        "codigo": "U-5-144",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-145",
+        "cantidad": 2.0,
+        "codigo": "U-5-145",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-146",
+        "cantidad": 3.0,
+        "codigo": "U-5-146",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-147",
+        "cantidad": 4.0,
+        "codigo": "U-5-147",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-148",
+        "cantidad": 5.0,
+        "codigo": "U-5-148",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-149",
+        "cantidad": 6.0,
+        "codigo": "U-5-149",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-150",
+        "cantidad": 7.0,
+        "codigo": "U-5-150",
+        "material": "Cemento",
+        "overlap": false,
+        "fault_marker": true
+      },
+      {
+        "aggregate_id": "U-5-151",
+        "cantidad": 8.0,
+        "codigo": "U-5-151",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-152",
+        "cantidad": 9.0,
+        "codigo": "U-5-152",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-153",
+        "cantidad": 1.0,
+        "codigo": "U-5-153",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-154",
+        "cantidad": 2.0,
+        "codigo": "U-5-154",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-155",
+        "cantidad": 3.0,
+        "codigo": "U-5-155",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-156",
+        "cantidad": 4.0,
+        "codigo": "U-5-156",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-157",
+        "cantidad": 5.0,
+        "codigo": "U-5-157",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-158",
+        "cantidad": 6.0,
+        "codigo": "U-5-158",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-159",
+        "cantidad": 7.0,
+        "codigo": "U-5-159",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-160",
+        "cantidad": 8.0,
+        "codigo": "U-5-160",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-161",
+        "cantidad": 9.0,
+        "codigo": "U-5-161",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-162",
+        "cantidad": 1.0,
+        "codigo": "U-5-162",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-163",
+        "cantidad": 2.0,
+        "codigo": "U-5-163",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-164",
+        "cantidad": 3.0,
+        "codigo": "U-5-164",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-165",
+        "cantidad": 4.0,
+        "codigo": "U-5-165",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-166",
+        "cantidad": 5.0,
+        "codigo": "U-5-166",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-167",
+        "cantidad": 6.0,
+        "codigo": "U-5-167",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-168",
+        "cantidad": 7.0,
+        "codigo": "U-5-168",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "U-5-169",
+        "cantidad": 8.0,
+        "codigo": "U-5-169",
+        "material": "Cemento",
+        "overlap": false
+      },
+      {
+        "aggregate_id": "C-002",
+        "cantidad": 3.0,
+        "codigo": "C-002",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-003",
+        "cantidad": 2.0,
+        "codigo": "C-003",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-004",
+        "cantidad": 1.0,
+        "codigo": "C-004",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-007",
+        "cantidad": 3.0,
+        "codigo": "C-007",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-008",
+        "cantidad": 2.0,
+        "codigo": "C-008",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-009",
+        "cantidad": 1.0,
+        "codigo": "C-009",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-012",
+        "cantidad": 3.0,
+        "codigo": "C-012",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-013",
+        "cantidad": 2.0,
+        "codigo": "C-013",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-014",
+        "cantidad": 1.0,
+        "codigo": "C-014",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-017",
+        "cantidad": 3.0,
+        "codigo": "C-017",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-018",
+        "cantidad": 2.0,
+        "codigo": "C-018",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-019",
+        "cantidad": 1.0,
+        "codigo": "C-019",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-022",
+        "cantidad": 3.0,
+        "codigo": "C-022",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-023",
+        "cantidad": 2.0,
+        "codigo": "C-023",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-024",
+        "cantidad": 1.0,
+        "codigo": "C-024",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-027",
+        "cantidad": 3.0,
+        "codigo": "C-027",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-028",
+        "cantidad": 2.0,
+        "codigo": "C-028",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-029",
+        "cantidad": 1.0,
+        "codigo": "C-029",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-032",
+        "cantidad": 3.0,
+        "codigo": "C-032",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-033",
+        "cantidad": 2.0,
+        "codigo": "C-033",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-034",
+        "cantidad": 1.0,
+        "codigo": "C-034",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-037",
+        "cantidad": 3.0,
+        "codigo": "C-037",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-038",
+        "cantidad": 2.0,
+        "codigo": "C-038",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-039",
+        "cantidad": 1.0,
+        "codigo": "C-039",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-042",
+        "cantidad": 3.0,
+        "codigo": "C-042",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-043",
+        "cantidad": 2.0,
+        "codigo": "C-043",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-044",
+        "cantidad": 1.0,
+        "codigo": "C-044",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-047",
+        "cantidad": 3.0,
+        "codigo": "C-047",
+        "material": "Cemento",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-048",
+        "cantidad": 2.0,
+        "codigo": "C-048",
+        "material": "Acero",
+        "cancelar": false,
+        "overlap": true
+      },
+      {
+        "aggregate_id": "C-049",
+        "cantidad": 1.0,
+        "codigo": "C-049",
+        "material": "Arena",
+        "cancelar": false,
+        "overlap": true
+      }
+    ]
+  },
+  "expected": {
+    "operations": 1000,
+    "nodes": 5,
+    "overlap_operations": 150,
+    "fault_markers_per_node": [
+      50,
+      150
+    ]
+  }
+}
