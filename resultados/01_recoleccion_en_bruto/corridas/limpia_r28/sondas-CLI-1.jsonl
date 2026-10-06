@@ -1,0 +1,4 @@
+{"device_id": "CLI-1", "despues_de_op": 50, "resultado": "SIN_RED", "pendientes": 50, "duracion_ms": 3.149, "instante": "2026-10-06T13:03:39.614272+00:00"}
+{"device_id": "CLI-1", "despues_de_op": 100, "resultado": "SIN_RED", "pendientes": 100, "duracion_ms": 4.685, "instante": "2026-10-06T13:03:39.725099+00:00"}
+{"device_id": "CLI-1", "despues_de_op": 150, "resultado": "SIN_RED", "pendientes": 150, "duracion_ms": 4.69, "instante": "2026-10-06T13:03:39.827408+00:00"}
+{"device_id": "CLI-1", "despues_de_op": 200, "resultado": "SIN_RED", "pendientes": 200, "duracion_ms": 5.824, "instante": "2026-10-06T13:03:39.952422+00:00"}

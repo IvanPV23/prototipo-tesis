@@ -1,0 +1,16 @@
+{
+ "sistema_operativo": "Windows-10-10.0.19045-SP0",
+ "procesador": "AMD Ryzen 7 2700 Eight-Core Processor",
+ "nucleos_logicos": 16,
+ "python": "3.10.9",
+ "sqlite": "3.39.4",
+ "fastapi": "0.141.1",
+ "uvicorn": "0.53.0",
+ "sqlalchemy": "2.0.54",
+ "pydantic": "2.13.5",
+ "httpx": "0.28.1",
+ "red": "loopback 127.0.0.1 (misma máquina)",
+ "tamano_lote": 100,
+ "max_reintentos": 5,
+ "memoria_gb": 23.9
+}

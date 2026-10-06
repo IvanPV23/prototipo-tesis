@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "run_id": "limpia_r09",
+  "condicion": "limpia",
+  "repeticion": 9,
+  "semilla_dataset": 20260009,
+  "inicio": "2026-10-06T12:58:41.285520+00:00",
+  "fin": "2026-10-06T12:58:48.880608+00:00",
+  "puerto": 50713
+ },
+ "Do": {
+  "exitos": 1000,
+  "intentos": 1000,
+  "pct": 100.0,
+  "sondas": 20,
+  "sondas_sin_red": 20
+ },
+ "Id": {
+  "consistentes": 1000,
+  "transmitidos": 1000,
+  "pct": 100.0,
+  "fallas_por_criterio": {
+   "evento_conciliado_una_vez": 0,
+   "estado_central_igual_oraculo": 0,
+   "replicas_iguales_central": 0
+  }
+ },
+ "Tr": {
+  "movimientos_trazados": 930,
+  "movimientos": 930,
+  "pct": 100.0,
+  "eventos_con_bitacora": 1050,
+  "eventos_central": 1050,
+  "triggers": [
+   "bitacora_auditoria_no_delete",
+   "bitacora_auditoria_no_update",
+   "evento_sincronizacion_no_delete",
+   "evento_sincronizacion_no_update",
+   "movimiento_inventario_no_delete",
+   "movimiento_inventario_no_update"
+  ],
+  "rechazo_delete_append_only": {
+   "evento_sincronizacion": true,
+   "movimiento_inventario": true,
+   "bitacora_auditoria": true
+  }
+ },
+ "saldos": [
+  {
+   "item_id": "ACERO",
+   "stock_referencia": 4000.0,
+   "stock_esperado": 4789.0,
+   "stock_central": 4789.0,
+   "suma_movimientos": 789.0,
+   "invariante_ok": true,
+   "central_igual_oraculo": true,
+   "replicas_iguales_central": true,
+   "stock_replica_min": 4789.0,
+   "stock_replica_max": 4789.0
+  },
+  {
+   "item_id": "ARENA",
+   "stock_referencia": 3000.0,
+   "stock_esperado": 3731.0,
+   "stock_central": 3731.0,
+   "suma_movimientos": 731.0,
+   "invariante_ok": true,
+   "central_igual_oraculo": true,
+   "replicas_iguales_central": true,
+   "stock_replica_min": 3731.0,
+   "stock_replica_max": 3731.0
+  },
+  {
+   "item_id": "CABLE",
+   "stock_referencia": 2500.0,
+   "stock_esperado": 2259.0,
+   "stock_central": 2259.0,
+   "suma_movimientos": -241.0,
+   "invariante_ok": true,
+   "central_igual_oraculo": true,
+   "replicas_iguales_central": true,
+   "stock_replica_min": 2259.0,
+   "stock_replica_max": 2259.0
+  },
+  {
+   "item_id": "CEMENTO",
+   "stock_referencia": 5000.0,
+   "stock_esperado": 5948.0,
+   "stock_central": 5948.0,
+   "suma_movimientos": 948.0,
+   "invariante_ok": true,
+   "central_igual_oraculo": true,
+   "replicas_iguales_central": true,
+   "stock_replica_min": 5948.0,
+   "stock_replica_max": 5948.0
+  },
+  {
+   "item_id": "LADRILLO",
+   "stock_referencia": 8000.0,
+   "stock_esperado": 7917.0,
+   "stock_central": 7917.0,
+   "suma_movimientos": -83.0,
+   "invariante_ok": true,
+   "central_igual_oraculo": true,
+   "replicas_iguales_central": true,
+   "stock_replica_min": 7917.0,
+   "stock_replica_max": 7917.0
+  },
+  {
+   "item_id": "TUBO_PVC",
+   "stock_referencia": 1500.0,
+   "stock_esperado": 1320.0,
+   "stock_central": 1320.0,
+   "suma_movimientos": -180.0,
+   "invariante_ok": true,
+   "central_igual_oraculo": true,
+   "replicas_iguales_central": true,
+   "stock_replica_min": 1320.0,
+   "stock_replica_max": 1320.0
+  }
+ ],
+ "duplicidad": {
+  "eventos_central": 1050,
+  "eventos_esperados": 1050,
+  "movimientos": 930,
+  "movimientos_esperados": 930,
+  "eventos_duplicados": 0,
+  "movimientos_duplicados": 0
+ },
+ "convergencia": {
+  "hash_central": "51e9a0106bf751c92a13554a06724726ab926c4545b105ad9976ec2c93ea8ad3",
+  "replicas_convergentes": 5,
+  "replicas": 5,
+  "tiempo_convergencia_ms": 3823.65,
+  "tiempo_reconexion_push_ms": 2588.711
+ },
+ "crdt": {
+  "actualizaciones_concurrentes_resueltas": 100,
+  "conflictos_inmutables": 0,
+  "acciones_bitacora": {
+   "ANULACION": 30,
+   "CONCILIACION": 10,
+   "CORRECCION": 110,
+   "CREACION": 900
+  }
+ },
+ "resiliencia": {
+  "lotes": 10,
+  "lotes_confirmados": 10,
+  "fallas_inyectadas": 0,
+  "fallas_por_tipo": {},
+  "reintentos": 0,
+  "duplicados_detectados": 0,
+  "pendientes_finales": 0
+ }
+}

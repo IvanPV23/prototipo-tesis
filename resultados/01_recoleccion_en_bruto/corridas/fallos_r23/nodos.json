@@ -1,0 +1,464 @@
+[
+ {
+  "device": "CLI-1",
+  "ok": true,
+  "bootstrap": {
+   "eventos_fusionados": 50,
+   "conflictos": 0,
+   "last_seq": 50,
+   "duracion_ms": 55.089
+  },
+  "ep01_duracion_ms": 406.84,
+  "pendientes_antes_de_reconexion": 200,
+  "plan_fallas": {
+   "0": [
+    "POST_CONFIRMACION"
+   ],
+   "1": [
+    "PRE_ENVIO"
+   ]
+  },
+  "reconexion_inicio": 1791291750.424017,
+  "lotes": [
+   {
+    "tipo": "lote",
+    "lote_id": "270a97ae-8217-4c0c-8d26-cf18a6366a5b",
+    "device_id": "CLI-1",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:30.424016+00:00",
+    "confirmado_en": "2026-10-06T13:02:31.708711Z",
+    "latencia_e2e_ms": 1287.186,
+    "latencia_ultimo_intento_ms": 937.593,
+    "duracion_servidor_ms": 926.71,
+    "espera_cola_ms": 891.494,
+    "conciliacion_ms": 34.497,
+    "intentos": 2,
+    "aplicados": 0,
+    "duplicados": 100,
+    "conflictos": 0
+   },
+   {
+    "tipo": "lote",
+    "lote_id": "6d22cc7e-d8da-4290-ac89-5aaf2e58e3b5",
+    "device_id": "CLI-1",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:31.715757+00:00",
+    "confirmado_en": "2026-10-06T13:02:32.749385Z",
+    "latencia_e2e_ms": 1038.78,
+    "latencia_ultimo_intento_ms": 983.108,
+    "duracion_servidor_ms": 971.502,
+    "espera_cola_ms": 695.7,
+    "conciliacion_ms": 274.302,
+    "intentos": 2,
+    "aplicados": 100,
+    "duplicados": 0,
+    "conflictos": 0
+   }
+  ],
+  "push_duracion_ms": 2337.984,
+  "push_fin": 1791291752.7650142,
+  "fallas_inyectadas": [
+   {
+    "lote_id": "270a97ae-8217-4c0c-8d26-cf18a6366a5b",
+    "ordinal": 0,
+    "intento": 1,
+    "falla": "POST_CONFIRMACION"
+   },
+   {
+    "lote_id": "6d22cc7e-d8da-4290-ac89-5aaf2e58e3b5",
+    "ordinal": 1,
+    "intento": 1,
+    "falla": "PRE_ENVIO"
+   }
+  ],
+  "pendientes_despues_push": 0,
+  "pull": {
+   "eventos_fusionados": 800,
+   "conflictos": 0,
+   "last_seq": 1050,
+   "duracion_ms": 1237.274
+  },
+  "convergencia_fin": 1791291754.3775523,
+  "snapshot_hash": "58b6258ef19363f203243b53b6765d1364544237fef6c63db24e49eeef5a512d",
+  "stocks": {
+   "ACERO": 4540.0,
+   "ARENA": 3258.0,
+   "CABLE": 2894.0,
+   "CEMENTO": 5287.0,
+   "LADRILLO": 8157.0,
+   "TUBO_PVC": 1607.0
+  },
+  "n_vales": 900
+ },
+ {
+  "device": "CLI-2",
+  "ok": true,
+  "bootstrap": {
+   "eventos_fusionados": 50,
+   "conflictos": 0,
+   "last_seq": 50,
+   "duracion_ms": 52.835
+  },
+  "ep01_duracion_ms": 399.303,
+  "pendientes_antes_de_reconexion": 200,
+  "plan_fallas": {
+   "0": [
+    "PRE_ENVIO"
+   ],
+   "1": [
+    "CORTE_MITAD"
+   ]
+  },
+  "reconexion_inicio": 1791291750.424017,
+  "lotes": [
+   {
+    "tipo": "lote",
+    "lote_id": "6f3cae4c-1cfc-4232-8729-1c42e260d4d2",
+    "device_id": "CLI-2",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:30.424016+00:00",
+    "confirmado_en": "2026-10-06T13:02:31.425847Z",
+    "latencia_e2e_ms": 1015.925,
+    "latencia_ultimo_intento_ms": 943.182,
+    "duracion_servidor_ms": 915.589,
+    "espera_cola_ms": 641.46,
+    "conciliacion_ms": 273.345,
+    "intentos": 2,
+    "aplicados": 100,
+    "duplicados": 0,
+    "conflictos": 0
+   },
+   {
+    "tipo": "lote",
+    "lote_id": "5b51f251-fef7-4076-9418-e2bc25a6eb03",
+    "device_id": "CLI-2",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:31.441473+00:00",
+    "confirmado_en": "2026-10-06T13:02:32.237961Z",
+    "latencia_e2e_ms": 793.862,
+    "latencia_ultimo_intento_ms": 725.032,
+    "duracion_servidor_ms": 710.936,
+    "espera_cola_ms": 456.263,
+    "conciliacion_ms": 253.984,
+    "intentos": 2,
+    "aplicados": 100,
+    "duplicados": 0,
+    "conflictos": 0
+   }
+  ],
+  "push_duracion_ms": 1821.253,
+  "push_fin": 1791291752.2430398,
+  "fallas_inyectadas": [
+   {
+    "lote_id": "6f3cae4c-1cfc-4232-8729-1c42e260d4d2",
+    "ordinal": 0,
+    "intento": 1,
+    "falla": "PRE_ENVIO"
+   },
+   {
+    "lote_id": "5b51f251-fef7-4076-9418-e2bc25a6eb03",
+    "ordinal": 1,
+    "intento": 1,
+    "falla": "CORTE_MITAD"
+   }
+  ],
+  "pendientes_despues_push": 0,
+  "pull": {
+   "eventos_fusionados": 800,
+   "conflictos": 0,
+   "last_seq": 1050,
+   "duracion_ms": 1245.588
+  },
+  "convergencia_fin": 1791291754.3775523,
+  "snapshot_hash": "58b6258ef19363f203243b53b6765d1364544237fef6c63db24e49eeef5a512d",
+  "stocks": {
+   "ACERO": 4540.0,
+   "ARENA": 3258.0,
+   "CABLE": 2894.0,
+   "CEMENTO": 5287.0,
+   "LADRILLO": 8157.0,
+   "TUBO_PVC": 1607.0
+  },
+  "n_vales": 900
+ },
+ {
+  "device": "CLI-3",
+  "ok": true,
+  "bootstrap": {
+   "eventos_fusionados": 50,
+   "conflictos": 0,
+   "last_seq": 50,
+   "duracion_ms": 52.091
+  },
+  "ep01_duracion_ms": 411.318,
+  "pendientes_antes_de_reconexion": 200,
+  "plan_fallas": {
+   "0": [
+    "CORTE_MITAD"
+   ],
+   "1": [
+    "POST_CONFIRMACION"
+   ]
+  },
+  "reconexion_inicio": 1791291750.424017,
+  "lotes": [
+   {
+    "tipo": "lote",
+    "lote_id": "d446e758-7617-4b8d-8ad8-0e2408b170d8",
+    "device_id": "CLI-3",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:30.424016+00:00",
+    "confirmado_en": "2026-10-06T13:02:31.677457Z",
+    "latencia_e2e_ms": 1252.631,
+    "latencia_ultimo_intento_ms": 1179.865,
+    "duracion_servidor_ms": 1148.976,
+    "espera_cola_ms": 910.156,
+    "conciliacion_ms": 237.992,
+    "intentos": 2,
+    "aplicados": 100,
+    "duplicados": 0,
+    "conflictos": 0
+   },
+   {
+    "tipo": "lote",
+    "lote_id": "58a29018-5719-41d3-849f-783842efc68d",
+    "device_id": "CLI-3",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:31.677457+00:00",
+    "confirmado_en": "2026-10-06T13:02:32.813436Z",
+    "latencia_e2e_ms": 1129.798,
+    "latencia_ultimo_intento_ms": 279.96,
+    "duracion_servidor_ms": 269.156,
+    "espera_cola_ms": 239.989,
+    "conciliacion_ms": 28.463,
+    "intentos": 2,
+    "aplicados": 0,
+    "duplicados": 100,
+    "conflictos": 0
+   }
+  ],
+  "push_duracion_ms": 2393.72,
+  "push_fin": 1791291752.813437,
+  "fallas_inyectadas": [
+   {
+    "lote_id": "d446e758-7617-4b8d-8ad8-0e2408b170d8",
+    "ordinal": 0,
+    "intento": 1,
+    "falla": "CORTE_MITAD"
+   },
+   {
+    "lote_id": "58a29018-5719-41d3-849f-783842efc68d",
+    "ordinal": 1,
+    "intento": 1,
+    "falla": "POST_CONFIRMACION"
+   }
+  ],
+  "pendientes_despues_push": 0,
+  "pull": {
+   "eventos_fusionados": 800,
+   "conflictos": 0,
+   "last_seq": 1050,
+   "duracion_ms": 1094.32
+  },
+  "convergencia_fin": 1791291754.233415,
+  "snapshot_hash": "58b6258ef19363f203243b53b6765d1364544237fef6c63db24e49eeef5a512d",
+  "stocks": {
+   "ACERO": 4540.0,
+   "ARENA": 3258.0,
+   "CABLE": 2894.0,
+   "CEMENTO": 5287.0,
+   "LADRILLO": 8157.0,
+   "TUBO_PVC": 1607.0
+  },
+  "n_vales": 900
+ },
+ {
+  "device": "CLI-4",
+  "ok": true,
+  "bootstrap": {
+   "eventos_fusionados": 50,
+   "conflictos": 0,
+   "last_seq": 50,
+   "duracion_ms": 50.342
+  },
+  "ep01_duracion_ms": 403.732,
+  "pendientes_antes_de_reconexion": 200,
+  "plan_fallas": {
+   "0": [
+    "POST_CONFIRMACION",
+    "POST_CONFIRMACION"
+   ],
+   "1": [
+    "PRE_ENVIO"
+   ]
+  },
+  "reconexion_inicio": 1791291750.424017,
+  "lotes": [
+   {
+    "tipo": "lote",
+    "lote_id": "19b7809d-c424-4c20-a2cd-229099724a0c",
+    "device_id": "CLI-4",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:30.424016+00:00",
+    "confirmado_en": "2026-10-06T13:02:32.780641Z",
+    "latencia_e2e_ms": 2360.948,
+    "latencia_ultimo_intento_ms": 932.733,
+    "duracion_servidor_ms": 921.651,
+    "espera_cola_ms": 891.504,
+    "conciliacion_ms": 29.464,
+    "intentos": 3,
+    "aplicados": 0,
+    "duplicados": 100,
+    "conflictos": 0
+   },
+   {
+    "tipo": "lote",
+    "lote_id": "e82d29d9-2594-40d6-ac38-5a2686af5745",
+    "device_id": "CLI-4",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:32.780641+00:00",
+    "confirmado_en": "2026-10-06T13:02:33.136098Z",
+    "latencia_e2e_ms": 342.763,
+    "latencia_ultimo_intento_ms": 247.364,
+    "duracion_servidor_ms": 240.339,
+    "espera_cola_ms": 0.001,
+    "conciliacion_ms": 239.705,
+    "intentos": 2,
+    "aplicados": 100,
+    "duplicados": 0,
+    "conflictos": 0
+   }
+  ],
+  "push_duracion_ms": 2714.882,
+  "push_fin": 1791291753.1360989,
+  "fallas_inyectadas": [
+   {
+    "lote_id": "19b7809d-c424-4c20-a2cd-229099724a0c",
+    "ordinal": 0,
+    "intento": 1,
+    "falla": "POST_CONFIRMACION"
+   },
+   {
+    "lote_id": "19b7809d-c424-4c20-a2cd-229099724a0c",
+    "ordinal": 0,
+    "intento": 2,
+    "falla": "POST_CONFIRMACION"
+   },
+   {
+    "lote_id": "e82d29d9-2594-40d6-ac38-5a2686af5745",
+    "ordinal": 1,
+    "intento": 1,
+    "falla": "PRE_ENVIO"
+   }
+  ],
+  "pendientes_despues_push": 0,
+  "pull": {
+   "eventos_fusionados": 800,
+   "conflictos": 0,
+   "last_seq": 1050,
+   "duracion_ms": 865.095
+  },
+  "convergencia_fin": 1791291754.0014064,
+  "snapshot_hash": "58b6258ef19363f203243b53b6765d1364544237fef6c63db24e49eeef5a512d",
+  "stocks": {
+   "ACERO": 4540.0,
+   "ARENA": 3258.0,
+   "CABLE": 2894.0,
+   "CEMENTO": 5287.0,
+   "LADRILLO": 8157.0,
+   "TUBO_PVC": 1607.0
+  },
+  "n_vales": 900
+ },
+ {
+  "device": "CLI-5",
+  "ok": true,
+  "bootstrap": {
+   "eventos_fusionados": 50,
+   "conflictos": 0,
+   "last_seq": 50,
+   "duracion_ms": 49.378
+  },
+  "ep01_duracion_ms": 407.673,
+  "pendientes_antes_de_reconexion": 200,
+  "plan_fallas": {
+   "0": [
+    "PRE_ENVIO"
+   ],
+   "1": [
+    "CORTE_MITAD"
+   ]
+  },
+  "reconexion_inicio": 1791291750.424017,
+  "lotes": [
+   {
+    "tipo": "lote",
+    "lote_id": "1e09544e-38fb-44b7-95b4-bfc5f4f7e4e1",
+    "device_id": "CLI-5",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:30.424016+00:00",
+    "confirmado_en": "2026-10-06T13:02:31.165865Z",
+    "latencia_e2e_ms": 742.702,
+    "latencia_ultimo_intento_ms": 670.146,
+    "duracion_servidor_ms": 645.863,
+    "espera_cola_ms": 408.365,
+    "conciliacion_ms": 236.617,
+    "intentos": 2,
+    "aplicados": 100,
+    "duplicados": 0,
+    "conflictos": 0
+   },
+   {
+    "tipo": "lote",
+    "lote_id": "cef303fb-d953-4bbd-a56b-32e56499c74e",
+    "device_id": "CLI-5",
+    "n_vales": 100,
+    "enviado_en": "2026-10-06 13:02:31.165865+00:00",
+    "confirmado_en": "2026-10-06T13:02:31.983967Z",
+    "latencia_e2e_ms": 811.915,
+    "latencia_ultimo_intento_ms": 748.733,
+    "duracion_servidor_ms": 703.448,
+    "espera_cola_ms": 459.673,
+    "conciliacion_ms": 243.044,
+    "intentos": 2,
+    "aplicados": 100,
+    "duplicados": 0,
+    "conflictos": 0
+   }
+  ],
+  "push_duracion_ms": 1566.325,
+  "push_fin": 1791291751.983967,
+  "fallas_inyectadas": [
+   {
+    "lote_id": "1e09544e-38fb-44b7-95b4-bfc5f4f7e4e1",
+    "ordinal": 0,
+    "intento": 1,
+    "falla": "PRE_ENVIO"
+   },
+   {
+    "lote_id": "cef303fb-d953-4bbd-a56b-32e56499c74e",
+    "ordinal": 1,
+    "intento": 1,
+    "falla": "CORTE_MITAD"
+   }
+  ],
+  "pendientes_despues_push": 0,
+  "pull": {
+   "eventos_fusionados": 800,
+   "conflictos": 0,
+   "last_seq": 1050,
+   "duracion_ms": 1091.118
+  },
+  "convergencia_fin": 1791291754.233415,
+  "snapshot_hash": "58b6258ef19363f203243b53b6765d1364544237fef6c63db24e49eeef5a512d",
+  "stocks": {
+   "ACERO": 4540.0,
+   "ARENA": 3258.0,
+   "CABLE": 2894.0,
+   "CEMENTO": 5287.0,
+   "LADRILLO": 8157.0,
+   "TUBO_PVC": 1607.0
+  },
+  "n_vales": 900
+ }
+]

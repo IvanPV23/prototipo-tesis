@@ -1,0 +1,998 @@
+run_id,condicion,repeticion,device_id,lote_id,intento_num,n_vales,inicio,duracion_ms,resultado_http,error_tipo,falla_inyectada,error
+fallos_r01,fallos,1,CLI-1,cc3cf92d-3809-481c-86a1-f6a1d3256509,1,100,2026-10-06 12:56:48.694926+00:00,2.818,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r01,fallos,1,CLI-1,cc3cf92d-3809-481c-86a1-f6a1d3256509,2,100,2026-10-06 12:56:48.784877+00:00,975.911,200,,,
+fallos_r01,fallos,1,CLI-1,183473c0-5c3d-44d5-976a-dd1c47a17c1a,1,100,2026-10-06 12:56:49.756311+00:00,831.639,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r01,fallos,1,CLI-1,183473c0-5c3d-44d5-976a-dd1c47a17c1a,2,100,2026-10-06 12:56:50.688964+00:00,2.051,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r01,fallos,1,CLI-1,183473c0-5c3d-44d5-976a-dd1c47a17c1a,3,100,2026-10-06 12:56:50.806877+00:00,602.376,200,,,
+fallos_r01,fallos,1,CLI-2,5458b471-dc00-4d9a-a9f5-9c535b3a8571,1,100,2026-10-06 12:56:48.694926+00:00,520.93,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r01,fallos,1,CLI-2,5458b471-dc00-4d9a-a9f5-9c535b3a8571,2,100,2026-10-06 12:56:49.301349+00:00,787.616,200,,,
+fallos_r01,fallos,1,CLI-2,5f46f438-0a29-4dce-b659-de6485837f32,1,100,2026-10-06 12:56:50.088812+00:00,1.981,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r01,fallos,1,CLI-2,5f46f438-0a29-4dce-b659-de6485837f32,2,100,2026-10-06 12:56:50.187783+00:00,1192.072,200,,,
+fallos_r01,fallos,1,CLI-3,b3155d1b-8046-46f3-9f4f-b7e4b457552e,1,100,2026-10-06 12:56:48.694926+00:00,1.986,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r01,fallos,1,CLI-3,b3155d1b-8046-46f3-9f4f-b7e4b457552e,2,100,2026-10-06 12:56:48.784877+00:00,693.612,200,,,
+fallos_r01,fallos,1,CLI-3,f1d26f8f-4366-4cda-9705-02ffebaacb1d,1,100,2026-10-06 12:56:49.482710+00:00,2.75,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r01,fallos,1,CLI-3,f1d26f8f-4366-4cda-9705-02ffebaacb1d,2,100,2026-10-06 12:56:49.585043+00:00,760.604,200,,,
+fallos_r01,fallos,1,CLI-4,e83be14d-6bf4-4407-9cf2-641415638316,1,100,2026-10-06 12:56:48.694926+00:00,2.737,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r01,fallos,1,CLI-4,e83be14d-6bf4-4407-9cf2-641415638316,2,100,2026-10-06 12:56:48.784877+00:00,16.136,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r01,fallos,1,CLI-4,e83be14d-6bf4-4407-9cf2-641415638316,3,100,2026-10-06 12:56:49.000678+00:00,1022.707,200,,,
+fallos_r01,fallos,1,CLI-4,615a6284-e819-4906-b662-4ce9f620ec30,1,100,2026-10-06 12:56:50.022578+00:00,821.881,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r01,fallos,1,CLI-4,615a6284-e819-4906-b662-4ce9f620ec30,2,100,2026-10-06 12:56:50.905601+00:00,533.235,200,,,
+fallos_r01,fallos,1,CLI-5,8fb6a4a2-4bf0-46cd-8eb8-c3a9b409b1a0,1,100,2026-10-06 12:56:48.694926+00:00,271.637,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r01,fallos,1,CLI-5,8fb6a4a2-4bf0-46cd-8eb8-c3a9b409b1a0,2,100,2026-10-06 12:56:49.050569+00:00,1006.724,200,,,
+fallos_r01,fallos,1,CLI-5,66e1ecde-112d-4104-bc9c-a527d9532604,1,100,2026-10-06 12:56:50.055457+00:00,1.853,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r01,fallos,1,CLI-5,66e1ecde-112d-4104-bc9c-a527d9532604,2,100,2026-10-06 12:56:50.154232+00:00,980.313,200,,,
+fallos_r02,fallos,2,CLI-1,a70f6bb8-3bc1-4245-8ed9-2d31b584f839,1,100,2026-10-06 12:57:04.439520+00:00,298.023,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r02,fallos,2,CLI-1,a70f6bb8-3bc1-4245-8ed9-2d31b584f839,2,100,2026-10-06 12:57:04.839554+00:00,2.135,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r02,fallos,2,CLI-1,a70f6bb8-3bc1-4245-8ed9-2d31b584f839,3,100,2026-10-06 12:57:04.998861+00:00,787.465,200,,,
+fallos_r02,fallos,2,CLI-1,6d089ea3-7209-43a0-92ce-6ada174336cc,1,100,2026-10-06 12:57:05.782487+00:00,1.846,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r02,fallos,2,CLI-1,6d089ea3-7209-43a0-92ce-6ada174336cc,2,100,2026-10-06 12:57:05.841425+00:00,720.474,200,,,
+fallos_r02,fallos,2,CLI-2,62977f47-4da4-4732-8be5-7d6dc083e224,1,100,2026-10-06 12:57:04.440520+00:00,3.641,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r02,fallos,2,CLI-2,62977f47-4da4-4732-8be5-7d6dc083e224,2,100,2026-10-06 12:57:04.558794+00:00,2.128,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r02,fallos,2,CLI-2,62977f47-4da4-4732-8be5-7d6dc083e224,3,100,2026-10-06 12:57:04.717093+00:00,1039.03,200,,,
+fallos_r02,fallos,2,CLI-2,e14b7918-ed5a-46e6-a797-57704480a956,1,100,2026-10-06 12:57:05.751233+00:00,2.299,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r02,fallos,2,CLI-2,e14b7918-ed5a-46e6-a797-57704480a956,2,100,2026-10-06 12:57:05.825799+00:00,15.785,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r02,fallos,2,CLI-2,e14b7918-ed5a-46e6-a797-57704480a956,3,100,2026-10-06 12:57:05.984072+00:00,858.827,200,,,
+fallos_r02,fallos,2,CLI-3,202105a3-5d2a-4f67-9fc3-f3d0f7d532a8,1,100,2026-10-06 12:57:04.439520+00:00,3.095,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r02,fallos,2,CLI-3,202105a3-5d2a-4f67-9fc3-f3d0f7d532a8,2,100,2026-10-06 12:57:04.543168+00:00,685.425,200,,,
+fallos_r02,fallos,2,CLI-3,7fac533d-63a1-47ae-9056-d48425fde5ce,1,100,2026-10-06 12:57:05.224658+00:00,836.729,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r02,fallos,2,CLI-3,7fac533d-63a1-47ae-9056-d48425fde5ce,2,100,2026-10-06 12:57:06.143592+00:00,729.645,200,,,
+fallos_r02,fallos,2,CLI-4,00bcfa06-5e00-47a0-bb99-5a58a3b5eabc,1,100,2026-10-06 12:57:04.440520+00:00,541.364,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r02,fallos,2,CLI-4,00bcfa06-5e00-47a0-bb99-5a58a3b5eabc,2,100,2026-10-06 12:57:05.079516+00:00,737.289,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r02,fallos,2,CLI-4,00bcfa06-5e00-47a0-bb99-5a58a3b5eabc,3,100,2026-10-06 12:57:05.968443+00:00,623.05,200,,,
+fallos_r02,fallos,2,CLI-4,30180852-4f74-4803-8cce-0083976a0517,1,100,2026-10-06 12:57:06.583294+00:00,2.024,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r02,fallos,2,CLI-4,30180852-4f74-4803-8cce-0083976a0517,2,100,2026-10-06 12:57:06.658371+00:00,15.818,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r02,fallos,2,CLI-4,30180852-4f74-4803-8cce-0083976a0517,3,100,2026-10-06 12:57:06.827880+00:00,284.676,200,,,
+fallos_r02,fallos,2,CLI-5,80bf2905-fa07-4c17-ba5b-e5da99eda509,1,100,2026-10-06 12:57:04.440520+00:00,3.774,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r02,fallos,2,CLI-5,80bf2905-fa07-4c17-ba5b-e5da99eda509,2,100,2026-10-06 12:57:04.558794+00:00,955.448,200,,,
+fallos_r02,fallos,2,CLI-5,ca2f4222-fc8d-478c-bd55-c7062c087631,1,100,2026-10-06 12:57:05.517592+00:00,2.386,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r02,fallos,2,CLI-5,ca2f4222-fc8d-478c-bd55-c7062c087631,2,100,2026-10-06 12:57:05.595724+00:00,722.568,200,,,
+fallos_r03,fallos,3,CLI-1,99729a0a-7a1f-4f19-87fb-653574b50b5e,1,100,2026-10-06 12:57:19.652576+00:00,1.969,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r03,fallos,3,CLI-1,99729a0a-7a1f-4f19-87fb-653574b50b5e,2,100,2026-10-06 12:57:19.734882+00:00,936.39,200,,,
+fallos_r03,fallos,3,CLI-1,6a6f993a-e90c-4f06-af9e-893b92b94627,1,100,2026-10-06 12:57:20.674731+00:00,12.544,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r03,fallos,3,CLI-1,6a6f993a-e90c-4f06-af9e-893b92b94627,2,100,2026-10-06 12:57:20.769063+00:00,2.365,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r03,fallos,3,CLI-1,6a6f993a-e90c-4f06-af9e-893b92b94627,3,100,2026-10-06 12:57:20.904015+00:00,1042.52,200,,,
+fallos_r03,fallos,3,CLI-2,acd8aabb-d1ab-44e8-9d8f-d12ba62156ad,1,100,2026-10-06 12:57:19.652576+00:00,2.666,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r03,fallos,3,CLI-2,acd8aabb-d1ab-44e8-9d8f-d12ba62156ad,2,100,2026-10-06 12:57:19.734882+00:00,2.826,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r03,fallos,3,CLI-2,acd8aabb-d1ab-44e8-9d8f-d12ba62156ad,3,100,2026-10-06 12:57:19.886143+00:00,1002.837,200,,,
+fallos_r03,fallos,3,CLI-2,fc21a242-470c-4686-9feb-a96899839fad,1,100,2026-10-06 12:57:20.888370+00:00,797.491,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r03,fallos,3,CLI-2,fc21a242-470c-4686-9feb-a96899839fad,2,100,2026-10-06 12:57:21.765011+00:00,15.726,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r03,fallos,3,CLI-2,fc21a242-470c-4686-9feb-a96899839fad,3,100,2026-10-06 12:57:21.947227+00:00,303.325,200,,,
+fallos_r03,fallos,3,CLI-3,4ca94fb7-56d4-4774-8fac-0b325f240a46,1,100,2026-10-06 12:57:19.652576+00:00,277.957,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r03,fallos,3,CLI-3,4ca94fb7-56d4-4774-8fac-0b325f240a46,2,100,2026-10-06 12:57:19.996532+00:00,930.121,200,,,
+fallos_r03,fallos,3,CLI-3,3ce386e6-7e23-4e1c-9123-35cdb08dada9,1,100,2026-10-06 12:57:20.919640+00:00,1.854,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r03,fallos,3,CLI-3,3ce386e6-7e23-4e1c-9123-35cdb08dada9,2,100,2026-10-06 12:57:21.013397+00:00,1180.827,200,,,
+fallos_r03,fallos,3,CLI-4,76dcf711-c2ce-46b9-a92f-4f9bae1b37ad,1,100,2026-10-06 12:57:19.652576+00:00,1.977,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r03,fallos,3,CLI-4,76dcf711-c2ce-46b9-a92f-4f9bae1b37ad,2,100,2026-10-06 12:57:19.734882+00:00,703.398,200,,,
+fallos_r03,fallos,3,CLI-4,2d438c84-32c5-4c2e-809f-9f61cbb28b86,1,100,2026-10-06 12:57:20.432244+00:00,3.313,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r03,fallos,3,CLI-4,2d438c84-32c5-4c2e-809f-9f61cbb28b86,2,100,2026-10-06 12:57:20.528338+00:00,922.869,200,,,
+fallos_r03,fallos,3,CLI-5,a8c33fe2-9382-4b48-906a-557bb2913a35,1,100,2026-10-06 12:57:19.652576+00:00,2.727,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r03,fallos,3,CLI-5,a8c33fe2-9382-4b48-906a-557bb2913a35,2,100,2026-10-06 12:57:19.734882+00:00,436.076,200,,,
+fallos_r03,fallos,3,CLI-5,25af60e4-88b9-4be4-9e2d-7ab92bf147f2,1,100,2026-10-06 12:57:20.166965+00:00,995.474,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r03,fallos,3,CLI-5,25af60e4-88b9-4be4-9e2d-7ab92bf147f2,2,100,2026-10-06 12:57:21.245111+00:00,978.035,200,,,
+fallos_r04,fallos,4,CLI-1,57f73ff8-56e7-42a3-a909-867eb5e93ef3,1,100,2026-10-06 12:57:34.736972+00:00,2.427,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r04,fallos,4,CLI-1,57f73ff8-56e7-42a3-a909-867eb5e93ef3,2,100,2026-10-06 12:57:34.830731+00:00,957.382,200,,,
+fallos_r04,fallos,4,CLI-1,73229a0d-5eeb-43dc-adaa-4ad8c4bb5f48,1,100,2026-10-06 12:57:35.781762+00:00,797.055,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r04,fallos,4,CLI-1,73229a0d-5eeb-43dc-adaa-4ad8c4bb5f48,2,100,2026-10-06 12:57:36.648603+00:00,704.532,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r04,fallos,4,CLI-1,73229a0d-5eeb-43dc-adaa-4ad8c4bb5f48,3,100,2026-10-06 12:57:37.460150+00:00,35.531,200,,,
+fallos_r04,fallos,4,CLI-2,0738875f-fbef-44b0-8075-ece185f62d7f,1,100,2026-10-06 12:57:34.736972+00:00,519.574,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r04,fallos,4,CLI-2,0738875f-fbef-44b0-8075-ece185f62d7f,2,100,2026-10-06 12:57:35.353954+00:00,2.364,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r04,fallos,4,CLI-2,0738875f-fbef-44b0-8075-ece185f62d7f,3,100,2026-10-06 12:57:35.478963+00:00,617.324,200,,,
+fallos_r04,fallos,4,CLI-2,93d4ad1e-bee3-48ae-8ba4-7a96f817e7a9,1,100,2026-10-06 12:57:36.092818+00:00,2.017,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r04,fallos,4,CLI-2,93d4ad1e-bee3-48ae-8ba4-7a96f817e7a9,2,100,2026-10-06 12:57:36.155744+00:00,1169.135,200,,,
+fallos_r04,fallos,4,CLI-3,6fd81c93-37ac-4ec2-b7d9-e2ae828f42e9,1,100,2026-10-06 12:57:34.736972+00:00,2.048,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r04,fallos,4,CLI-3,6fd81c93-37ac-4ec2-b7d9-e2ae828f42e9,2,100,2026-10-06 12:57:34.830731+00:00,681.824,200,,,
+fallos_r04,fallos,4,CLI-3,892079c9-01ce-4c11-ba88-10bf8bead93b,1,100,2026-10-06 12:57:35.504801+00:00,2.603,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r04,fallos,4,CLI-3,892079c9-01ce-4c11-ba88-10bf8bead93b,2,100,2026-10-06 12:57:35.585451+00:00,761.001,200,,,
+fallos_r04,fallos,4,CLI-4,33a66768-34ef-424d-9112-660f07670937,1,100,2026-10-06 12:57:34.736972+00:00,2.39,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r04,fallos,4,CLI-4,33a66768-34ef-424d-9112-660f07670937,2,100,2026-10-06 12:57:34.830731+00:00,2.105,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r04,fallos,4,CLI-4,33a66768-34ef-424d-9112-660f07670937,3,100,2026-10-06 12:57:34.952759+00:00,1078.18,200,,,
+fallos_r04,fallos,4,CLI-4,4d78b0dc-ebfa-44f6-b4ec-21ce2b978b54,1,100,2026-10-06 12:57:36.026244+00:00,791.066,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r04,fallos,4,CLI-4,4d78b0dc-ebfa-44f6-b4ec-21ce2b978b54,2,100,2026-10-06 12:57:36.885179+00:00,496.254,200,,,
+fallos_r04,fallos,4,CLI-5,a6984d83-5491-4af8-bdf8-1aff88c8394d,1,100,2026-10-06 12:57:34.736972+00:00,272.97,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r04,fallos,4,CLI-5,a6984d83-5491-4af8-bdf8-1aff88c8394d,2,100,2026-10-06 12:57:35.092376+00:00,972.294,200,,,
+fallos_r04,fallos,4,CLI-5,03f477ab-66bf-414e-b711-c0640c4a589d,1,100,2026-10-06 12:57:36.061566+00:00,1.881,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r04,fallos,4,CLI-5,03f477ab-66bf-414e-b711-c0640c4a589d,2,100,2026-10-06 12:57:36.124071+00:00,958.03,200,,,
+fallos_r05,fallos,5,CLI-1,0d86fac7-80cc-47d4-bb51-b03742c37e45,1,100,2026-10-06 12:57:50.414940+00:00,519.866,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r05,fallos,5,CLI-1,0d86fac7-80cc-47d4-bb51-b03742c37e45,2,100,2026-10-06 12:57:51.047365+00:00,15.781,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r05,fallos,5,CLI-1,0d86fac7-80cc-47d4-bb51-b03742c37e45,3,100,2026-10-06 12:57:51.247982+00:00,824.819,200,,,
+fallos_r05,fallos,5,CLI-1,61adc4e3-514f-41a6-a09e-70f5a255c682,1,100,2026-10-06 12:57:52.065974+00:00,2.042,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r05,fallos,5,CLI-1,61adc4e3-514f-41a6-a09e-70f5a255c682,2,100,2026-10-06 12:57:52.175359+00:00,709.457,200,,,
+fallos_r05,fallos,5,CLI-2,9603f874-e8a6-41b3-8927-ebd69a9fad30,1,100,2026-10-06 12:57:50.414940+00:00,1.863,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r05,fallos,5,CLI-2,9603f874-e8a6-41b3-8927-ebd69a9fad30,2,100,2026-10-06 12:57:50.522316+00:00,1234.933,200,,,
+fallos_r05,fallos,5,CLI-2,c8126f45-804c-4bac-a366-2d20fc4b307a,1,100,2026-10-06 12:57:51.763990+00:00,2.409,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r05,fallos,5,CLI-2,c8126f45-804c-4bac-a366-2d20fc4b307a,2,100,2026-10-06 12:57:51.864803+00:00,498.942,200,,,
+fallos_r05,fallos,5,CLI-3,c53d088c-99fd-409e-9213-1b078e6bf2af,1,100,2026-10-06 12:57:50.414940+00:00,2.664,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r05,fallos,5,CLI-3,c53d088c-99fd-409e-9213-1b078e6bf2af,2,100,2026-10-06 12:57:50.522316+00:00,673.055,200,,,
+fallos_r05,fallos,5,CLI-3,52d876e8-6a97-4e18-8e57-005aaf78a874,1,100,2026-10-06 12:57:51.201103+00:00,836.13,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r05,fallos,5,CLI-3,52d876e8-6a97-4e18-8e57-005aaf78a874,2,100,2026-10-06 12:57:52.128482+00:00,2.256,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r05,fallos,5,CLI-3,52d876e8-6a97-4e18-8e57-005aaf78a874,3,100,2026-10-06 12:57:52.296931+00:00,885.88,200,,,
+fallos_r05,fallos,5,CLI-4,3767a0c0-0dc6-4e06-9165-8946e49d73f2,1,100,2026-10-06 12:57:50.414940+00:00,271.705,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r05,fallos,5,CLI-4,3767a0c0-0dc6-4e06-9165-8946e49d73f2,2,100,2026-10-06 12:57:50.799884+00:00,990.445,200,,,
+fallos_r05,fallos,5,CLI-4,0ea528ac-bb35-43f0-8af1-56778b6efc93,1,100,2026-10-06 12:57:51.786671+00:00,2.08,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r05,fallos,5,CLI-4,0ea528ac-bb35-43f0-8af1-56778b6efc93,2,100,2026-10-06 12:57:51.880431+00:00,2.538,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r05,fallos,5,CLI-4,0ea528ac-bb35-43f0-8af1-56778b6efc93,3,100,2026-10-06 12:57:52.049279+00:00,575.208,200,,,
+fallos_r05,fallos,5,CLI-5,d3e3ba1a-9af5-44da-999e-dfad2b69ada4,1,100,2026-10-06 12:57:50.414940+00:00,2.075,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r05,fallos,5,CLI-5,d3e3ba1a-9af5-44da-999e-dfad2b69ada4,2,100,2026-10-06 12:57:50.522316+00:00,973.956,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r05,fallos,5,CLI-5,d3e3ba1a-9af5-44da-999e-dfad2b69ada4,3,100,2026-10-06 12:57:51.685860+00:00,418.922,200,,,
+fallos_r05,fallos,5,CLI-5,d8a8e343-9df7-4e78-ac3b-e7d4897292a0,1,100,2026-10-06 12:57:52.097231+00:00,2.598,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r05,fallos,5,CLI-5,d8a8e343-9df7-4e78-ac3b-e7d4897292a0,2,100,2026-10-06 12:57:52.203173+00:00,951.456,200,,,
+fallos_r06,fallos,6,CLI-1,9bf4f2cc-533f-4977-8747-2c197b0a2813,1,100,2026-10-06 12:58:06.499525+00:00,2.07,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r06,fallos,6,CLI-1,9bf4f2cc-533f-4977-8747-2c197b0a2813,2,100,2026-10-06 12:58:06.593281+00:00,925.303,200,,,
+fallos_r06,fallos,6,CLI-1,ca40e9f6-de9f-4a5d-9f28-b8c7fb6112d7,1,100,2026-10-06 12:58:07.512795+00:00,2.421,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r06,fallos,6,CLI-1,ca40e9f6-de9f-4a5d-9f28-b8c7fb6112d7,2,100,2026-10-06 12:58:07.590927+00:00,744.921,200,,,
+fallos_r06,fallos,6,CLI-2,b4866e91-0f15-43f8-af9a-f465a03711ed,1,100,2026-10-06 12:58:06.499525+00:00,2.581,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r06,fallos,6,CLI-2,b4866e91-0f15-43f8-af9a-f465a03711ed,2,100,2026-10-06 12:58:06.593281+00:00,653.988,200,,,
+fallos_r06,fallos,6,CLI-2,df91d7a4-ddd5-4c7a-97da-17cc2f0b5891,1,100,2026-10-06 12:58:07.241251+00:00,832.195,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r06,fallos,6,CLI-2,df91d7a4-ddd5-4c7a-97da-17cc2f0b5891,2,100,2026-10-06 12:58:08.142547+00:00,744.497,200,,,
+fallos_r06,fallos,6,CLI-3,00f17f28-0824-4bca-afd3-5ea43cee5caf,1,100,2026-10-06 12:58:06.499525+00:00,271.638,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r06,fallos,6,CLI-3,00f17f28-0824-4bca-afd3-5ea43cee5caf,2,100,2026-10-06 12:58:06.869673+00:00,923.853,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r06,fallos,6,CLI-3,00f17f28-0824-4bca-afd3-5ea43cee5caf,3,100,2026-10-06 12:58:07.887943+00:00,969.549,200,,,
+fallos_r06,fallos,6,CLI-3,500e2553-2c81-4448-925d-0c67622e550f,1,100,2026-10-06 12:58:08.860011+00:00,1.835,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r06,fallos,6,CLI-3,500e2553-2c81-4448-925d-0c67622e550f,2,100,2026-10-06 12:58:08.965360+00:00,243.171,200,,,
+fallos_r06,fallos,6,CLI-4,929d74a0-436c-4e9c-8a3e-13c1dc963ce4,1,100,2026-10-06 12:58:06.499525+00:00,1.863,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r06,fallos,6,CLI-4,929d74a0-436c-4e9c-8a3e-13c1dc963ce4,2,100,2026-10-06 12:58:06.593281+00:00,2.848,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r06,fallos,6,CLI-4,929d74a0-436c-4e9c-8a3e-13c1dc963ce4,3,100,2026-10-06 12:58:06.700359+00:00,1060.455,200,,,
+fallos_r06,fallos,6,CLI-4,afedf184-03c9-474a-b776-90fae221ec49,1,100,2026-10-06 12:58:07.764975+00:00,2.456,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r06,fallos,6,CLI-4,afedf184-03c9-474a-b776-90fae221ec49,2,100,2026-10-06 12:58:07.872318+00:00,955.051,200,,,
+fallos_r06,fallos,6,CLI-5,cfba3688-2a06-4c3a-aa46-da73b99d4b17,1,100,2026-10-06 12:58:06.499525+00:00,2.59,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r06,fallos,6,CLI-5,cfba3688-2a06-4c3a-aa46-da73b99d4b17,2,100,2026-10-06 12:58:06.593281+00:00,419.178,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r06,fallos,6,CLI-5,cfba3688-2a06-4c3a-aa46-da73b99d4b17,3,100,2026-10-06 12:58:07.119291+00:00,705.895,200,,,
+fallos_r06,fallos,6,CLI-5,98f22373-4062-4373-93bb-0c1909f43836,1,100,2026-10-06 12:58:07.825434+00:00,743.636,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r06,fallos,6,CLI-5,98f22373-4062-4373-93bb-0c1909f43836,2,100,2026-10-06 12:58:08.675534+00:00,2.715,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r06,fallos,6,CLI-5,98f22373-4062-4373-93bb-0c1909f43836,3,100,2026-10-06 12:58:08.799933+00:00,114.312,200,,,
+fallos_r07,fallos,7,CLI-1,6c2c7c9a-91cc-4560-9fe7-c7ff2b6ca918,1,100,2026-10-06 12:58:21.895754+00:00,2.529,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r07,fallos,7,CLI-1,6c2c7c9a-91cc-4560-9fe7-c7ff2b6ca918,2,100,2026-10-06 12:58:21.958257+00:00,698.266,200,,,
+fallos_r07,fallos,7,CLI-1,fffc6378-b441-4dfd-b184-5459a3dae064,1,100,2026-10-06 12:58:22.650186+00:00,814.772,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r07,fallos,7,CLI-1,fffc6378-b441-4dfd-b184-5459a3dae064,2,100,2026-10-06 12:58:23.549494+00:00,541.841,200,,,
+fallos_r07,fallos,7,CLI-2,3531acfe-9260-4525-91bd-8db5664f30b9,1,100,2026-10-06 12:58:21.895754+00:00,510.902,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r07,fallos,7,CLI-2,3531acfe-9260-4525-91bd-8db5664f30b9,2,100,2026-10-06 12:58:22.481421+00:00,739.395,200,,,
+fallos_r07,fallos,7,CLI-2,1ccbc840-855b-49eb-8751-8b69e6d1a054,1,100,2026-10-06 12:58:23.222215+00:00,1.866,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r07,fallos,7,CLI-2,1ccbc840-855b-49eb-8751-8b69e6d1a054,2,100,2026-10-06 12:58:23.299024+00:00,698.421,200,,,
+fallos_r07,fallos,7,CLI-3,6aeba949-a855-4b46-9c2d-d32b997ca3b2,1,100,2026-10-06 12:58:21.895754+00:00,2.022,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r07,fallos,7,CLI-3,6aeba949-a855-4b46-9c2d-d32b997ca3b2,2,100,2026-10-06 12:58:21.958257+00:00,1202.86,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r07,fallos,7,CLI-3,6aeba949-a855-4b46-9c2d-d32b997ca3b2,3,100,2026-10-06 12:58:23.299024+00:00,727.18,200,,,
+fallos_r07,fallos,7,CLI-3,d58a247a-3037-4d7a-a093-994c298a9733,1,100,2026-10-06 12:58:24.024261+00:00,7.167,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r07,fallos,7,CLI-3,d58a247a-3037-4d7a-a093-994c298a9733,2,100,2026-10-06 12:58:24.144142+00:00,285.584,200,,,
+fallos_r07,fallos,7,CLI-4,9909f226-2a8c-46b4-8ae5-fad0f17b2a82,1,100,2026-10-06 12:58:21.895754+00:00,2.46,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r07,fallos,7,CLI-4,9909f226-2a8c-46b4-8ae5-fad0f17b2a82,2,100,2026-10-06 12:58:21.958257+00:00,968.299,200,,,
+fallos_r07,fallos,7,CLI-4,69f05c89-ab06-430c-932c-9b36c86def7c,1,100,2026-10-06 12:58:22.929361+00:00,818.094,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r07,fallos,7,CLI-4,69f05c89-ab06-430c-932c-9b36c86def7c,2,100,2026-10-06 12:58:23.822853+00:00,2.671,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r07,fallos,7,CLI-4,69f05c89-ab06-430c-932c-9b36c86def7c,3,100,2026-10-06 12:58:24.024261+00:00,95.149,200,,,
+fallos_r07,fallos,7,CLI-5,0a7f5452-b052-4ccb-86f0-9da259ef695d,1,100,2026-10-06 12:58:21.895754+00:00,271.8,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r07,fallos,7,CLI-5,0a7f5452-b052-4ccb-86f0-9da259ef695d,2,100,2026-10-06 12:58:22.232638+00:00,957.785,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r07,fallos,7,CLI-5,0a7f5452-b052-4ccb-86f0-9da259ef695d,3,100,2026-10-06 12:58:23.330275+00:00,730.924,200,,,
+fallos_r07,fallos,7,CLI-5,f2fab963-cc41-49c8-80fa-6ac9bd8ca320,1,100,2026-10-06 12:58:24.055515+00:00,1.93,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r07,fallos,7,CLI-5,f2fab963-cc41-49c8-80fa-6ac9bd8ca320,2,100,2026-10-06 12:58:24.174970+00:00,502.792,200,,,
+fallos_r08,fallos,8,CLI-1,f1a07aa7-549f-4ff7-a679-2202261e044b,1,100,2026-10-06 12:58:37.113400+00:00,499.704,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r08,fallos,8,CLI-1,f1a07aa7-549f-4ff7-a679-2202261e044b,2,100,2026-10-06 12:58:37.695479+00:00,1.998,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r08,fallos,8,CLI-1,f1a07aa7-549f-4ff7-a679-2202261e044b,3,100,2026-10-06 12:58:37.807908+00:00,616.588,200,,,
+fallos_r08,fallos,8,CLI-1,c6734320-892a-4f98-a649-3d1a6be8d592,1,100,2026-10-06 12:58:38.418528+00:00,2.069,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r08,fallos,8,CLI-1,c6734320-892a-4f98-a649-3d1a6be8d592,2,100,2026-10-06 12:58:38.481022+00:00,1209.969,200,,,
+fallos_r08,fallos,8,CLI-2,541ebad4-8d50-4024-8bf6-411ec6f04b3d,1,100,2026-10-06 12:58:37.113400+00:00,1.964,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r08,fallos,8,CLI-2,541ebad4-8d50-4024-8bf6-411ec6f04b3d,2,100,2026-10-06 12:58:37.191529+00:00,1168.922,200,,,
+fallos_r08,fallos,8,CLI-2,1c2474e9-3bde-43ec-a59c-274b01526f42,1,100,2026-10-06 12:58:38.356010+00:00,2.288,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r08,fallos,8,CLI-2,1c2474e9-3bde-43ec-a59c-274b01526f42,2,100,2026-10-06 12:58:38.418528+00:00,770.614,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r08,fallos,8,CLI-2,1c2474e9-3bde-43ec-a59c-274b01526f42,3,100,2026-10-06 12:58:39.318838+00:00,426.591,200,,,
+fallos_r08,fallos,8,CLI-3,d27061c1-ba0a-46bc-81c9-46651a182fb1,1,100,2026-10-06 12:58:37.113400+00:00,2.718,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r08,fallos,8,CLI-3,d27061c1-ba0a-46bc-81c9-46651a182fb1,2,100,2026-10-06 12:58:37.191529+00:00,931.894,200,,,
+fallos_r08,fallos,8,CLI-3,28007fbb-890e-4896-873e-3c77d0a846d6,1,100,2026-10-06 12:58:38.116776+00:00,791.533,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r08,fallos,8,CLI-3,28007fbb-890e-4896-873e-3c77d0a846d6,2,100,2026-10-06 12:58:38.977180+00:00,741.6,200,,,
+fallos_r08,fallos,8,CLI-4,d263ae26-0926-4c93-aa8f-5bd1cf43f43c,1,100,2026-10-06 12:58:37.113400+00:00,262.98,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r08,fallos,8,CLI-4,d263ae26-0926-4c93-aa8f-5bd1cf43f43c,2,100,2026-10-06 12:58:37.458661+00:00,932.774,200,,,
+fallos_r08,fallos,8,CLI-4,3c7026fc-6d0e-474d-8727-936b78b326ee,1,100,2026-10-06 12:58:38.387276+00:00,1.982,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r08,fallos,8,CLI-4,3c7026fc-6d0e-474d-8727-936b78b326ee,2,100,2026-10-06 12:58:38.449770+00:00,996.086,200,,,
+fallos_r08,fallos,8,CLI-5,eab911a5-1684-41e7-827a-dec2bc5b6f3f,1,100,2026-10-06 12:58:37.113400+00:00,1.986,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r08,fallos,8,CLI-5,eab911a5-1684-41e7-827a-dec2bc5b6f3f,2,100,2026-10-06 12:58:37.191529+00:00,663.7,200,,,
+fallos_r08,fallos,8,CLI-5,ddc3ce6a-95c3-412c-9aec-54a1a705236b,1,100,2026-10-06 12:58:37.854786+00:00,2.454,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r08,fallos,8,CLI-5,ddc3ce6a-95c3-412c-9aec-54a1a705236b,2,100,2026-10-06 12:58:37.914713+00:00,758.636,200,,,
+fallos_r09,fallos,9,CLI-1,f68d2979-aebb-438f-8e69-8fcf4c1e1d48,1,100,2026-10-06 12:58:52.394331+00:00,2.058,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r09,fallos,9,CLI-1,f68d2979-aebb-438f-8e69-8fcf4c1e1d48,2,100,2026-10-06 12:58:52.472461+00:00,2.194,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r09,fallos,9,CLI-1,f68d2979-aebb-438f-8e69-8fcf4c1e1d48,3,100,2026-10-06 12:58:52.610385+00:00,1080.258,200,,,
+fallos_r09,fallos,9,CLI-1,7a769ba5-06a7-4389-a30b-44f8962047f2,1,100,2026-10-06 12:58:53.690073+00:00,2.342,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r09,fallos,9,CLI-1,7a769ba5-06a7-4389-a30b-44f8962047f2,2,100,2026-10-06 12:58:53.765618+00:00,967.43,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r09,fallos,9,CLI-1,7a769ba5-06a7-4389-a30b-44f8962047f2,3,100,2026-10-06 12:58:54.953291+00:00,189.526,200,,,
+fallos_r09,fallos,9,CLI-2,5460b524-e48c-4979-b469-d97ee7048ef9,1,100,2026-10-06 12:58:52.394331+00:00,2.551,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r09,fallos,9,CLI-2,5460b524-e48c-4979-b469-d97ee7048ef9,2,100,2026-10-06 12:58:52.456834+00:00,485.254,200,,,
+fallos_r09,fallos,9,CLI-2,2ab51091-bc84-45be-af66-21381d039112,1,100,2026-10-06 12:58:52.948492+00:00,1017.47,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r09,fallos,9,CLI-2,2ab51091-bc84-45be-af66-21381d039112,2,100,2026-10-06 12:58:54.040468+00:00,2.316,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r09,fallos,9,CLI-2,2ab51091-bc84-45be-af66-21381d039112,3,100,2026-10-06 12:58:54.166324+00:00,650.847,200,,,
+fallos_r09,fallos,9,CLI-3,d3695be2-6ded-4d21-8850-92197c7c3416,1,100,2026-10-06 12:58:52.394331+00:00,277.079,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r09,fallos,9,CLI-3,d3695be2-6ded-4d21-8850-92197c7c3416,2,100,2026-10-06 12:58:52.747934+00:00,976.483,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r09,fallos,9,CLI-3,d3695be2-6ded-4d21-8850-92197c7c3416,3,100,2026-10-06 12:58:53.859376+00:00,910.218,200,,,
+fallos_r09,fallos,9,CLI-3,c1144e38-9253-4c13-9c05-b8c24322c4a7,1,100,2026-10-06 12:58:54.766377+00:00,3.783,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r09,fallos,9,CLI-3,c1144e38-9253-4c13-9c05-b8c24322c4a7,2,100,2026-10-06 12:58:54.844504+00:00,269.987,200,,,
+fallos_r09,fallos,9,CLI-4,e9e3f65d-1d7c-4666-89f9-38c2042d932a,1,100,2026-10-06 12:58:52.394331+00:00,2.072,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r09,fallos,9,CLI-4,e9e3f65d-1d7c-4666-89f9-38c2042d932a,2,100,2026-10-06 12:58:52.456834+00:00,2.086,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r09,fallos,9,CLI-4,e9e3f65d-1d7c-4666-89f9-38c2042d932a,3,100,2026-10-06 12:58:52.594759+00:00,845.259,200,,,
+fallos_r09,fallos,9,CLI-4,420888b4-2c32-4981-8e3e-6dc08323dc4b,1,100,2026-10-06 12:58:53.442958+00:00,12.339,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r09,fallos,9,CLI-4,420888b4-2c32-4981-8e3e-6dc08323dc4b,2,100,2026-10-06 12:58:53.521088+00:00,956.234,200,,,
+fallos_r09,fallos,9,CLI-5,bf978a19-d013-4f5b-84ad-97136b11c2ff,1,100,2026-10-06 12:58:52.394331+00:00,2.553,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r09,fallos,9,CLI-5,bf978a19-d013-4f5b-84ad-97136b11c2ff,2,100,2026-10-06 12:58:52.472461+00:00,704.302,200,,,
+fallos_r09,fallos,9,CLI-5,6116f93a-25c8-4f4b-9aca-27dfed7b2b51,1,100,2026-10-06 12:58:53.170732+00:00,1034.306,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r09,fallos,9,CLI-5,6116f93a-25c8-4f4b-9aca-27dfed7b2b51,2,100,2026-10-06 12:58:54.294380+00:00,550.618,200,,,
+fallos_r10,fallos,10,CLI-1,687ff23f-b586-425d-8fa6-c8e0bc9b9c73,1,100,2026-10-06 12:59:07.583040+00:00,2.582,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r10,fallos,10,CLI-1,687ff23f-b586-425d-8fa6-c8e0bc9b9c73,2,100,2026-10-06 12:59:07.645543+00:00,1216.634,200,,,
+fallos_r10,fallos,10,CLI-1,f01d3de9-fe4a-4910-9657-d54d5964fc87,1,100,2026-10-06 12:59:08.857799+00:00,589.132,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r10,fallos,10,CLI-1,f01d3de9-fe4a-4910-9657-d54d5964fc87,2,100,2026-10-06 12:59:09.546244+00:00,15.716,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r10,fallos,10,CLI-1,f01d3de9-fe4a-4910-9657-d54d5964fc87,3,100,2026-10-06 12:59:09.710884+00:00,519.274,200,,,
+fallos_r10,fallos,10,CLI-2,3a5be8dd-135a-4ddc-9633-3d5ea2cc4173,1,100,2026-10-06 12:59:07.583040+00:00,271.057,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r10,fallos,10,CLI-2,3a5be8dd-135a-4ddc-9633-3d5ea2cc4173,2,100,2026-10-06 12:59:07.908993+00:00,986.4,200,,,
+fallos_r10,fallos,10,CLI-2,7b56d9ae-15ba-4bbb-99fe-cbf0a828d7ce,1,100,2026-10-06 12:59:08.889069+00:00,1.853,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r10,fallos,10,CLI-2,7b56d9ae-15ba-4bbb-99fe-cbf0a828d7ce,2,100,2026-10-06 12:59:08.986341+00:00,715.193,200,,,
+fallos_r10,fallos,10,CLI-3,fb0cc1d8-6ce2-4a4e-870f-d09bf9f8610b,1,100,2026-10-06 12:59:07.583040+00:00,1.93,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r10,fallos,10,CLI-3,fb0cc1d8-6ce2-4a4e-870f-d09bf9f8610b,2,100,2026-10-06 12:59:07.645543+00:00,952.856,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r10,fallos,10,CLI-3,fb0cc1d8-6ce2-4a4e-870f-d09bf9f8610b,3,100,2026-10-06 12:59:08.762947+00:00,442.869,200,,,
+fallos_r10,fallos,10,CLI-3,3adb3ca8-0e0f-4a56-af62-e7f9ff15dc54,1,100,2026-10-06 12:59:09.201982+00:00,5.264,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r10,fallos,10,CLI-3,3adb3ca8-0e0f-4a56-af62-e7f9ff15dc54,2,100,2026-10-06 12:59:09.295739+00:00,907.311,200,,,
+fallos_r10,fallos,10,CLI-4,7d3612f3-4be2-4b23-ad86-13799b06a72a,1,100,2026-10-06 12:59:07.583040+00:00,2.678,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r10,fallos,10,CLI-4,7d3612f3-4be2-4b23-ad86-13799b06a72a,2,100,2026-10-06 12:59:07.645543+00:00,675.615,200,,,
+fallos_r10,fallos,10,CLI-4,1effc7b2-8419-4d7a-9cde-ff54d6007b34,1,100,2026-10-06 12:59:08.315021+00:00,846.944,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r10,fallos,10,CLI-4,1effc7b2-8419-4d7a-9cde-ff54d6007b34,2,100,2026-10-06 12:59:09.264486+00:00,708.773,200,,,
+fallos_r10,fallos,10,CLI-5,01ae3492-ec17-4a09-8c75-3ffb52d98e5f,1,100,2026-10-06 12:59:07.583040+00:00,503.507,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r10,fallos,10,CLI-5,01ae3492-ec17-4a09-8c75-3ffb52d98e5f,2,100,2026-10-06 12:59:08.144382+00:00,781.506,200,,,
+fallos_r10,fallos,10,CLI-5,79e815c8-42cc-40c2-aa26-52e8aa9ea688,1,100,2026-10-06 12:59:08.920305+00:00,1.866,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r10,fallos,10,CLI-5,79e815c8-42cc-40c2-aa26-52e8aa9ea688,2,100,2026-10-06 12:59:09.025133+00:00,919.58,200,,,
+fallos_r11,fallos,11,CLI-1,7ab2b424-57c4-4982-91ae-c4081636129a,1,100,2026-10-06 12:59:23.037164+00:00,498.861,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r11,fallos,11,CLI-1,7ab2b424-57c4-4982-91ae-c4081636129a,2,100,2026-10-06 12:59:23.597847+00:00,15.732,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r11,fallos,11,CLI-1,7ab2b424-57c4-4982-91ae-c4081636129a,3,100,2026-10-06 12:59:23.739431+00:00,604.504,200,,,
+fallos_r11,fallos,11,CLI-1,60475f39-c1cc-4cd0-ad27-e6a2c9b8a220,1,100,2026-10-06 12:59:24.337467+00:00,1.835,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r11,fallos,11,CLI-1,60475f39-c1cc-4cd0-ad27-e6a2c9b8a220,2,100,2026-10-06 12:59:24.431224+00:00,15.625,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r11,fallos,11,CLI-1,60475f39-c1cc-4cd0-ad27-e6a2c9b8a220,3,100,2026-10-06 12:59:24.664196+00:00,1029.415,200,,,
+fallos_r11,fallos,11,CLI-2,3ac0c886-b911-4212-b44f-40c6ab4f9326,1,100,2026-10-06 12:59:23.037164+00:00,2.017,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r11,fallos,11,CLI-2,3ac0c886-b911-4212-b44f-40c6ab4f9326,2,100,2026-10-06 12:59:23.106728+00:00,672.348,200,,,
+fallos_r11,fallos,11,CLI-2,5d9dc78e-418c-4c1e-b0c8-fad05c02e9f1,1,100,2026-10-06 12:59:23.770683+00:00,16.659,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r11,fallos,11,CLI-2,5d9dc78e-418c-4c1e-b0c8-fad05c02e9f1,2,100,2026-10-06 12:59:23.877489+00:00,719.234,200,,,
+fallos_r11,fallos,11,CLI-3,a5f1852b-cb5c-4a6d-b880-47522fa24701,1,100,2026-10-06 12:59:23.037164+00:00,2.685,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r11,fallos,11,CLI-3,a5f1852b-cb5c-4a6d-b880-47522fa24701,2,100,2026-10-06 12:59:23.106728+00:00,1173.003,200,,,
+fallos_r11,fallos,11,CLI-3,9a31a28d-024d-494a-b9f3-b4dd58a16891,1,100,2026-10-06 12:59:24.274961+00:00,815.636,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r11,fallos,11,CLI-3,9a31a28d-024d-494a-b9f3-b4dd58a16891,2,100,2026-10-06 12:59:25.167821+00:00,2.928,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r11,fallos,11,CLI-3,9a31a28d-024d-494a-b9f3-b4dd58a16891,3,100,2026-10-06 12:59:25.342750+00:00,408.495,200,,,
+fallos_r11,fallos,11,CLI-4,0c690a81-007f-45cc-850b-cef16bca1795,1,100,2026-10-06 12:59:23.037164+00:00,265.927,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r11,fallos,11,CLI-4,0c690a81-007f-45cc-850b-cef16bca1795,2,100,2026-10-06 12:59:23.371213+00:00,941.74,200,,,
+fallos_r11,fallos,11,CLI-4,c9f59dae-0d36-403b-9696-de1a39f2be99,1,100,2026-10-06 12:59:24.306216+00:00,1.814,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r11,fallos,11,CLI-4,c9f59dae-0d36-403b-9696-de1a39f2be99,2,100,2026-10-06 12:59:24.368721+00:00,1034.85,200,,,
+fallos_r11,fallos,11,CLI-5,e71d372e-2a32-43c9-8258-adbf073d4d90,1,100,2026-10-06 12:59:23.037164+00:00,2.083,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r11,fallos,11,CLI-5,e71d372e-2a32-43c9-8258-adbf073d4d90,2,100,2026-10-06 12:59:23.106728+00:00,934.459,200,,,
+fallos_r11,fallos,11,CLI-5,3d7c2e51-f824-4f76-987a-68887a643786,1,100,2026-10-06 12:59:24.046748+00:00,14.757,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r11,fallos,11,CLI-5,3d7c2e51-f824-4f76-987a-68887a643786,2,100,2026-10-06 12:59:24.124883+00:00,714.908,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r11,fallos,11,CLI-5,3d7c2e51-f824-4f76-987a-68887a643786,3,100,2026-10-06 12:59:25.005139+00:00,718.029,200,,,
+fallos_r12,fallos,12,CLI-1,f56e4d5d-b1f5-4d8f-bc14-3ce01c34d126,1,100,2026-10-06 12:59:38.711993+00:00,2.069,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r12,fallos,12,CLI-1,f56e4d5d-b1f5-4d8f-bc14-3ce01c34d126,2,100,2026-10-06 12:59:38.779555+00:00,2.806,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r12,fallos,12,CLI-1,f56e4d5d-b1f5-4d8f-bc14-3ce01c34d126,3,100,2026-10-06 12:59:38.927932+00:00,932.821,200,,,
+fallos_r12,fallos,12,CLI-1,a85d54ac-d177-49ca-96f2-f582b8e78a3d,1,100,2026-10-06 12:59:39.863299+00:00,11.833,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r12,fallos,12,CLI-1,a85d54ac-d177-49ca-96f2-f582b8e78a3d,2,100,2026-10-06 12:59:39.978465+00:00,999.962,200,,,
+fallos_r12,fallos,12,CLI-2,4ea9454d-2144-4dbd-b5c8-bff1c57608bc,1,100,2026-10-06 12:59:38.711993+00:00,14.76,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r12,fallos,12,CLI-2,4ea9454d-2144-4dbd-b5c8-bff1c57608bc,2,100,2026-10-06 12:59:38.795184+00:00,2.253,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r12,fallos,12,CLI-2,4ea9454d-2144-4dbd-b5c8-bff1c57608bc,3,100,2026-10-06 12:59:38.943558+00:00,1169.327,200,,,
+fallos_r12,fallos,12,CLI-2,7306d063-11bc-4a54-825e-c0bc723abcc4,1,100,2026-10-06 12:59:40.116088+00:00,1123.538,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r12,fallos,12,CLI-2,7306d063-11bc-4a54-825e-c0bc723abcc4,2,100,2026-10-06 12:59:41.337047+00:00,253.908,200,,,
+fallos_r12,fallos,12,CLI-3,8deff8f6-ac3e-4c89-873e-4b59e808710d,1,100,2026-10-06 12:59:38.711993+00:00,292.886,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r12,fallos,12,CLI-3,8deff8f6-ac3e-4c89-873e-4b59e808710d,2,100,2026-10-06 12:59:39.086869+00:00,1064.396,200,,,
+fallos_r12,fallos,12,CLI-3,c2151189-f75d-4d28-a7c0-3a197a03a380,1,100,2026-10-06 12:59:40.142723+00:00,2.304,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r12,fallos,12,CLI-3,c2151189-f75d-4d28-a7c0-3a197a03a380,2,100,2026-10-06 12:59:40.236484+00:00,1290.99,200,,,
+fallos_r12,fallos,12,CLI-4,a964d7d6-7313-4442-8bd8-c3f0d583c0d2,1,100,2026-10-06 12:59:38.711993+00:00,2.17,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r12,fallos,12,CLI-4,a964d7d6-7313-4442-8bd8-c3f0d583c0d2,2,100,2026-10-06 12:59:38.779555+00:00,493.08,200,,,
+fallos_r12,fallos,12,CLI-4,ba6c9d7f-c579-4b62-b75e-6b5b66423730,1,100,2026-10-06 12:59:39.267710+00:00,4.309,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r12,fallos,12,CLI-4,ba6c9d7f-c579-4b62-b75e-6b5b66423730,2,100,2026-10-06 12:59:39.361033+00:00,1083.951,200,,,
+fallos_r12,fallos,12,CLI-5,1df354a1-e1a8-4cae-a0a7-480ef3e7c1a0,1,100,2026-10-06 12:59:38.711993+00:00,3.041,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r12,fallos,12,CLI-5,1df354a1-e1a8-4cae-a0a7-480ef3e7c1a0,2,100,2026-10-06 12:59:38.779555+00:00,787.718,200,,,
+fallos_r12,fallos,12,CLI-5,fdfff940-fc2b-4ea3-a20c-532f40d38927,1,100,2026-10-06 12:59:39.569400+00:00,1134.573,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r12,fallos,12,CLI-5,fdfff940-fc2b-4ea3-a20c-532f40d38927,2,100,2026-10-06 12:59:40.780707+00:00,2.664,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r12,fallos,12,CLI-5,fdfff940-fc2b-4ea3-a20c-532f40d38927,3,100,2026-10-06 12:59:40.950722+00:00,610.999,200,,,
+fallos_r13,fallos,13,CLI-1,ac6042da-d7b2-432b-84fe-48397e962adc,1,100,2026-10-06 12:59:54.168052+00:00,5.466,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r13,fallos,13,CLI-1,ac6042da-d7b2-432b-84fe-48397e962adc,2,100,2026-10-06 12:59:54.278498+00:00,1150.895,200,,,
+fallos_r13,fallos,13,CLI-1,d2528c02-a089-4ed8-b9a6-1e2ed4ac97c9,1,100,2026-10-06 12:59:55.424046+00:00,913.045,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r13,fallos,13,CLI-1,d2528c02-a089-4ed8-b9a6-1e2ed4ac97c9,2,100,2026-10-06 12:59:56.421206+00:00,564.902,200,,,
+fallos_r13,fallos,13,CLI-2,2fe05be4-4165-4f9f-9414-450b70e0179d,1,100,2026-10-06 12:59:54.168052+00:00,501.177,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r13,fallos,13,CLI-2,2fe05be4-4165-4f9f-9414-450b70e0179d,2,100,2026-10-06 12:59:54.764445+00:00,2.104,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r13,fallos,13,CLI-2,2fe05be4-4165-4f9f-9414-450b70e0179d,3,100,2026-10-06 12:59:54.920706+00:00,573.48,200,,,
+fallos_r13,fallos,13,CLI-2,57aca7fb-04d9-4a43-86c6-70262c1019c2,1,100,2026-10-06 12:59:55.486554+00:00,2.08,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r13,fallos,13,CLI-2,57aca7fb-04d9-4a43-86c6-70262c1019c2,2,100,2026-10-06 12:59:55.613574+00:00,1285.53,200,,,
+fallos_r13,fallos,13,CLI-3,b91b3df8-bfa7-4373-adfa-82d8075409e3,1,100,2026-10-06 12:59:54.168052+00:00,2.078,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r13,fallos,13,CLI-3,b91b3df8-bfa7-4373-adfa-82d8075409e3,2,100,2026-10-06 12:59:54.262872+00:00,652.04,200,,,
+fallos_r13,fallos,13,CLI-3,e386a066-5a86-4d15-b9c0-1f6998224d02,1,100,2026-10-06 12:59:54.920706+00:00,2.344,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r13,fallos,13,CLI-3,e386a066-5a86-4d15-b9c0-1f6998224d02,2,100,2026-10-06 12:59:55.011902+00:00,737.277,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r13,fallos,13,CLI-3,e386a066-5a86-4d15-b9c0-1f6998224d02,3,100,2026-10-06 12:59:55.966471+00:00,961.963,200,,,
+fallos_r13,fallos,13,CLI-4,861ed949-a644-4971-9882-2f851be82ca9,1,100,2026-10-06 12:59:54.168052+00:00,2.654,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r13,fallos,13,CLI-4,861ed949-a644-4971-9882-2f851be82ca9,2,100,2026-10-06 12:59:54.262872+00:00,926.008,200,,,
+fallos_r13,fallos,13,CLI-4,eef419a5-d628-4326-b1db-653432cc052a,1,100,2026-10-06 12:59:55.182618+00:00,848.703,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r13,fallos,13,CLI-4,eef419a5-d628-4326-b1db-653432cc052a,2,100,2026-10-06 12:59:56.125930+00:00,832.731,200,,,
+fallos_r13,fallos,13,CLI-5,94211525-6833-4921-b8d7-fc7e7be4e741,1,100,2026-10-06 12:59:54.168052+00:00,269.68,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r13,fallos,13,CLI-5,94211525-6833-4921-b8d7-fc7e7be4e741,2,100,2026-10-06 12:59:54.535529+00:00,2.535,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r13,fallos,13,CLI-5,94211525-6833-4921-b8d7-fc7e7be4e741,3,100,2026-10-06 12:59:54.689432+00:00,773.921,200,,,
+fallos_r13,fallos,13,CLI-5,306aaaad-afb2-4bb8-872d-6335bfdf66f7,1,100,2026-10-06 12:59:55.455301+00:00,1.92,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r13,fallos,13,CLI-5,306aaaad-afb2-4bb8-872d-6335bfdf66f7,2,100,2026-10-06 12:59:55.582323+00:00,1067.339,200,,,
+fallos_r14,fallos,14,CLI-1,9b6839b1-5d45-4fba-bd93-1f17d69747c4,1,100,2026-10-06 13:00:10.934368+00:00,325.885,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r14,fallos,14,CLI-1,9b6839b1-5d45-4fba-bd93-1f17d69747c4,2,100,2026-10-06 13:00:11.341956+00:00,992.236,200,,,
+fallos_r14,fallos,14,CLI-1,2abacaf9-2fb7-437f-ab20-f936885974e8,1,100,2026-10-06 13:00:12.331104+00:00,1.825,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r14,fallos,14,CLI-1,2abacaf9-2fb7-437f-ab20-f936885974e8,2,100,2026-10-06 13:00:12.424862+00:00,917.723,200,,,
+fallos_r14,fallos,14,CLI-2,6a58da82-1987-4393-9d02-5731529fcc06,1,100,2026-10-06 13:00:10.934368+00:00,1.964,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r14,fallos,14,CLI-2,6a58da82-1987-4393-9d02-5731529fcc06,2,100,2026-10-06 13:00:11.012499+00:00,2.394,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r14,fallos,14,CLI-2,6a58da82-1987-4393-9d02-5731529fcc06,3,100,2026-10-06 13:00:11.209237+00:00,843.431,200,,,
+fallos_r14,fallos,14,CLI-2,e9840795-9daf-471b-9c10-14cc88e6dcd2,1,100,2026-10-06 13:00:12.064145+00:00,14.887,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r14,fallos,14,CLI-2,e9840795-9daf-471b-9c10-14cc88e6dcd2,2,100,2026-10-06 13:00:12.147825+00:00,507.081,200,,,
+fallos_r14,fallos,14,CLI-3,ad631411-9681-447c-b6ad-f6c7fd252ab2,1,100,2026-10-06 13:00:10.934368+00:00,2.773,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r14,fallos,14,CLI-3,ad631411-9681-447c-b6ad-f6c7fd252ab2,2,100,2026-10-06 13:00:11.012499+00:00,764.129,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r14,fallos,14,CLI-3,ad631411-9681-447c-b6ad-f6c7fd252ab2,3,100,2026-10-06 13:00:11.967930+00:00,430.658,200,,,
+fallos_r14,fallos,14,CLI-3,d8d202b4-2563-4fbd-aae1-195556371519,1,100,2026-10-06 13:00:12.393608+00:00,686.178,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r14,fallos,14,CLI-3,d8d202b4-2563-4fbd-aae1-195556371519,2,100,2026-10-06 13:00:13.148763+00:00,483.657,200,,,
+fallos_r14,fallos,14,CLI-4,abeb4fb2-730a-42ba-9727-eeb359efac14,1,100,2026-10-06 13:00:10.934368+00:00,585.211,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r14,fallos,14,CLI-4,abeb4fb2-730a-42ba-9727-eeb359efac14,2,100,2026-10-06 13:00:11.600465+00:00,763.789,200,,,
+fallos_r14,fallos,14,CLI-4,e6753b83-7058-4d20-aa22-96432bc3b8d9,1,100,2026-10-06 13:00:12.362355+00:00,1.89,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r14,fallos,14,CLI-4,e6753b83-7058-4d20-aa22-96432bc3b8d9,2,100,2026-10-06 13:00:12.465157+00:00,1138.775,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r14,fallos,14,CLI-4,e6753b83-7058-4d20-aa22-96432bc3b8d9,3,100,2026-10-06 13:00:13.715953+00:00,35.301,200,,,
+fallos_r14,fallos,14,CLI-5,ede42cca-d2fa-429a-8342-f3b3606b8cc2,1,100,2026-10-06 13:00:10.934368+00:00,2.161,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r14,fallos,14,CLI-5,ede42cca-d2fa-429a-8342-f3b3606b8cc2,2,100,2026-10-06 13:00:11.012499+00:00,2.395,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r14,fallos,14,CLI-5,ede42cca-d2fa-429a-8342-f3b3606b8cc2,3,100,2026-10-06 13:00:11.209237+00:00,1087.17,200,,,
+fallos_r14,fallos,14,CLI-5,5a250ebf-9d73-44c6-ac6c-da8b2da7ab5a,1,100,2026-10-06 13:00:12.299852+00:00,2.246,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r14,fallos,14,CLI-5,5a250ebf-9d73-44c6-ac6c-da8b2da7ab5a,2,100,2026-10-06 13:00:12.362355+00:00,517.06,200,,,
+fallos_r15,fallos,15,CLI-1,96d531ec-8d34-42d1-9160-d8bf45ad6b88,1,100,2026-10-06 13:00:27.187511+00:00,2.039,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r15,fallos,15,CLI-1,96d531ec-8d34-42d1-9160-d8bf45ad6b88,2,100,2026-10-06 13:00:27.262359+00:00,733.547,200,,,
+fallos_r15,fallos,15,CLI-1,a5d08aac-6693-4957-9e5f-02b0fa77d124,1,100,2026-10-06 13:00:27.988578+00:00,2.503,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r15,fallos,15,CLI-1,a5d08aac-6693-4957-9e5f-02b0fa77d124,2,100,2026-10-06 13:00:28.075717+00:00,1056.464,200,,,
+fallos_r15,fallos,15,CLI-2,0cf0a81d-0b2d-40ec-b81a-66f2c925d7b8,1,100,2026-10-06 13:00:27.187511+00:00,2.583,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r15,fallos,15,CLI-2,0cf0a81d-0b2d-40ec-b81a-66f2c925d7b8,2,100,2026-10-06 13:00:27.262359+00:00,1332.39,200,,,
+fallos_r15,fallos,15,CLI-2,2cfe3b6a-f3fb-494d-b5eb-a69882d8b64e,1,100,2026-10-06 13:00:28.588330+00:00,1026.353,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r15,fallos,15,CLI-2,2cfe3b6a-f3fb-494d-b5eb-a69882d8b64e,2,100,2026-10-06 13:00:29.682324+00:00,2.784,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r15,fallos,15,CLI-2,2cfe3b6a-f3fb-494d-b5eb-a69882d8b64e,3,100,2026-10-06 13:00:29.847299+00:00,82.439,200,,,
+fallos_r15,fallos,15,CLI-3,397098c4-850b-48e1-820e-497a02b8776f,1,100,2026-10-06 13:00:27.187511+00:00,263.93,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r15,fallos,15,CLI-3,397098c4-850b-48e1-820e-497a02b8776f,2,100,2026-10-06 13:00:27.524264+00:00,2.089,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r15,fallos,15,CLI-3,397098c4-850b-48e1-820e-497a02b8776f,3,100,2026-10-06 13:00:27.643576+00:00,990.545,200,,,
+fallos_r15,fallos,15,CLI-3,d6808cc9-c351-4506-a3fb-6ea6c2240b33,1,100,2026-10-06 13:00:28.635212+00:00,1.891,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r15,fallos,15,CLI-3,d6808cc9-c351-4506-a3fb-6ea6c2240b33,2,100,2026-10-06 13:00:28.728969+00:00,1145.078,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r15,fallos,15,CLI-3,d6808cc9-c351-4506-a3fb-6ea6c2240b33,3,100,2026-10-06 13:00:30.001201+00:00,34.18,200,,,
+fallos_r15,fallos,15,CLI-4,81367dd0-8e24-4fce-b4e9-95e33af18e52,1,100,2026-10-06 13:00:27.187511+00:00,1.89,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r15,fallos,15,CLI-4,81367dd0-8e24-4fce-b4e9-95e33af18e52,2,100,2026-10-06 13:00:27.262359+00:00,1036.187,200,,,
+fallos_r15,fallos,15,CLI-4,faac5604-d7dc-46fb-9b4e-da7541cbfc24,1,100,2026-10-06 13:00:28.300288+00:00,2.532,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r15,fallos,15,CLI-4,faac5604-d7dc-46fb-9b4e-da7541cbfc24,2,100,2026-10-06 13:00:28.363890+00:00,1012.925,200,,,
+fallos_r15,fallos,15,CLI-5,056728dd-ce20-4feb-8f1d-f4298ae3528f,1,100,2026-10-06 13:00:27.187511+00:00,2.663,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r15,fallos,15,CLI-5,056728dd-ce20-4feb-8f1d-f4298ae3528f,2,100,2026-10-06 13:00:27.262359+00:00,444.398,200,,,
+fallos_r15,fallos,15,CLI-5,01ecd78a-8fd1-47d0-b659-3dfb926d8787,1,100,2026-10-06 13:00:27.710106+00:00,1168.566,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r15,fallos,15,CLI-5,01ecd78a-8fd1-47d0-b659-3dfb926d8787,2,100,2026-10-06 13:00:28.938822+00:00,963.935,200,,,
+fallos_r16,fallos,16,CLI-1,9a849aa1-defb-465c-8d50-b0c0b4672b47,1,100,2026-10-06 13:00:42.610839+00:00,2.536,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r16,fallos,16,CLI-1,9a849aa1-defb-465c-8d50-b0c0b4672b47,2,100,2026-10-06 13:00:42.681356+00:00,696.289,200,,,
+fallos_r16,fallos,16,CLI-1,c0b154b6-0aca-40ed-a99b-48547ee0376d,1,100,2026-10-06 13:00:43.378150+00:00,800.164,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r16,fallos,16,CLI-1,c0b154b6-0aca-40ed-a99b-48547ee0376d,2,100,2026-10-06 13:00:44.287789+00:00,15.778,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r16,fallos,16,CLI-1,c0b154b6-0aca-40ed-a99b-48547ee0376d,3,100,2026-10-06 13:00:44.501741+00:00,728.492,200,,,
+fallos_r16,fallos,16,CLI-2,52be8aa0-7035-4c5a-b159-1c9086b394b7,1,100,2026-10-06 13:00:42.610839+00:00,274.426,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r16,fallos,16,CLI-2,52be8aa0-7035-4c5a-b159-1c9086b394b7,2,100,2026-10-06 13:00:42.947830+00:00,994.938,200,,,
+fallos_r16,fallos,16,CLI-2,c3d914ca-7d38-4563-a087-ff0db9a24a53,1,100,2026-10-06 13:00:43.948459+00:00,1.991,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r16,fallos,16,CLI-2,c3d914ca-7d38-4563-a087-ff0db9a24a53,2,100,2026-10-06 13:00:44.055027+00:00,914.852,200,,,
+fallos_r16,fallos,16,CLI-3,65c13b7c-5704-4cee-8600-00f50ad02f76,1,100,2026-10-06 13:00:42.610839+00:00,1.918,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r16,fallos,16,CLI-3,65c13b7c-5704-4cee-8600-00f50ad02f76,2,100,2026-10-06 13:00:42.681356+00:00,980.462,200,,,
+fallos_r16,fallos,16,CLI-3,0b5678ac-1a8b-4e1f-9896-2cd159560712,1,100,2026-10-06 13:00:43.666210+00:00,2.791,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r16,fallos,16,CLI-3,0b5678ac-1a8b-4e1f-9896-2cd159560712,2,100,2026-10-06 13:00:43.766522+00:00,694.29,200,,,
+fallos_r16,fallos,16,CLI-4,099eee15-a42c-40cf-8af2-d4a79d17b05c,1,100,2026-10-06 13:00:42.610839+00:00,9.936,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r16,fallos,16,CLI-4,099eee15-a42c-40cf-8af2-d4a79d17b05c,2,100,2026-10-06 13:00:42.696982+00:00,1209.379,200,,,
+fallos_r16,fallos,16,CLI-4,14003242-d292-40a8-892a-1a31df885e07,1,100,2026-10-06 13:00:43.901576+00:00,795.909,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r16,fallos,16,CLI-4,14003242-d292-40a8-892a-1a31df885e07,2,100,2026-10-06 13:00:44.811036+00:00,445.894,200,,,
+fallos_r16,fallos,16,CLI-5,01fdaae5-25d0-454c-b93e-9280e000dc2c,1,100,2026-10-06 13:00:42.610839+00:00,508.891,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r16,fallos,16,CLI-5,01fdaae5-25d0-454c-b93e-9280e000dc2c,2,100,2026-10-06 13:00:43.189628+00:00,2.151,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r16,fallos,16,CLI-5,01fdaae5-25d0-454c-b93e-9280e000dc2c,3,100,2026-10-06 13:00:43.406828+00:00,808.369,200,,,
+fallos_r16,fallos,16,CLI-5,9670dda9-0510-4f37-b24e-7a26c4d8bb36,1,100,2026-10-06 13:00:44.209658+00:00,1.853,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r16,fallos,16,CLI-5,9670dda9-0510-4f37-b24e-7a26c4d8bb36,2,100,2026-10-06 13:00:44.303416+00:00,897.344,200,,,
+fallos_r17,fallos,17,CLI-1,970c537d-15e3-4a52-86cc-958969bd8183,1,100,2026-10-06 13:00:58.075976+00:00,280.769,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r17,fallos,17,CLI-1,970c537d-15e3-4a52-86cc-958969bd8183,2,100,2026-10-06 13:00:58.447940+00:00,962.803,200,,,
+fallos_r17,fallos,17,CLI-1,f4b2d39c-6e4c-4698-ac94-aed7122ce197,1,100,2026-10-06 13:00:59.407240+00:00,1.869,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r17,fallos,17,CLI-1,f4b2d39c-6e4c-4698-ac94-aed7122ce197,2,100,2026-10-06 13:00:59.469744+00:00,2.529,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r17,fallos,17,CLI-1,f4b2d39c-6e4c-4698-ac94-aed7122ce197,3,100,2026-10-06 13:00:59.590810+00:00,830.254,200,,,
+fallos_r17,fallos,17,CLI-2,05b2fdb5-4042-4ae1-be57-2b96d4aacc53,1,100,2026-10-06 13:00:58.075976+00:00,1.972,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r17,fallos,17,CLI-2,05b2fdb5-4042-4ae1-be57-2b96d4aacc53,2,100,2026-10-06 13:00:58.169278+00:00,683.245,200,,,
+fallos_r17,fallos,17,CLI-2,b0413746-5605-4376-9a90-0245f730406f,1,100,2026-10-06 13:00:58.849057+00:00,5.995,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r17,fallos,17,CLI-2,b0413746-5605-4376-9a90-0245f730406f,2,100,2026-10-06 13:00:58.940398+00:00,2.55,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r17,fallos,17,CLI-2,b0413746-5605-4376-9a90-0245f730406f,3,100,2026-10-06 13:00:59.050398+00:00,641.897,200,,,
+fallos_r17,fallos,17,CLI-3,e71256c1-4571-471e-bd28-5dbffeb27082,1,100,2026-10-06 13:00:58.075976+00:00,2.553,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r17,fallos,17,CLI-3,e71256c1-4571-471e-bd28-5dbffeb27082,2,100,2026-10-06 13:00:58.169278+00:00,950.985,200,,,
+fallos_r17,fallos,17,CLI-3,280a513d-ca66-4250-b77b-f4f889bd1b3c,1,100,2026-10-06 13:00:59.122968+00:00,799.272,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r17,fallos,17,CLI-3,280a513d-ca66-4250-b77b-f4f889bd1b3c,2,100,2026-10-06 13:00:59.993976+00:00,15.801,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r17,fallos,17,CLI-3,280a513d-ca66-4250-b77b-f4f889bd1b3c,3,100,2026-10-06 13:01:00.130214+00:00,563.085,200,,,
+fallos_r17,fallos,17,CLI-4,08b0c4ba-e193-4762-9d15-30f27cd86f79,1,100,2026-10-06 13:00:58.075976+00:00,535.318,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r17,fallos,17,CLI-4,08b0c4ba-e193-4762-9d15-30f27cd86f79,2,100,2026-10-06 13:00:58.692796+00:00,1.953,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r17,fallos,17,CLI-4,08b0c4ba-e193-4762-9d15-30f27cd86f79,3,100,2026-10-06 13:00:58.817820+00:00,626.565,200,,,
+fallos_r17,fallos,17,CLI-4,ab9d7fdf-8371-44ec-84db-19196a57bf3b,1,100,2026-10-06 13:00:59.438492+00:00,1.916,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r17,fallos,17,CLI-4,ab9d7fdf-8371-44ec-84db-19196a57bf3b,2,100,2026-10-06 13:00:59.497053+00:00,2.321,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r17,fallos,17,CLI-4,ab9d7fdf-8371-44ec-84db-19196a57bf3b,3,100,2026-10-06 13:00:59.697823+00:00,968.066,200,,,
+fallos_r17,fallos,17,CLI-5,26186f46-e6e2-42a8-9c00-72cbc7e2df0c,1,100,2026-10-06 13:00:58.075976+00:00,1.962,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r17,fallos,17,CLI-5,26186f46-e6e2-42a8-9c00-72cbc7e2df0c,2,100,2026-10-06 13:00:58.169278+00:00,3.618,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r17,fallos,17,CLI-5,26186f46-e6e2-42a8-9c00-72cbc7e2df0c,3,100,2026-10-06 13:00:58.291677+00:00,1081.465,200,,,
+fallos_r17,fallos,17,CLI-5,fb4acdf3-8379-417e-8187-a78d642fd09d,1,100,2026-10-06 13:00:59.375988+00:00,2.478,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r17,fallos,17,CLI-5,fb4acdf3-8379-417e-8187-a78d642fd09d,2,100,2026-10-06 13:00:59.438492+00:00,742.228,200,,,
+fallos_r18,fallos,18,CLI-1,f2b6ae99-e3da-4f2b-a9a6-556b179a2c31,1,100,2026-10-06 13:01:13.118518+00:00,2.015,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r18,fallos,18,CLI-1,f2b6ae99-e3da-4f2b-a9a6-556b179a2c31,2,100,2026-10-06 13:01:13.194362+00:00,669.392,200,,,
+fallos_r18,fallos,18,CLI-1,4f26fa8b-b1b8-4a5c-a935-39ccc9cefb27,1,100,2026-10-06 13:01:13.857049+00:00,2.68,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r18,fallos,18,CLI-1,4f26fa8b-b1b8-4a5c-a935-39ccc9cefb27,2,100,2026-10-06 13:01:13.948195+00:00,1037.6,200,,,
+fallos_r18,fallos,18,CLI-2,0d89eea3-8da3-4253-aba1-5ab8d56217d8,1,100,2026-10-06 13:01:13.118518+00:00,2.54,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r18,fallos,18,CLI-2,0d89eea3-8da3-4253-aba1-5ab8d56217d8,2,100,2026-10-06 13:01:13.194362+00:00,428.495,200,,,
+fallos_r18,fallos,18,CLI-2,7ae33638-53b6-4338-8f04-0232d0e4fee5,1,100,2026-10-06 13:01:13.616326+00:00,1106.189,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r18,fallos,18,CLI-2,7ae33638-53b6-4338-8f04-0232d0e4fee5,2,100,2026-10-06 13:01:14.800762+00:00,958.584,200,,,
+fallos_r18,fallos,18,CLI-3,7379b157-5463-4434-aca1-b585a2d02fbc,1,100,2026-10-06 13:01:13.118518+00:00,267.317,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r18,fallos,18,CLI-3,7379b157-5463-4434-aca1-b585a2d02fbc,2,100,2026-10-06 13:01:13.457442+00:00,982.611,200,,,
+fallos_r18,fallos,18,CLI-3,084fe79e-2be4-4f1f-88d8-96c70b461b6a,1,100,2026-10-06 13:01:14.434396+00:00,2.137,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r18,fallos,18,CLI-3,084fe79e-2be4-4f1f-88d8-96c70b461b6a,2,100,2026-10-06 13:01:14.512527+00:00,2.475,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r18,fallos,18,CLI-3,084fe79e-2be4-4f1f-88d8-96c70b461b6a,3,100,2026-10-06 13:01:14.715614+00:00,1014.316,200,,,
+fallos_r18,fallos,18,CLI-4,3de486d0-3ea1-45d3-879b-03c70382da17,1,100,2026-10-06 13:01:13.118518+00:00,2.208,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r18,fallos,18,CLI-4,3de486d0-3ea1-45d3-879b-03c70382da17,2,100,2026-10-06 13:01:13.194362+00:00,954.77,200,,,
+fallos_r18,fallos,18,CLI-4,9b5ff77a-6c9b-4b6b-9c1c-a22991243a44,1,100,2026-10-06 13:01:14.143010+00:00,3.194,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r18,fallos,18,CLI-4,9b5ff77a-6c9b-4b6b-9c1c-a22991243a44,2,100,2026-10-06 13:01:14.241805+00:00,987.092,200,,,
+fallos_r18,fallos,18,CLI-5,e5471e16-181f-4420-bd67-4818dc1c7f16,1,100,2026-10-06 13:01:13.118518+00:00,2.616,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r18,fallos,18,CLI-5,e5471e16-181f-4420-bd67-4818dc1c7f16,2,100,2026-10-06 13:01:13.194362+00:00,1207.819,200,,,
+fallos_r18,fallos,18,CLI-5,f0738225-5e48-48de-9faf-5ed552cae552,1,100,2026-10-06 13:01:14.396976+00:00,1073.648,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r18,fallos,18,CLI-5,f0738225-5e48-48de-9faf-5ed552cae552,2,100,2026-10-06 13:01:15.561208+00:00,226.888,200,,,
+fallos_r19,fallos,19,CLI-1,d8e7e9ab-027f-4537-90d0-bbbef00a8d53,1,100,2026-10-06 13:01:28.428865+00:00,12.531,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r19,fallos,19,CLI-1,d8e7e9ab-027f-4537-90d0-bbbef00a8d53,2,100,2026-10-06 13:01:28.522621+00:00,1196.126,200,,,
+fallos_r19,fallos,19,CLI-1,8cf5c126-6fa6-4f9c-a407-f09bfaa9b63e,1,100,2026-10-06 13:01:29.724286+00:00,637.381,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r19,fallos,19,CLI-1,8cf5c126-6fa6-4f9c-a407-f09bfaa9b63e,2,100,2026-10-06 13:01:30.448545+00:00,683.911,200,,,
+fallos_r19,fallos,19,CLI-2,19c8e010-4a18-4d2a-ae4f-fa1f3835afed,1,100,2026-10-06 13:01:28.428865+00:00,302.557,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r19,fallos,19,CLI-2,19c8e010-4a18-4d2a-ae4f-fa1f3835afed,2,100,2026-10-06 13:01:28.813422+00:00,2.205,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r19,fallos,19,CLI-2,19c8e010-4a18-4d2a-ae4f-fa1f3835afed,3,100,2026-10-06 13:01:28.998384+00:00,752.878,200,,,
+fallos_r19,fallos,19,CLI-2,164b0570-6476-4caf-bcba-1d5b992a1895,1,100,2026-10-06 13:01:29.755528+00:00,1.832,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r19,fallos,19,CLI-2,164b0570-6476-4caf-bcba-1d5b992a1895,2,100,2026-10-06 13:01:29.862703+00:00,1003.011,200,,,
+fallos_r19,fallos,19,CLI-3,d1821d6b-7848-48b1-af1c-eef61e75a717,1,100,2026-10-06 13:01:28.428865+00:00,2.067,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r19,fallos,19,CLI-3,d1821d6b-7848-48b1-af1c-eef61e75a717,2,100,2026-10-06 13:01:28.506995+00:00,969.141,200,,,
+fallos_r19,fallos,19,CLI-3,f5d7257d-bdfa-4638-aae0-83755d88b071,1,100,2026-10-06 13:01:29.476302+00:00,9.49,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r19,fallos,19,CLI-3,f5d7257d-bdfa-4638-aae0-83755d88b071,2,100,2026-10-06 13:01:29.599282+00:00,467.932,200,,,
+fallos_r19,fallos,19,CLI-4,597410ea-00ea-41ab-b8db-afaf87f6827e,1,100,2026-10-06 13:01:28.428865+00:00,2.665,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r19,fallos,19,CLI-4,597410ea-00ea-41ab-b8db-afaf87f6827e,2,100,2026-10-06 13:01:28.506995+00:00,710.209,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r19,fallos,19,CLI-4,597410ea-00ea-41ab-b8db-afaf87f6827e,3,100,2026-10-06 13:01:29.399425+00:00,414.74,200,,,
+fallos_r19,fallos,19,CLI-4,efe91ca7-03e9-4bcc-b4c3-7a2fc4d2066b,1,100,2026-10-06 13:01:29.815826+00:00,795.426,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r19,fallos,19,CLI-4,efe91ca7-03e9-4bcc-b4c3-7a2fc4d2066b,2,100,2026-10-06 13:01:30.719649+00:00,440.304,200,,,
+fallos_r19,fallos,19,CLI-5,d6b0e1d3-6630-4869-a16c-f836a7f1d919,1,100,2026-10-06 13:01:28.428865+00:00,537.415,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r19,fallos,19,CLI-5,d6b0e1d3-6630-4869-a16c-f836a7f1d919,2,100,2026-10-06 13:01:29.045262+00:00,738.162,200,,,
+fallos_r19,fallos,19,CLI-5,fafd88ce-a292-480e-9808-d24e8f66c1b7,1,100,2026-10-06 13:01:29.784570+00:00,1.824,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r19,fallos,19,CLI-5,fafd88ce-a292-480e-9808-d24e8f66c1b7,2,100,2026-10-06 13:01:29.878330+00:00,1225.424,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r19,fallos,19,CLI-5,fafd88ce-a292-480e-9808-d24e8f66c1b7,3,100,2026-10-06 13:01:31.311732+00:00,34.742,200,,,
+fallos_r20,fallos,20,CLI-1,d6581a9f-114e-45bc-a9e0-2594a8af241b,1,100,2026-10-06 13:01:44.434584+00:00,281.469,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r20,fallos,20,CLI-1,d6581a9f-114e-45bc-a9e0-2594a8af241b,2,100,2026-10-06 13:01:44.795763+00:00,941.286,200,,,
+fallos_r20,fallos,20,CLI-1,42dc7f8b-2c73-42a2-951f-64f82de5117a,1,100,2026-10-06 13:01:45.732053+00:00,1.849,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r20,fallos,20,CLI-1,42dc7f8b-2c73-42a2-951f-64f82de5117a,2,100,2026-10-06 13:01:45.841435+00:00,2.575,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r20,fallos,20,CLI-1,42dc7f8b-2c73-42a2-951f-64f82de5117a,3,100,2026-10-06 13:01:46.006763+00:00,313.351,200,,,
+fallos_r20,fallos,20,CLI-2,36433c90-0553-4f4b-83d1-85888e304d0f,1,100,2026-10-06 13:01:44.434584+00:00,1.877,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r20,fallos,20,CLI-2,36433c90-0553-4f4b-83d1-85888e304d0f,2,100,2026-10-06 13:01:44.517651+00:00,1187.717,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r20,fallos,20,CLI-2,36433c90-0553-4f4b-83d1-85888e304d0f,3,100,2026-10-06 13:01:45.913006+00:00,158.278,200,,,
+fallos_r20,fallos,20,CLI-2,4a226fd2-259f-435e-abd0-e492a666a0ac,1,100,2026-10-06 13:01:46.069267+00:00,19.937,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r20,fallos,20,CLI-2,4a226fd2-259f-435e-abd0-e492a666a0ac,2,100,2026-10-06 13:01:46.191163+00:00,854.723,200,,,
+fallos_r20,fallos,20,CLI-3,587a6201-f774-4bb1-85c3-a99ec4c293be,1,100,2026-10-06 13:01:44.434584+00:00,6.678,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r20,fallos,20,CLI-3,587a6201-f774-4bb1-85c3-a99ec4c293be,2,100,2026-10-06 13:01:44.517651+00:00,919.367,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r20,fallos,20,CLI-3,587a6201-f774-4bb1-85c3-a99ec4c293be,3,100,2026-10-06 13:01:45.642831+00:00,391.162,200,,,
+fallos_r20,fallos,20,CLI-3,32cb3a8b-1669-4238-8eec-c75a6130e051,1,100,2026-10-06 13:01:46.038014+00:00,769.701,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r20,fallos,20,CLI-3,32cb3a8b-1669-4238-8eec-c75a6130e051,2,100,2026-10-06 13:01:46.898681+00:00,2.19,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r20,fallos,20,CLI-3,32cb3a8b-1669-4238-8eec-c75a6130e051,3,100,2026-10-06 13:01:47.057652+00:00,33.816,200,,,
+fallos_r20,fallos,20,CLI-4,fc8359d4-5bad-45f7-b1af-da924420590f,1,100,2026-10-06 13:01:44.434584+00:00,518.621,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r20,fallos,20,CLI-4,fc8359d4-5bad-45f7-b1af-da924420590f,2,100,2026-10-06 13:01:45.034107+00:00,733.352,200,,,
+fallos_r20,fallos,20,CLI-4,962364a1-825a-48e0-890b-e28307cfa10d,1,100,2026-10-06 13:01:45.763305+00:00,1.862,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r20,fallos,20,CLI-4,962364a1-825a-48e0-890b-e28307cfa10d,2,100,2026-10-06 13:01:45.872687+00:00,2.023,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r20,fallos,20,CLI-4,962364a1-825a-48e0-890b-e28307cfa10d,3,100,2026-10-06 13:01:46.038014+00:00,522.598,200,,,
+fallos_r20,fallos,20,CLI-5,ed827ce5-8fbf-4415-92b7-de0e138df604,1,100,2026-10-06 13:01:44.434584+00:00,1.927,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r20,fallos,20,CLI-5,ed827ce5-8fbf-4415-92b7-de0e138df604,2,100,2026-10-06 13:01:44.517651+00:00,681.725,200,,,
+fallos_r20,fallos,20,CLI-5,8c8bb360-5ef5-4a16-8424-962b24b8cdb3,1,100,2026-10-06 13:01:45.193183+00:00,2.623,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r20,fallos,20,CLI-5,8c8bb360-5ef5-4a16-8424-962b24b8cdb3,2,100,2026-10-06 13:01:45.311660+00:00,2.66,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r20,fallos,20,CLI-5,8c8bb360-5ef5-4a16-8424-962b24b8cdb3,3,100,2026-10-06 13:01:45.477925+00:00,522.099,200,,,
+fallos_r21,fallos,21,CLI-1,0045a59c-7a68-4e01-9ccb-13d722e4ec41,1,100,2026-10-06 13:01:59.640939+00:00,2.026,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r21,fallos,21,CLI-1,0045a59c-7a68-4e01-9ccb-13d722e4ec41,2,100,2026-10-06 13:01:59.732490+00:00,437.669,200,,,
+fallos_r21,fallos,21,CLI-1,f9f626e7-4c90-4484-8c20-3beda8078662,1,100,2026-10-06 13:02:00.164108+00:00,2.424,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r21,fallos,21,CLI-1,f9f626e7-4c90-4484-8c20-3beda8078662,2,100,2026-10-06 13:02:00.255899+00:00,949.22,200,,,
+fallos_r21,fallos,21,CLI-2,126eb741-ed27-4d0c-8c94-96b50944e0e5,1,100,2026-10-06 13:01:59.640939+00:00,4.507,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r21,fallos,21,CLI-2,126eb741-ed27-4d0c-8c94-96b50944e0e5,2,100,2026-10-06 13:01:59.748118+00:00,2.041,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r21,fallos,21,CLI-2,126eb741-ed27-4d0c-8c94-96b50944e0e5,3,100,2026-10-06 13:01:59.888751+00:00,1020.775,200,,,
+fallos_r21,fallos,21,CLI-2,8ae11cab-8cab-466d-9d6a-d48e3d36cf7d,1,100,2026-10-06 13:02:00.909126+00:00,1037.544,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r21,fallos,21,CLI-2,8ae11cab-8cab-466d-9d6a-d48e3d36cf7d,2,100,2026-10-06 13:02:02.062637+00:00,200.795,200,,,
+fallos_r21,fallos,21,CLI-3,e0fe6111-01e3-4ccd-a1f0-395d30d0472f,1,100,2026-10-06 13:01:59.640939+00:00,278.308,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r21,fallos,21,CLI-3,e0fe6111-01e3-4ccd-a1f0-395d30d0472f,2,100,2026-10-06 13:02:00.011120+00:00,936.185,200,,,
+fallos_r21,fallos,21,CLI-3,df6991cf-3b83-4b47-939a-e58731e63064,1,100,2026-10-06 13:02:00.950946+00:00,1.935,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r21,fallos,21,CLI-3,df6991cf-3b83-4b47-939a-e58731e63064,2,100,2026-10-06 13:02:01.029077+00:00,2.519,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r21,fallos,21,CLI-3,df6991cf-3b83-4b47-939a-e58731e63064,3,100,2026-10-06 13:02:01.234169+00:00,970.675,200,,,
+fallos_r21,fallos,21,CLI-4,73d4f3b0-2cf4-4452-ad32-9eb052d96f5d,1,100,2026-10-06 13:01:59.640939+00:00,2.018,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r21,fallos,21,CLI-4,73d4f3b0-2cf4-4452-ad32-9eb052d96f5d,2,100,2026-10-06 13:01:59.732490+00:00,701.557,200,,,
+fallos_r21,fallos,21,CLI-4,bd3a582f-d642-4b88-89b1-848803a800c9,1,100,2026-10-06 13:02:00.428824+00:00,2.271,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r21,fallos,21,CLI-4,bd3a582f-d642-4b88-89b1-848803a800c9,2,100,2026-10-06 13:02:00.506955+00:00,954.911,200,,,
+fallos_r21,fallos,21,CLI-5,fbd4c1bc-1db8-42d2-905f-b94c08ff9f98,1,100,2026-10-06 13:01:59.640939+00:00,2.687,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r21,fallos,21,CLI-5,fbd4c1bc-1db8-42d2-905f-b94c08ff9f98,2,100,2026-10-06 13:01:59.732490+00:00,938.477,200,,,
+fallos_r21,fallos,21,CLI-5,92f9f5ec-7ddf-456a-ace9-828c230d94a0,1,100,2026-10-06 13:02:00.662509+00:00,1026.66,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r21,fallos,21,CLI-5,92f9f5ec-7ddf-456a-ace9-828c230d94a0,2,100,2026-10-06 13:02:01.768836+00:00,466.203,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r21,fallos,21,CLI-5,92f9f5ec-7ddf-456a-ace9-828c230d94a0,3,100,2026-10-06 13:02:02.432862+00:00,35.499,200,,,
+fallos_r22,fallos,22,CLI-1,e76cf746-230a-46f8-9dc8-e4fd75eb5f4d,1,100,2026-10-06 13:02:15.113771+00:00,2.675,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r22,fallos,22,CLI-1,e76cf746-230a-46f8-9dc8-e4fd75eb5f4d,2,100,2026-10-06 13:02:15.220080+00:00,925.234,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r22,fallos,22,CLI-1,e76cf746-230a-46f8-9dc8-e4fd75eb5f4d,3,100,2026-10-06 13:02:16.270058+00:00,466.664,200,,,
+fallos_r22,fallos,22,CLI-1,164c5bcc-f101-4958-9b1c-ff9d39464d01,1,100,2026-10-06 13:02:16.731996+00:00,1018.78,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r22,fallos,22,CLI-1,164c5bcc-f101-4958-9b1c-ff9d39464d01,2,100,2026-10-06 13:02:17.841449+00:00,34.856,200,,,
+fallos_r22,fallos,22,CLI-2,e716698e-33a0-4048-b7c3-a291d679efd2,1,100,2026-10-06 13:02:15.113771+00:00,505.805,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r22,fallos,22,CLI-2,e716698e-33a0-4048-b7c3-a291d679efd2,2,100,2026-10-06 13:02:15.718270+00:00,729.59,200,,,
+fallos_r22,fallos,22,CLI-2,e8740311-f516-4694-8c57-e565f523208c,1,100,2026-10-06 13:02:16.441200+00:00,1.956,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r22,fallos,22,CLI-2,e8740311-f516-4694-8c57-e565f523208c,2,100,2026-10-06 13:02:16.534956+00:00,975.341,200,,,
+fallos_r22,fallos,22,CLI-3,d4673634-d5fb-4389-907d-ba780d9bb80c,1,100,2026-10-06 13:02:15.113771+00:00,2.152,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r22,fallos,22,CLI-3,d4673634-d5fb-4389-907d-ba780d9bb80c,2,100,2026-10-06 13:02:15.220080+00:00,2.019,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r22,fallos,22,CLI-3,d4673634-d5fb-4389-907d-ba780d9bb80c,3,100,2026-10-06 13:02:15.373715+00:00,1009.901,200,,,
+fallos_r22,fallos,22,CLI-3,7ca57575-9ead-42ad-9b02-6326016c38ad,1,100,2026-10-06 13:02:16.378691+00:00,2.357,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r22,fallos,22,CLI-3,7ca57575-9ead-42ad-9b02-6326016c38ad,2,100,2026-10-06 13:02:16.472452+00:00,528.955,200,,,
+fallos_r22,fallos,22,CLI-4,7d2c2f84-289d-42db-a9f7-dea633491763,1,100,2026-10-06 13:02:15.113771+00:00,2.561,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r22,fallos,22,CLI-4,7d2c2f84-289d-42db-a9f7-dea633491763,2,100,2026-10-06 13:02:15.220080+00:00,656.654,200,,,
+fallos_r22,fallos,22,CLI-4,d76a5053-be9b-4c50-9626-457d29a036d1,1,100,2026-10-06 13:02:15.869966+00:00,821.903,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r22,fallos,22,CLI-4,d76a5053-be9b-4c50-9626-457d29a036d1,2,100,2026-10-06 13:02:16.776809+00:00,1014.508,200,,,
+fallos_r22,fallos,22,CLI-5,b8ad0fd9-d8e1-43cc-9197-14bfec56527e,1,100,2026-10-06 13:02:15.113771+00:00,269.412,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r22,fallos,22,CLI-5,b8ad0fd9-d8e1-43cc-9197-14bfec56527e,2,100,2026-10-06 13:02:15.483096+00:00,933.599,200,,,
+fallos_r22,fallos,22,CLI-5,8297e797-a100-45e3-a5c0-839b3ae4f6f7,1,100,2026-10-06 13:02:16.409948+00:00,1.894,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r22,fallos,22,CLI-5,8297e797-a100-45e3-a5c0-839b3ae4f6f7,2,100,2026-10-06 13:02:16.503704+00:00,741.828,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r22,fallos,22,CLI-5,8297e797-a100-45e3-a5c0-839b3ae4f6f7,3,100,2026-10-06 13:02:17.409850+00:00,408.97,200,,,
+fallos_r23,fallos,23,CLI-1,270a97ae-8217-4c0c-8d26-cf18a6366a5b,1,100,2026-10-06 13:02:30.424016+00:00,269.529,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r23,fallos,23,CLI-1,270a97ae-8217-4c0c-8d26-cf18a6366a5b,2,100,2026-10-06 13:02:30.778856+00:00,937.593,200,,,
+fallos_r23,fallos,23,CLI-1,6d22cc7e-d8da-4290-ac89-5aaf2e58e3b5,1,100,2026-10-06 13:02:31.715757+00:00,2.039,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r23,fallos,23,CLI-1,6d22cc7e-d8da-4290-ac89-5aaf2e58e3b5,2,100,2026-10-06 13:02:31.778265+00:00,983.108,200,,,
+fallos_r23,fallos,23,CLI-2,6f3cae4c-1cfc-4232-8729-1c42e260d4d2,1,100,2026-10-06 13:02:30.424016+00:00,1.931,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r23,fallos,23,CLI-2,6f3cae4c-1cfc-4232-8729-1c42e260d4d2,2,100,2026-10-06 13:02:30.502147+00:00,943.182,200,,,
+fallos_r23,fallos,23,CLI-2,5b51f251-fef7-4076-9418-e2bc25a6eb03,1,100,2026-10-06 13:02:31.441473+00:00,5.65,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r23,fallos,23,CLI-2,5b51f251-fef7-4076-9418-e2bc25a6eb03,2,100,2026-10-06 13:02:31.519605+00:00,725.032,200,,,
+fallos_r23,fallos,23,CLI-3,d446e758-7617-4b8d-8ad8-0e2408b170d8,1,100,2026-10-06 13:02:30.424016+00:00,2.706,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r23,fallos,23,CLI-3,d446e758-7617-4b8d-8ad8-0e2408b170d8,2,100,2026-10-06 13:02:30.502147+00:00,1179.865,200,,,
+fallos_r23,fallos,23,CLI-3,58a29018-5719-41d3-849f-783842efc68d,1,100,2026-10-06 13:02:31.677457+00:00,800.195,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r23,fallos,23,CLI-3,58a29018-5719-41d3-849f-783842efc68d,2,100,2026-10-06 13:02:32.537560+00:00,279.96,200,,,
+fallos_r23,fallos,23,CLI-4,19b7809d-c424-4c20-a2cd-229099724a0c,1,100,2026-10-06 13:02:30.424016+00:00,504.583,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r23,fallos,23,CLI-4,19b7809d-c424-4c20-a2cd-229099724a0c,2,100,2026-10-06 13:02:31.009995+00:00,736.611,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r23,fallos,23,CLI-4,19b7809d-c424-4c20-a2cd-229099724a0c,3,100,2026-10-06 13:02:31.857946+00:00,932.733,200,,,
+fallos_r23,fallos,23,CLI-4,e82d29d9-2594-40d6-ac38-5a2686af5745,1,100,2026-10-06 13:02:32.796804+00:00,2.001,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r23,fallos,23,CLI-4,e82d29d9-2594-40d6-ac38-5a2686af5745,2,100,2026-10-06 13:02:32.891566+00:00,247.364,200,,,
+fallos_r23,fallos,23,CLI-5,1e09544e-38fb-44b7-95b4-bfc5f4f7e4e1,1,100,2026-10-06 13:02:30.424016+00:00,2.046,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r23,fallos,23,CLI-5,1e09544e-38fb-44b7-95b4-bfc5f4f7e4e1,2,100,2026-10-06 13:02:30.502147+00:00,670.146,200,,,
+fallos_r23,fallos,23,CLI-5,cef303fb-d953-4bbd-a56b-32e56499c74e,1,100,2026-10-06 13:02:31.165865+00:00,2.411,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r23,fallos,23,CLI-5,cef303fb-d953-4bbd-a56b-32e56499c74e,2,100,2026-10-06 13:02:31.241361+00:00,748.733,200,,,
+fallos_r24,fallos,24,CLI-1,5a6711bf-8cbb-4eda-a21c-9da9a7d7ed94,1,100,2026-10-06 13:02:45.899000+00:00,1.979,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r24,fallos,24,CLI-1,5a6711bf-8cbb-4eda-a21c-9da9a7d7ed94,2,100,2026-10-06 13:02:45.977131+00:00,967.183,200,,,
+fallos_r24,fallos,24,CLI-1,a3dc90ca-e8e0-4fab-9bfc-039ae9395fab,1,100,2026-10-06 13:02:46.948820+00:00,13.619,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r24,fallos,24,CLI-1,a3dc90ca-e8e0-4fab-9bfc-039ae9395fab,2,100,2026-10-06 13:02:47.026965+00:00,886.072,200,,,
+fallos_r24,fallos,24,CLI-2,5b7a04aa-28fd-483c-ad69-222b4f3378d7,1,100,2026-10-06 13:02:45.899000+00:00,2.531,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r24,fallos,24,CLI-2,5b7a04aa-28fd-483c-ad69-222b4f3378d7,2,100,2026-10-06 13:02:45.977131+00:00,462.412,200,,,
+fallos_r24,fallos,24,CLI-2,314150b2-731f-4aee-9992-0307ae476f8c,1,100,2026-10-06 13:02:46.433606+00:00,1009.221,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r24,fallos,24,CLI-2,314150b2-731f-4aee-9992-0307ae476f8c,2,100,2026-10-06 13:02:47.503475+00:00,913.665,200,,,
+fallos_r24,fallos,24,CLI-3,986a389e-5a6b-4ae9-8d2c-a71be24ca2b6,1,100,2026-10-06 13:02:45.899000+00:00,266.265,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r24,fallos,24,CLI-3,986a389e-5a6b-4ae9-8d2c-a71be24ca2b6,2,100,2026-10-06 13:02:46.245246+00:00,967.549,200,,,
+fallos_r24,fallos,24,CLI-3,7badac13-e7ac-4c13-bbfe-bcc06d9eeff4,1,100,2026-10-06 13:02:47.218684+00:00,2.032,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r24,fallos,24,CLI-3,7badac13-e7ac-4c13-bbfe-bcc06d9eeff4,2,100,2026-10-06 13:02:47.280214+00:00,1107.955,200,,,
+fallos_r24,fallos,24,CLI-4,43e9c40a-699d-478d-bb66-b5d9e871e46b,1,100,2026-10-06 13:02:45.899000+00:00,2.144,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r24,fallos,24,CLI-4,43e9c40a-699d-478d-bb66-b5d9e871e46b,2,100,2026-10-06 13:02:45.977131+00:00,697.307,200,,,
+fallos_r24,fallos,24,CLI-4,94a9e063-ce65-4041-acfa-fb676e391677,1,100,2026-10-06 13:02:46.674011+00:00,3.006,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r24,fallos,24,CLI-4,94a9e063-ce65-4041-acfa-fb676e391677,2,100,2026-10-06 13:02:46.742346+00:00,933.536,200,,,
+fallos_r24,fallos,24,CLI-5,00bc7d16-9c28-4ff7-bd4d-8837700370ee,1,100,2026-10-06 13:02:45.899000+00:00,2.65,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r24,fallos,24,CLI-5,00bc7d16-9c28-4ff7-bd4d-8837700370ee,2,100,2026-10-06 13:02:45.977131+00:00,1199.85,200,,,
+fallos_r24,fallos,24,CLI-5,7ceca5f3-c348-4ac6-9da9-c6b4b73df9bf,1,100,2026-10-06 13:02:47.171787+00:00,960.962,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r24,fallos,24,CLI-5,7ceca5f3-c348-4ac6-9da9-c6b4b73df9bf,2,100,2026-10-06 13:02:48.193850+00:00,250.146,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r24,fallos,24,CLI-5,7ceca5f3-c348-4ac6-9da9-c6b4b73df9bf,3,100,2026-10-06 13:02:48.623281+00:00,36.645,200,,,
+fallos_r25,fallos,25,CLI-1,b1bac1c6-8c09-4292-99eb-4236b87ae9d3,1,100,2026-10-06 13:03:01.314047+00:00,2.528,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r25,fallos,25,CLI-1,b1bac1c6-8c09-4292-99eb-4236b87ae9d3,2,100,2026-10-06 13:03:01.408226+00:00,675.852,200,,,
+fallos_r25,fallos,25,CLI-1,6ce431a5-5e76-45ba-9cf3-6f90cb927313,1,100,2026-10-06 13:03:02.088836+00:00,864.723,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r25,fallos,25,CLI-1,6ce431a5-5e76-45ba-9cf3-6f90cb927313,2,100,2026-10-06 13:03:03.028891+00:00,941.752,200,,,
+fallos_r25,fallos,25,CLI-2,aeb97916-1be4-48f3-808b-a866bbc3e6dc,1,100,2026-10-06 13:03:01.314047+00:00,520.549,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r25,fallos,25,CLI-2,aeb97916-1be4-48f3-808b-a866bbc3e6dc,2,100,2026-10-06 13:03:01.948206+00:00,756.171,200,,,
+fallos_r25,fallos,25,CLI-2,1daa1d52-5e0c-4d26-8f24-c391a07978a8,1,100,2026-10-06 13:03:02.705807+00:00,1.878,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r25,fallos,25,CLI-2,1daa1d52-5e0c-4d26-8f24-c391a07978a8,2,100,2026-10-06 13:03:02.780824+00:00,1160.879,200,,,
+fallos_r25,fallos,25,CLI-3,129cf451-4eec-4e63-b89e-609c4d7bbe05,1,100,2026-10-06 13:03:01.314047+00:00,2.01,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r25,fallos,25,CLI-3,129cf451-4eec-4e63-b89e-609c4d7bbe05,2,100,2026-10-06 13:03:01.408226+00:00,2.102,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r25,fallos,25,CLI-3,129cf451-4eec-4e63-b89e-609c4d7bbe05,3,100,2026-10-06 13:03:01.561887+00:00,822.357,200,,,
+fallos_r25,fallos,25,CLI-3,33a6742e-f71c-4cfa-865e-b7495bd23e86,1,100,2026-10-06 13:03:02.395884+00:00,3.918,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r25,fallos,25,CLI-3,33a6742e-f71c-4cfa-865e-b7495bd23e86,2,100,2026-10-06 13:03:02.489639+00:00,703.652,200,,,
+fallos_r25,fallos,25,CLI-4,36e7f77d-2482-4973-8444-2aded8e2a49e,1,100,2026-10-06 13:03:01.314047+00:00,9.835,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r25,fallos,25,CLI-4,36e7f77d-2482-4973-8444-2aded8e2a49e,2,100,2026-10-06 13:03:01.423853+00:00,2.081,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r25,fallos,25,CLI-4,36e7f77d-2482-4973-8444-2aded8e2a49e,3,100,2026-10-06 13:03:01.577514+00:00,1059.941,200,,,
+fallos_r25,fallos,25,CLI-4,419a2806-526c-4be4-b0fd-2a0371bf1355,1,100,2026-10-06 13:03:02.643303+00:00,804.929,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r25,fallos,25,CLI-4,419a2806-526c-4be4-b0fd-2a0371bf1355,2,100,2026-10-06 13:03:03.536258+00:00,2.254,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r25,fallos,25,CLI-4,419a2806-526c-4be4-b0fd-2a0371bf1355,3,100,2026-10-06 13:03:03.688930+00:00,310.595,200,,,
+fallos_r25,fallos,25,CLI-5,bc021dea-97ce-442d-9a88-6fbca56eeeff,1,100,2026-10-06 13:03:01.314047+00:00,286.153,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r25,fallos,25,CLI-5,bc021dea-97ce-442d-9a88-6fbca56eeeff,2,100,2026-10-06 13:03:01.686896+00:00,2.092,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r25,fallos,25,CLI-5,bc021dea-97ce-442d-9a88-6fbca56eeeff,3,100,2026-10-06 13:03:01.840838+00:00,831.772,200,,,
+fallos_r25,fallos,25,CLI-5,6c6a5914-3476-4ccb-bc33-05d066f51524,1,100,2026-10-06 13:03:02.674555+00:00,1.933,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r25,fallos,25,CLI-5,6c6a5914-3476-4ccb-bc33-05d066f51524,2,100,2026-10-06 13:03:02.765198+00:00,940.663,200,,,
+fallos_r26,fallos,26,CLI-1,250c8efa-d6d6-4234-975f-47b4a68019d5,1,100,2026-10-06 13:03:16.936593+00:00,502.733,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r26,fallos,26,CLI-1,250c8efa-d6d6-4234-975f-47b4a68019d5,2,100,2026-10-06 13:03:17.506197+00:00,2.267,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r26,fallos,26,CLI-1,250c8efa-d6d6-4234-975f-47b4a68019d5,3,100,2026-10-06 13:03:17.628650+00:00,620.156,200,,,
+fallos_r26,fallos,26,CLI-1,5942d13a-17ba-42ec-8545-d8e26348b514,1,100,2026-10-06 13:03:18.245512+00:00,1.978,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r26,fallos,26,CLI-1,5942d13a-17ba-42ec-8545-d8e26348b514,2,100,2026-10-06 13:03:18.360803+00:00,1126.336,200,,,
+fallos_r26,fallos,26,CLI-2,75d37c15-f29f-44c8-a573-ef988d2155a0,1,100,2026-10-06 13:03:16.936593+00:00,1.95,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r26,fallos,26,CLI-2,75d37c15-f29f-44c8-a573-ef988d2155a0,2,100,2026-10-06 13:03:16.996536+00:00,1188.949,200,,,
+fallos_r26,fallos,26,CLI-2,ea9b4b98-4f82-4cce-bedc-559c869dfaa8,1,100,2026-10-06 13:03:18.183007+00:00,6.635,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r26,fallos,26,CLI-2,ea9b4b98-4f82-4cce-bedc-559c869dfaa8,2,100,2026-10-06 13:03:18.261138+00:00,735.355,200,,,
+fallos_r26,fallos,26,CLI-3,03d80e08-cec0-4ee2-81ed-0035fe1fb957,1,100,2026-10-06 13:03:16.936593+00:00,2.647,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r26,fallos,26,CLI-3,03d80e08-cec0-4ee2-81ed-0035fe1fb957,2,100,2026-10-06 13:03:16.996536+00:00,685.179,200,,,
+fallos_r26,fallos,26,CLI-3,243bc5fc-222e-43e1-9065-9bc81fdab628,1,100,2026-10-06 13:03:17.675510+00:00,826.263,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r26,fallos,26,CLI-3,243bc5fc-222e-43e1-9065-9bc81fdab628,2,100,2026-10-06 13:03:18.584404+00:00,929.466,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r26,fallos,26,CLI-3,243bc5fc-222e-43e1-9065-9bc81fdab628,3,100,2026-10-06 13:03:19.722859+00:00,33.665,200,,,
+fallos_r26,fallos,26,CLI-4,105051f3-03e8-4464-85ce-6940eb5efa88,1,100,2026-10-06 13:03:16.936593+00:00,266.07,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r26,fallos,26,CLI-4,105051f3-03e8-4464-85ce-6940eb5efa88,2,100,2026-10-06 13:03:17.265795+00:00,2.562,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r26,fallos,26,CLI-4,105051f3-03e8-4464-85ce-6940eb5efa88,3,100,2026-10-06 13:03:17.396816+00:00,819.889,200,,,
+fallos_r26,fallos,26,CLI-4,4aaf703b-69f9-465b-ac55-12d9bddbcb12,1,100,2026-10-06 13:03:18.214259+00:00,1.873,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r26,fallos,26,CLI-4,4aaf703b-69f9-465b-ac55-12d9bddbcb12,2,100,2026-10-06 13:03:18.329552+00:00,916.083,200,,,
+fallos_r26,fallos,26,CLI-5,6c389bdc-dc19-4e7b-848f-67fec0ab92fe,1,100,2026-10-06 13:03:16.936593+00:00,2.034,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r26,fallos,26,CLI-5,6c389bdc-dc19-4e7b-848f-67fec0ab92fe,2,100,2026-10-06 13:03:16.996536+00:00,951.075,200,,,
+fallos_r26,fallos,26,CLI-5,893d82a3-cd6c-47a9-9d8e-24c0eb6b366b,1,100,2026-10-06 13:03:17.941650+00:00,3.393,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r26,fallos,26,CLI-5,893d82a3-cd6c-47a9-9d8e-24c0eb6b366b,2,100,2026-10-06 13:03:18.029327+00:00,727.269,200,,,
+fallos_r27,fallos,27,CLI-1,e3b5ae39-bdec-42c3-b075-317a0294a811,1,100,2026-10-06 13:03:32.301801+00:00,2.0,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r27,fallos,27,CLI-1,e3b5ae39-bdec-42c3-b075-317a0294a811,2,100,2026-10-06 13:03:32.396855+00:00,444.859,200,,,
+fallos_r27,fallos,27,CLI-1,50cd2e94-0af8-4d39-9f40-1f8dbfc5509f,1,100,2026-10-06 13:03:32.835455+00:00,2.494,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r27,fallos,27,CLI-1,50cd2e94-0af8-4d39-9f40-1f8dbfc5509f,2,100,2026-10-06 13:03:32.913589+00:00,975.56,200,,,
+fallos_r27,fallos,27,CLI-2,23052e49-d6f2-40d4-9176-ffe332164679,1,100,2026-10-06 13:03:32.301801+00:00,2.836,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r27,fallos,27,CLI-2,23052e49-d6f2-40d4-9176-ffe332164679,2,100,2026-10-06 13:03:32.396855+00:00,2.074,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r27,fallos,27,CLI-2,23052e49-d6f2-40d4-9176-ffe332164679,3,100,2026-10-06 13:03:32.530407+00:00,820.318,200,,,
+fallos_r27,fallos,27,CLI-2,f2b22e77-0cbb-4e81-ab1f-cc29d1ba90ce,1,100,2026-10-06 13:03:33.344792+00:00,756.57,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r27,fallos,27,CLI-2,f2b22e77-0cbb-4e81-ab1f-cc29d1ba90ce,2,100,2026-10-06 13:03:34.184350+00:00,700.308,200,,,
+fallos_r27,fallos,27,CLI-3,d17ef82e-7835-4d55-8886-73768ef18749,1,100,2026-10-06 13:03:32.301801+00:00,293.693,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r27,fallos,27,CLI-3,d17ef82e-7835-4d55-8886-73768ef18749,2,100,2026-10-06 13:03:32.683589+00:00,961.518,200,,,
+fallos_r27,fallos,27,CLI-3,26b60103-0a41-425e-a9b4-5f4d39ba9d39,1,100,2026-10-06 13:03:33.639636+00:00,1.866,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r27,fallos,27,CLI-3,26b60103-0a41-425e-a9b4-5f4d39ba9d39,2,100,2026-10-06 13:03:33.701514+00:00,1154.014,200,,,
+fallos_r27,fallos,27,CLI-4,d136a085-a8d7-4083-9f09-35513b048ea0,1,100,2026-10-06 13:03:32.301801+00:00,2.022,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r27,fallos,27,CLI-4,d136a085-a8d7-4083-9f09-35513b048ea0,2,100,2026-10-06 13:03:32.396855+00:00,2.126,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r27,fallos,27,CLI-4,d136a085-a8d7-4083-9f09-35513b048ea0,3,100,2026-10-06 13:03:32.530407+00:00,583.211,200,,,
+fallos_r27,fallos,27,CLI-4,7ecf10d8-ad1b-4fde-8d32-0142e09c586c,1,100,2026-10-06 13:03:33.107244+00:00,2.317,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r27,fallos,27,CLI-4,7ecf10d8-ad1b-4fde-8d32-0142e09c586c,2,100,2026-10-06 13:03:33.185376+00:00,2.058,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r27,fallos,27,CLI-4,7ecf10d8-ad1b-4fde-8d32-0142e09c586c,3,100,2026-10-06 13:03:33.360422+00:00,1011.351,200,,,
+fallos_r27,fallos,27,CLI-5,a97fba8e-b3fd-4a8d-b316-ab45b78864a0,1,100,2026-10-06 13:03:32.301801+00:00,2.574,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r27,fallos,27,CLI-5,a97fba8e-b3fd-4a8d-b316-ab45b78864a0,2,100,2026-10-06 13:03:32.396855+00:00,2.825,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r27,fallos,27,CLI-5,a97fba8e-b3fd-4a8d-b316-ab45b78864a0,3,100,2026-10-06 13:03:32.530407+00:00,1080.071,200,,,
+fallos_r27,fallos,27,CLI-5,13b4b79f-3a8a-4619-b98a-ab94638e5f7d,1,100,2026-10-06 13:03:33.607755+00:00,1011.304,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r27,fallos,27,CLI-5,13b4b79f-3a8a-4619-b98a-ab94638e5f7d,2,100,2026-10-06 13:03:34.703669+00:00,205.747,200,,,
+fallos_r28,fallos,28,CLI-1,26d12d68-c9ab-45d4-87a2-74523e440624,1,100,2026-10-06 13:03:47.412363+00:00,2.618,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r28,fallos,28,CLI-1,26d12d68-c9ab-45d4-87a2-74523e440624,2,100,2026-10-06 13:03:47.518629+00:00,956.071,200,,,
+fallos_r28,fallos,28,CLI-1,550251ec-35ee-48f3-b1ad-a1f856dca125,1,100,2026-10-06 13:03:48.468596+00:00,764.248,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r28,fallos,28,CLI-1,550251ec-35ee-48f3-b1ad-a1f856dca125,2,100,2026-10-06 13:03:49.325344+00:00,646.511,200,,,
+fallos_r28,fallos,28,CLI-2,0dd67efc-ec4b-4d1c-8eec-4ea5694c82f8,1,100,2026-10-06 13:03:47.412363+00:00,545.157,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r28,fallos,28,CLI-2,0dd67efc-ec4b-4d1c-8eec-4ea5694c82f8,2,100,2026-10-06 13:03:48.044251+00:00,725.616,200,,,
+fallos_r28,fallos,28,CLI-2,6aeddf70-4094-4f9b-8f3e-b42044ea6dd9,1,100,2026-10-06 13:03:48.770603+00:00,2.003,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r28,fallos,28,CLI-2,6aeddf70-4094-4f9b-8f3e-b42044ea6dd9,2,100,2026-10-06 13:03:48.848736+00:00,858.243,200,,,
+fallos_r28,fallos,28,CLI-3,fe8fd4f8-f36b-4534-9247-3c2ff13bcc8f,1,100,2026-10-06 13:03:47.412363+00:00,2.104,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r28,fallos,28,CLI-3,fe8fd4f8-f36b-4534-9247-3c2ff13bcc8f,2,100,2026-10-06 13:03:47.518629+00:00,687.93,200,,,
+fallos_r28,fallos,28,CLI-3,aea8a1d8-f673-4ab4-a562-ceb08243ff07,1,100,2026-10-06 13:03:48.200629+00:00,2.442,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r28,fallos,28,CLI-3,aea8a1d8-f673-4ab4-a562-ceb08243ff07,2,100,2026-10-06 13:03:48.288810+00:00,725.551,200,,,
+fallos_r28,fallos,28,CLI-4,cefd5448-b98d-4dfc-a137-927b8da2adbc,1,100,2026-10-06 13:03:47.412363+00:00,2.751,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r28,fallos,28,CLI-4,cefd5448-b98d-4dfc-a137-927b8da2adbc,2,100,2026-10-06 13:03:47.518629+00:00,2.617,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r28,fallos,28,CLI-4,cefd5448-b98d-4dfc-a137-927b8da2adbc,3,100,2026-10-06 13:03:47.672300+00:00,1033.349,200,,,
+fallos_r28,fallos,28,CLI-4,8e77617b-24eb-4198-a6ec-a2593aefe853,1,100,2026-10-06 13:03:48.708099+00:00,759.948,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r28,fallos,28,CLI-4,8e77617b-24eb-4198-a6ec-a2593aefe853,2,100,2026-10-06 13:03:49.539308+00:00,2.021,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r28,fallos,28,CLI-4,8e77617b-24eb-4198-a6ec-a2593aefe853,3,100,2026-10-06 13:03:49.724494+00:00,273.892,200,,,
+fallos_r28,fallos,28,CLI-5,6fc8065c-a475-4c70-81c0-537e6972da96,1,100,2026-10-06 13:03:47.412363+00:00,288.209,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r28,fallos,28,CLI-5,6fc8065c-a475-4c70-81c0-537e6972da96,2,100,2026-10-06 13:03:47.788191+00:00,2.555,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r28,fallos,28,CLI-5,6fc8065c-a475-4c70-81c0-537e6972da96,3,100,2026-10-06 13:03:47.950479+00:00,789.466,200,,,
+fallos_r28,fallos,28,CLI-5,8cc26d92-54de-4f83-8fb3-a30da89e7883,1,100,2026-10-06 13:03:48.739350+00:00,1.928,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r28,fallos,28,CLI-5,8cc26d92-54de-4f83-8fb3-a30da89e7883,2,100,2026-10-06 13:03:48.817481+00:00,2.136,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r28,fallos,28,CLI-5,8cc26d92-54de-4f83-8fb3-a30da89e7883,3,100,2026-10-06 13:03:48.999889+00:00,945.294,200,,,
+fallos_r29,fallos,29,CLI-1,95c13042-07d6-4ce5-9a38-050e5d87e2d7,1,100,2026-10-06 13:04:03.239933+00:00,527.283,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r29,fallos,29,CLI-1,95c13042-07d6-4ce5-9a38-050e5d87e2d7,2,100,2026-10-06 13:04:03.872958+00:00,791.765,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r29,fallos,29,CLI-1,95c13042-07d6-4ce5-9a38-050e5d87e2d7,3,100,2026-10-06 13:04:04.844153+00:00,659.989,200,,,
+fallos_r29,fallos,29,CLI-1,f7eb36fb-9a2e-41d4-acc6-9ebfa7bfead1,1,100,2026-10-06 13:04:05.497271+00:00,2.051,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r29,fallos,29,CLI-1,f7eb36fb-9a2e-41d4-acc6-9ebfa7bfead1,2,100,2026-10-06 13:04:05.596497+00:00,3.446,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r29,fallos,29,CLI-1,f7eb36fb-9a2e-41d4-acc6-9ebfa7bfead1,3,100,2026-10-06 13:04:05.730619+00:00,397.473,200,,,
+fallos_r29,fallos,29,CLI-2,ac533d3a-a6a8-4533-9411-e061fb65dd61,1,100,2026-10-06 13:04:03.239933+00:00,3.572,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r29,fallos,29,CLI-2,ac533d3a-a6a8-4533-9411-e061fb65dd61,2,100,2026-10-06 13:04:03.354055+00:00,1242.515,200,,,
+fallos_r29,fallos,29,CLI-2,88c52bc1-4b6e-4297-be2e-d304e5c72260,1,100,2026-10-06 13:04:04.594093+00:00,6.535,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r29,fallos,29,CLI-2,88c52bc1-4b6e-4297-be2e-d304e5c72260,2,100,2026-10-06 13:04:04.696343+00:00,749.257,200,,,
+fallos_r29,fallos,29,CLI-3,224451f5-b119-4d7f-80c3-c1b6253d496d,1,100,2026-10-06 13:04:03.239933+00:00,3.24,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r29,fallos,29,CLI-3,224451f5-b119-4d7f-80c3-c1b6253d496d,2,100,2026-10-06 13:04:03.354055+00:00,675.901,200,,,
+fallos_r29,fallos,29,CLI-3,8d9d5544-f5a1-4a4e-99d6-5ba59661e400,1,100,2026-10-06 13:04:04.025593+00:00,892.41,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r29,fallos,29,CLI-3,8d9d5544-f5a1-4a4e-99d6-5ba59661e400,2,100,2026-10-06 13:04:05.028122+00:00,2.383,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r29,fallos,29,CLI-3,8d9d5544-f5a1-4a4e-99d6-5ba59661e400,3,100,2026-10-06 13:04:05.195375+00:00,337.996,200,,,
+fallos_r29,fallos,29,CLI-4,543f144c-c71b-4a32-af8b-2c55bb266ee1,1,100,2026-10-06 13:04:03.239933+00:00,281.349,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r29,fallos,29,CLI-4,543f144c-c71b-4a32-af8b-2c55bb266ee1,2,100,2026-10-06 13:04:03.639685+00:00,991.445,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r29,fallos,29,CLI-4,543f144c-c71b-4a32-af8b-2c55bb266ee1,3,100,2026-10-06 13:04:04.811875+00:00,663.129,200,,,
+fallos_r29,fallos,29,CLI-4,e37a8a58-c3f7-4648-847f-f5131a2fcab5,1,100,2026-10-06 13:04:05.480534+00:00,1.892,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r29,fallos,29,CLI-4,e37a8a58-c3f7-4648-847f-f5131a2fcab5,2,100,2026-10-06 13:04:05.562959+00:00,308.246,200,,,
+fallos_r29,fallos,29,CLI-5,d9493aa9-3470-488e-a400-2c87e18b3666,1,100,2026-10-06 13:04:03.239933+00:00,2.263,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r29,fallos,29,CLI-5,d9493aa9-3470-488e-a400-2c87e18b3666,2,100,2026-10-06 13:04:03.354055+00:00,964.292,200,,,
+fallos_r29,fallos,29,CLI-5,9092ef52-f566-4909-bd01-c8d82280835c,1,100,2026-10-06 13:04:04.325548+00:00,3.103,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r29,fallos,29,CLI-5,9092ef52-f566-4909-bd01-c8d82280835c,2,100,2026-10-06 13:04:04.413936+00:00,773.163,200,,,
+fallos_r30,fallos,30,CLI-1,31817222-94bb-47d8-9867-81664d8d1431,1,100,2026-10-06 13:04:19.533596+00:00,2.292,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r30,fallos,30,CLI-1,31817222-94bb-47d8-9867-81664d8d1431,2,100,2026-10-06 13:04:19.613000+00:00,956.522,200,,,
+fallos_r30,fallos,30,CLI-1,c27365b8-e7e6-492d-92b6-51832e964a21,1,100,2026-10-06 13:04:20.571709+00:00,2.351,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r30,fallos,30,CLI-1,c27365b8-e7e6-492d-92b6-51832e964a21,2,100,2026-10-06 13:04:20.649650+00:00,967.385,200,,,
+fallos_r30,fallos,30,CLI-2,a7764978-8c8d-43ee-885d-ed64085d8bb8,1,100,2026-10-06 13:04:19.532319+00:00,3.091,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r30,fallos,30,CLI-2,a7764978-8c8d-43ee-885d-ed64085d8bb8,2,100,2026-10-06 13:04:19.612724+00:00,682.033,200,,,
+fallos_r30,fallos,30,CLI-2,e25046e8-2ca0-4bb3-9015-d35f8718c86c,1,100,2026-10-06 13:04:20.300592+00:00,1059.165,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r30,fallos,30,CLI-2,e25046e8-2ca0-4bb3-9015-d35f8718c86c,2,100,2026-10-06 13:04:21.435751+00:00,762.308,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r30,fallos,30,CLI-2,e25046e8-2ca0-4bb3-9015-d35f8718c86c,3,100,2026-10-06 13:04:22.374748+00:00,35.971,200,,,
+fallos_r30,fallos,30,CLI-3,dc1a049e-002f-41c5-8e81-a0851db0c6c4,1,100,2026-10-06 13:04:19.533596+00:00,275.429,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r30,fallos,30,CLI-3,dc1a049e-002f-41c5-8e81-a0851db0c6c4,2,100,2026-10-06 13:04:19.880217+00:00,967.757,200,,,
+fallos_r30,fallos,30,CLI-3,0602a97e-65ee-4f69-bfcf-0793ab6c186f,1,100,2026-10-06 13:04:20.851535+00:00,1.873,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r30,fallos,30,CLI-3,0602a97e-65ee-4f69-bfcf-0793ab6c186f,2,100,2026-10-06 13:04:20.934290+00:00,1207.603,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r30,fallos,30,CLI-3,0602a97e-65ee-4f69-bfcf-0793ab6c186f,3,100,2026-10-06 13:04:22.322568+00:00,36.763,200,,,
+fallos_r30,fallos,30,CLI-4,73bc2943-1fd4-4cca-951a-b4a7e326eff0,1,100,2026-10-06 13:04:19.532319+00:00,3.121,,ConnectError,PRE_ENVIO,corte de laboratorio previo al envío
+fallos_r30,fallos,30,CLI-4,73bc2943-1fd4-4cca-951a-b4a7e326eff0,2,100,2026-10-06 13:04:19.612724+00:00,1203.304,200,,,
+fallos_r30,fallos,30,CLI-4,afc68ffc-819e-45df-bfd2-86604b6b1939,1,100,2026-10-06 13:04:20.818070+00:00,2.284,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r30,fallos,30,CLI-4,afc68ffc-819e-45df-bfd2-86604b6b1939,2,100,2026-10-06 13:04:20.900557+00:00,984.604,200,,,
+fallos_r30,fallos,30,CLI-5,c9b2a1ea-8ece-4dc9-b6f0-b2e57aa44888,1,100,2026-10-06 13:04:19.532319+00:00,2.893,,WriteError,CORTE_MITAD,corte de laboratorio a mitad de la transmisión
+fallos_r30,fallos,30,CLI-5,c9b2a1ea-8ece-4dc9-b6f0-b2e57aa44888,2,100,2026-10-06 13:04:19.612724+00:00,437.039,200,,,
+fallos_r30,fallos,30,CLI-5,375f23da-a336-4960-8607-5b12f69474e7,1,100,2026-10-06 13:04:20.050970+00:00,1046.581,,ReadError,POST_CONFIRMACION,corte de laboratorio post-confirmación
+fallos_r30,fallos,30,CLI-5,375f23da-a336-4960-8607-5b12f69474e7,2,100,2026-10-06 13:04:21.185181+00:00,985.561,200,,,
+limpia_r01,limpia,1,CLI-1,cd3070ff-8448-4e22-ba1b-7607997516a5,1,100,2026-10-06 12:56:40.524434+00:00,1058.593,200,,,
+limpia_r01,limpia,1,CLI-1,92883eb7-335b-4a59-b137-bbd1db9de002,1,100,2026-10-06 12:56:41.591277+00:00,1268.501,200,,,
+limpia_r01,limpia,1,CLI-2,6273e498-bc11-49d3-91a0-c42f7518c482,1,100,2026-10-06 12:56:40.524434+00:00,511.033,200,,,
+limpia_r01,limpia,1,CLI-2,69d2173a-29a5-44f7-94d2-b62ab8b3317a,1,100,2026-10-06 12:56:41.040275+00:00,1304.037,200,,,
+limpia_r01,limpia,1,CLI-3,e3290196-b5a5-4a0c-a3a1-d3f7555e78fd,1,100,2026-10-06 12:56:40.524434+00:00,266.162,200,,,
+limpia_r01,limpia,1,CLI-3,3b9e79da-eaa8-4ad6-ae45-ecc977d99844,1,100,2026-10-06 12:56:40.789234+00:00,1296.264,200,,,
+limpia_r01,limpia,1,CLI-4,04d26f38-04b0-4592-9720-7632aebc1f0b,1,100,2026-10-06 12:56:40.524434+00:00,755.149,200,,,
+limpia_r01,limpia,1,CLI-4,d946276a-8a64-4c8d-8cae-367d3132629f,1,100,2026-10-06 12:56:41.276277+00:00,1310.09,200,,,
+limpia_r01,limpia,1,CLI-5,a28742e3-1032-44a7-bad8-b5997f22d3ba,1,100,2026-10-06 12:56:40.524434+00:00,1314.648,200,,,
+limpia_r01,limpia,1,CLI-5,5f1a6d5a-642b-4d82-93f9-7e69a9ace43a,1,100,2026-10-06 12:56:41.843056+00:00,1261.09,200,,,
+limpia_r02,limpia,2,CLI-1,05f2a45c-da74-45af-a14e-6cd85cfe63aa,1,100,2026-10-06 12:56:56.588440+00:00,269.68,200,,,
+limpia_r02,limpia,2,CLI-1,09ca7116-0b98-491d-878f-069bd437806c,1,100,2026-10-06 12:56:56.861816+00:00,1263.938,200,,,
+limpia_r02,limpia,2,CLI-2,a9e53cfe-2d2b-4977-a345-dfaff75cc82f,1,100,2026-10-06 12:56:56.588440+00:00,1035.032,200,,,
+limpia_r02,limpia,2,CLI-2,3cbb94de-6740-44be-bfd6-487cb0d73936,1,100,2026-10-06 12:56:57.631933+00:00,1266.174,200,,,
+limpia_r02,limpia,2,CLI-3,66b7ecda-1bf4-4884-91d9-8ea78a42ae58,1,100,2026-10-06 12:56:56.588440+00:00,1285.661,200,,,
+limpia_r02,limpia,2,CLI-3,03c827f0-9db0-4d07-9dbf-63b2b5e3cfff,1,100,2026-10-06 12:56:57.876389+00:00,1269.766,200,,,
+limpia_r02,limpia,2,CLI-4,3c2c93c2-974a-44cf-b90f-8b67795b9734,1,100,2026-10-06 12:56:56.588440+00:00,516.699,200,,,
+limpia_r02,limpia,2,CLI-4,3e720dc7-b033-4371-a340-a70f4678347b,1,100,2026-10-06 12:56:57.113589+00:00,1263.343,200,,,
+limpia_r02,limpia,2,CLI-5,16497030-9762-4220-9a43-b72196311f15,1,100,2026-10-06 12:56:56.588440+00:00,758.417,200,,,
+limpia_r02,limpia,2,CLI-5,56aef0dc-19a8-44cc-9fe2-4041b18d14c6,1,100,2026-10-06 12:56:57.350189+00:00,1277.461,200,,,
+limpia_r03,limpia,3,CLI-1,17b40db6-1d8a-425f-b96f-5a8b2b37a928,1,100,2026-10-06 12:57:12.238228+00:00,984.726,200,,,
+limpia_r03,limpia,3,CLI-1,91e0c9a7-ad26-4b35-8ca5-f361047f0de0,1,100,2026-10-06 12:57:13.228345+00:00,1119.647,200,,,
+limpia_r03,limpia,3,CLI-2,96593b4a-06d1-4805-9cd4-eefa86a94bd6,1,100,2026-10-06 12:57:12.238228+00:00,735.431,200,,,
+limpia_r03,limpia,3,CLI-2,ff0206bd-fa32-4a07-8b3f-48881e19c9d4,1,100,2026-10-06 12:57:12.975797+00:00,1138.469,200,,,
+limpia_r03,limpia,3,CLI-3,81a3b3f4-6dfa-4a0c-a6b4-efbd0b622a23,1,100,2026-10-06 12:57:12.238228+00:00,277.688,200,,,
+limpia_r03,limpia,3,CLI-3,a51ec139-a2be-410e-b170-05b2c29e322e,1,100,2026-10-06 12:57:12.518943+00:00,1145.499,200,,,
+limpia_r03,limpia,3,CLI-4,2f0df801-4842-4eed-8b5a-95af6bd44939,1,100,2026-10-06 12:57:12.238228+00:00,508.508,200,,,
+limpia_r03,limpia,3,CLI-4,77e14ab8-f6c2-48ad-9882-5c50fe5b1658,1,100,2026-10-06 12:57:12.760479+00:00,1130.387,200,,,
+limpia_r03,limpia,3,CLI-5,3bbc5ec7-1da1-4fb3-b232-d425b64cd0a1,1,100,2026-10-06 12:57:12.238228+00:00,1200.405,200,,,
+limpia_r03,limpia,3,CLI-5,255b8422-90f5-4194-bffa-b0d5d5303ead,1,100,2026-10-06 12:57:13.442185+00:00,1175.206,200,,,
+limpia_r04,limpia,4,CLI-1,61b8be95-47e6-4103-93a4-1a8a3c2b0e81,1,100,2026-10-06 12:57:27.193409+00:00,497.81,200,,,
+limpia_r04,limpia,4,CLI-1,a5ef0535-0ac2-482a-822d-dbc0e95318d1,1,100,2026-10-06 12:57:27.701763+00:00,1220.038,200,,,
+limpia_r04,limpia,4,CLI-2,70925337-ed7f-4fff-8723-489c6becc365,1,100,2026-10-06 12:57:27.193409+00:00,262.853,200,,,
+limpia_r04,limpia,4,CLI-2,4376d0a3-bf2d-4da7-bc03-767d1b6532fe,1,100,2026-10-06 12:57:27.464196+00:00,1221.904,200,,,
+limpia_r04,limpia,4,CLI-3,85a08ce4-86a5-4fe3-a368-741aa7d50433,1,100,2026-10-06 12:57:27.193409+00:00,974.13,200,,,
+limpia_r04,limpia,4,CLI-3,f6be3992-0874-49a3-9f5d-920e306c36a0,1,100,2026-10-06 12:57:28.181062+00:00,1312.193,200,,,
+limpia_r04,limpia,4,CLI-4,264c8c27-b9d8-4d6f-885f-af492a2e0dbf,1,100,2026-10-06 12:57:27.193409+00:00,1246.693,200,,,
+limpia_r04,limpia,4,CLI-4,d3ea343b-237b-4c03-8cb3-9f3f9172dda0,1,100,2026-10-06 12:57:28.459226+00:00,1289.77,200,,,
+limpia_r04,limpia,4,CLI-5,575ce59f-6ea8-4617-b345-6d9856484a59,1,100,2026-10-06 12:57:27.193409+00:00,709.706,200,,,
+limpia_r04,limpia,4,CLI-5,537e0144-7338-4503-8d86-01821e51fdd4,1,100,2026-10-06 12:57:27.918108+00:00,1287.959,200,,,
+limpia_r05,limpia,5,CLI-1,108e45fe-412e-4ead-92fd-4bc51c7f0ece,1,100,2026-10-06 12:57:42.629462+00:00,809.771,200,,,
+limpia_r05,limpia,5,CLI-1,b9096d48-a283-4698-bbbc-e6bf83e0d42c,1,100,2026-10-06 12:57:43.447119+00:00,1300.857,200,,,
+limpia_r05,limpia,5,CLI-2,d81c8f0c-4000-44bb-96ff-fb31cb3b9819,1,100,2026-10-06 12:57:42.629462+00:00,1081.946,200,,,
+limpia_r05,limpia,5,CLI-2,b762c782-d20f-442e-b4cc-6288bf6d0842,1,100,2026-10-06 12:57:43.716507+00:00,1316.082,200,,,
+limpia_r05,limpia,5,CLI-3,2ef587a0-077e-4a10-916d-4474a9a6763f,1,100,2026-10-06 12:57:42.629462+00:00,548.136,200,,,
+limpia_r05,limpia,5,CLI-3,982a62e3-8635-426a-b3b1-f6d1a82c38bc,1,100,2026-10-06 12:57:43.184562+00:00,1303.481,200,,,
+limpia_r05,limpia,5,CLI-4,7f9e62c1-dad4-4a61-920d-2f5eba6fa390,1,100,2026-10-06 12:57:42.629462+00:00,1363.054,200,,,
+limpia_r05,limpia,5,CLI-4,5bd526bf-c5fc-4df6-9d88-0b0e5a3c793e,1,100,2026-10-06 12:57:44.001715+00:00,1293.848,200,,,
+limpia_r05,limpia,5,CLI-5,bf1320f8-38d8-4d91-a9f9-0fce21c8e5ea,1,100,2026-10-06 12:57:42.629462+00:00,296.707,200,,,
+limpia_r05,limpia,5,CLI-5,3a88004e-fb44-41b1-b10f-905681cfb56d,1,100,2026-10-06 12:57:42.942248+00:00,1308.13,200,,,
+limpia_r06,limpia,6,CLI-1,d158f901-7cd0-4d9a-bbc0-f8eb1270f156,1,100,2026-10-06 12:57:58.883490+00:00,1079.818,200,,,
+limpia_r06,limpia,6,CLI-1,81f098b3-b301-4661-abc0-1d977d647dfb,1,100,2026-10-06 12:57:59.957119+00:00,1289.445,200,,,
+limpia_r06,limpia,6,CLI-2,8bd45f53-b3df-4d7f-8815-58677687997d,1,100,2026-10-06 12:57:58.883490+00:00,1356.036,200,,,
+limpia_r06,limpia,6,CLI-2,bc47d6a3-95ea-4015-84e9-557c4a76dccb,1,100,2026-10-06 12:58:00.240025+00:00,1263.646,200,,,
+limpia_r06,limpia,6,CLI-3,685177ef-7ace-4ca6-8bb9-d2279e094179,1,100,2026-10-06 12:57:58.883490+00:00,799.731,200,,,
+limpia_r06,limpia,6,CLI-3,d9f20436-f342-477d-8f1d-8603463d6ce5,1,100,2026-10-06 12:57:59.685988+00:00,1292.973,200,,,
+limpia_r06,limpia,6,CLI-4,e505d87e-ab5d-4c58-a4ed-e0eb3b505ee0,1,100,2026-10-06 12:57:58.883490+00:00,536.662,200,,,
+limpia_r06,limpia,6,CLI-4,f817dd07-5649-48f6-a925-436e1e8e5759,1,100,2026-10-06 12:57:59.421915+00:00,1312.83,200,,,
+limpia_r06,limpia,6,CLI-5,03bb5785-9063-434e-90a4-4be34fa88909,1,100,2026-10-06 12:57:58.883490+00:00,282.208,200,,,
+limpia_r06,limpia,6,CLI-5,81dc9407-992b-490a-af9c-9fdd9db932f4,1,100,2026-10-06 12:57:59.162927+00:00,1318.874,200,,,
+limpia_r07,limpia,7,CLI-1,46449a11-5970-401b-a008-bd4803b263fe,1,100,2026-10-06 12:58:14.289017+00:00,1000.809,200,,,
+limpia_r07,limpia,7,CLI-1,e0d806af-a57a-419b-9c1b-573579e7a814,1,100,2026-10-06 12:58:15.284379+00:00,1316.668,200,,,
+limpia_r07,limpia,7,CLI-2,68319edc-66ca-4db8-9d96-57ded22033f8,1,100,2026-10-06 12:58:14.289017+00:00,1282.376,200,,,
+limpia_r07,limpia,7,CLI-2,2a357c29-f092-4c34-91f0-ee88ca4fb11b,1,100,2026-10-06 12:58:15.572839+00:00,1281.991,200,,,
+limpia_r07,limpia,7,CLI-3,b833115a-da18-40e0-904a-e751b5f08d55,1,100,2026-10-06 12:58:14.289017+00:00,732.589,200,,,
+limpia_r07,limpia,7,CLI-3,88e0f594-1161-4d11-8aca-bd599807abdb,1,100,2026-10-06 12:58:15.015479+00:00,1310.516,200,,,
+limpia_r07,limpia,7,CLI-4,3f9875ec-f5b6-429a-a689-44b6ad987077,1,100,2026-10-06 12:58:14.289017+00:00,262.344,200,,,
+limpia_r07,limpia,7,CLI-4,50b2cc79-9ae6-4345-8bd2-4ee321ffa04d,1,100,2026-10-06 12:58:14.553072+00:00,1264.871,200,,,
+limpia_r07,limpia,7,CLI-5,abf6911f-afad-48e4-ad07-0071441c887f,1,100,2026-10-06 12:58:14.289017+00:00,497.267,200,,,
+limpia_r07,limpia,7,CLI-5,70995446-dd2a-4130-b9d5-203a1c0b0783,1,100,2026-10-06 12:58:14.780305+00:00,1293.375,200,,,
+limpia_r08,limpia,8,CLI-1,1224cc8d-21ea-4bad-b41b-2de4e1f1acb1,1,100,2026-10-06 12:58:29.682565+00:00,993.053,200,,,
+limpia_r08,limpia,8,CLI-1,f38abbef-4b3d-45bc-8c68-ef99273ea388,1,100,2026-10-06 12:58:30.685537+00:00,1200.797,200,,,
+limpia_r08,limpia,8,CLI-2,e0a254d2-109c-4d2a-85b7-0d198889ada0,1,100,2026-10-06 12:58:29.682565+00:00,1206.654,200,,,
+limpia_r08,limpia,8,CLI-2,8017b2de-b2b1-4501-aed6-155304e3cea2,1,100,2026-10-06 12:58:30.901879+00:00,1230.703,200,,,
+limpia_r08,limpia,8,CLI-3,775f1a2b-f232-4e6d-9f2f-2a3473770075,1,100,2026-10-06 12:58:29.682565+00:00,724.803,200,,,
+limpia_r08,limpia,8,CLI-3,a1211737-8705-4d29-b8f6-bf1fc28e5d30,1,100,2026-10-06 12:58:30.410400+00:00,1189.335,200,,,
+limpia_r08,limpia,8,CLI-4,45e0942d-92ad-47c4-9213-558d6cfa5d9c,1,100,2026-10-06 12:58:29.682565+00:00,265.559,200,,,
+limpia_r08,limpia,8,CLI-4,3c5a838a-e848-4e7f-923a-c35b5f7077e1,1,100,2026-10-06 12:58:29.951401+00:00,1168.772,200,,,
+limpia_r08,limpia,8,CLI-5,f3b0b531-88e4-4e45-a6f6-02d9d7a862bb,1,100,2026-10-06 12:58:29.682565+00:00,499.975,200,,,
+limpia_r08,limpia,8,CLI-5,291ebea7-04ed-4c68-89ae-3c637ac3d08d,1,100,2026-10-06 12:58:30.185488+00:00,1172.205,200,,,
+limpia_r09,limpia,9,CLI-1,b0ee5c37-a650-46da-aa05-9ae558ac1361,1,100,2026-10-06 12:58:44.825628+00:00,1081.594,200,,,
+limpia_r09,limpia,9,CLI-1,7e8853ef-ef44-42bd-8877-07b0b53aa9e0,1,100,2026-10-06 12:58:45.918796+00:00,1236.524,200,,,
+limpia_r09,limpia,9,CLI-2,03588008-b1b2-4aeb-aeb7-d48590fff3ca,1,100,2026-10-06 12:58:44.825628+00:00,809.725,200,,,
+limpia_r09,limpia,9,CLI-2,6ae6e3c1-dbc6-4e68-94b1-566b2fc8f347,1,100,2026-10-06 12:58:45.644546+00:00,1237.237,200,,,
+limpia_r09,limpia,9,CLI-3,bf327aff-4c3d-4850-a293-b79ff417b7f5,1,100,2026-10-06 12:58:44.841255+00:00,1320.57,200,,,
+limpia_r09,limpia,9,CLI-3,c0d86c4b-ec1d-4493-a5fb-e296b6130360,1,100,2026-10-06 12:58:46.155669+00:00,1242.724,200,,,
+limpia_r09,limpia,9,CLI-4,b04cd2a9-2081-4ca3-9f84-2b809975541e,1,100,2026-10-06 12:58:44.825628+00:00,271.044,200,,,
+limpia_r09,limpia,9,CLI-4,8617ea0a-1847-49a2-b60e-dbc5185686f8,1,100,2026-10-06 12:58:45.117228+00:00,1286.121,200,,,
+limpia_r09,limpia,9,CLI-5,135fb7d1-4679-49e0-98c4-906e98232130,1,100,2026-10-06 12:58:44.825628+00:00,546.415,200,,,
+limpia_r09,limpia,9,CLI-5,eecf4a51-cab0-413b-99c9-20b8dfbe7603,1,100,2026-10-06 12:58:45.379240+00:00,1253.14,200,,,
+limpia_r10,limpia,10,CLI-1,91774b2d-caf6-418e-8bf7-b03665702955,1,100,2026-10-06 12:59:00.164863+00:00,768.801,200,,,
+limpia_r10,limpia,10,CLI-1,96d89470-afd2-4197-9484-238ff4f73781,1,100,2026-10-06 12:59:00.951451+00:00,1153.988,200,,,
+limpia_r10,limpia,10,CLI-2,dca57b81-2686-4f31-a5d9-79252e859e8f,1,100,2026-10-06 12:59:00.164863+00:00,1260.959,200,,,
+limpia_r10,limpia,10,CLI-2,21fa1192-4187-49a8-b55f-572fcddc40b1,1,100,2026-10-06 12:59:01.431959+00:00,1114.203,200,,,
+limpia_r10,limpia,10,CLI-3,ad4ab900-9cf8-4363-a083-3a88c6d6fc4e,1,100,2026-10-06 12:59:00.164863+00:00,289.468,200,,,
+limpia_r10,limpia,10,CLI-3,417e3fd4-45b2-4ebe-a8c0-ef9c1404560d,1,100,2026-10-06 12:59:00.459495+00:00,1191.486,200,,,
+limpia_r10,limpia,10,CLI-4,99206f91-672a-459a-88e4-2ca8f501ae0f,1,100,2026-10-06 12:59:00.164863+00:00,1038.669,200,,,
+limpia_r10,limpia,10,CLI-4,c241fb75-3859-4a46-b751-09b306fcde93,1,100,2026-10-06 12:59:01.209722+00:00,1113.473,200,,,
+limpia_r10,limpia,10,CLI-5,23da0728-e431-4119-bda4-f584c7e6f984,1,100,2026-10-06 12:59:00.164863+00:00,527.882,200,,,
+limpia_r10,limpia,10,CLI-5,3465ba58-7349-4cc6-8a90-607c07b7f24c,1,100,2026-10-06 12:59:00.707134+00:00,1166.743,200,,,
+limpia_r11,limpia,11,CLI-1,6a7b50d6-6664-44b2-9143-2b8656de4837,1,100,2026-10-06 12:59:15.277690+00:00,1022.72,200,,,
+limpia_r11,limpia,11,CLI-1,d56583e8-f3cd-4577-a85e-877766167345,1,100,2026-10-06 12:59:16.308831+00:00,1171.248,200,,,
+limpia_r11,limpia,11,CLI-2,fbb24621-8a5f-4ec7-b2b5-ac57c385d02d,1,100,2026-10-06 12:59:15.277690+00:00,752.271,200,,,
+limpia_r11,limpia,11,CLI-2,e39b6875-1f7d-4f7c-a4e7-53adbfd47394,1,100,2026-10-06 12:59:16.048370+00:00,1199.929,200,,,
+limpia_r11,limpia,11,CLI-3,29877218-e490-4223-bb66-08f952fb061c,1,100,2026-10-06 12:59:15.277690+00:00,1250.755,200,,,
+limpia_r11,limpia,11,CLI-3,c202aa6b-a863-47ac-8c32-65468d2a756e,1,100,2026-10-06 12:59:16.536983+00:00,1281.703,200,,,
+limpia_r11,limpia,11,CLI-4,6931ed1f-3f84-4d0b-b92b-8fd97cbbbe69,1,100,2026-10-06 12:59:15.277690+00:00,516.151,200,,,
+limpia_r11,limpia,11,CLI-4,3879b462-1809-4e47-bac6-26ae7fc4ba8c,1,100,2026-10-06 12:59:15.802762+00:00,1194.249,200,,,
+limpia_r11,limpia,11,CLI-5,a29b0a84-95c7-4921-8cca-804b463b510e,1,100,2026-10-06 12:59:15.277690+00:00,280.216,200,,,
+limpia_r11,limpia,11,CLI-5,91c8a315-f57e-462d-a403-c353532f1a8d,1,100,2026-10-06 12:59:15.566410+00:00,1192.129,200,,,
+limpia_r12,limpia,12,CLI-1,645b3783-b3de-4d91-a1ba-381f019ce223,1,100,2026-10-06 12:59:30.941958+00:00,1313.313,200,,,
+limpia_r12,limpia,12,CLI-1,268aa110-bf9c-4aa3-b992-f9f7c3fdf964,1,100,2026-10-06 12:59:32.267299+00:00,1272.463,200,,,
+limpia_r12,limpia,12,CLI-2,4691d506-c677-49bd-832f-541fa5f829b0,1,100,2026-10-06 12:59:30.941958+00:00,1053.431,200,,,
+limpia_r12,limpia,12,CLI-2,8c3c03a9-6a3c-4e25-a759-e74fa390250c,1,100,2026-10-06 12:59:32.007721+00:00,1287.695,200,,,
+limpia_r12,limpia,12,CLI-3,953560a6-f48a-4b83-a121-76572f6a3114,1,100,2026-10-06 12:59:30.941958+00:00,517.54,200,,,
+limpia_r12,limpia,12,CLI-3,8bff4afb-e76d-4d93-91f8-1b6b48ea83fa,1,100,2026-10-06 12:59:31.465679+00:00,1311.319,200,,,
+limpia_r12,limpia,12,CLI-4,f17c5021-039a-4352-849e-dec8203e58a6,1,100,2026-10-06 12:59:30.941958+00:00,276.126,200,,,
+limpia_r12,limpia,12,CLI-4,097128c9-0e3c-47aa-81c9-39eb17fcd42a,1,100,2026-10-06 12:59:31.233260+00:00,1295.396,200,,,
+limpia_r12,limpia,12,CLI-5,4bdf0f3a-92ef-46b1-a947-be5287b4a9e0,1,100,2026-10-06 12:59:30.941958+00:00,764.354,200,,,
+limpia_r12,limpia,12,CLI-5,8892ad28-9d2d-4036-9d19-c16e3b101aa8,1,100,2026-10-06 12:59:31.713215+00:00,1320.453,200,,,
+limpia_r13,limpia,13,CLI-1,7d8be1d4-58e2-4a12-8c34-72066b88c747,1,100,2026-10-06 12:59:46.644277+00:00,735.886,200,,,
+limpia_r13,limpia,13,CLI-1,53731ada-9a74-4321-98e3-a2115508c905,1,100,2026-10-06 12:59:47.395167+00:00,1244.727,200,,,
+limpia_r13,limpia,13,CLI-2,b90c6440-5c07-40a7-a6d6-48a905d3d79f,1,100,2026-10-06 12:59:46.644277+00:00,499.166,200,,,
+limpia_r13,limpia,13,CLI-2,18c98e4e-2714-4caf-bb68-c806c929fd47,1,100,2026-10-06 12:59:47.151227+00:00,1245.671,200,,,
+limpia_r13,limpia,13,CLI-3,3938c983-7c7d-47bc-94ae-cbc3698ae8da,1,100,2026-10-06 12:59:46.644277+00:00,999.793,200,,,
+limpia_r13,limpia,13,CLI-3,596180ec-3fc7-4d15-b13f-2528d1095edf,1,100,2026-10-06 12:59:47.662334+00:00,1226.564,200,,,
+limpia_r13,limpia,13,CLI-4,f45a64e6-c0c7-4198-ad86-b140784d542f,1,100,2026-10-06 12:59:46.644277+00:00,262.452,200,,,
+limpia_r13,limpia,13,CLI-4,fe8e531d-ffd0-4bc4-8572-e85175904e6f,1,100,2026-10-06 12:59:46.914004+00:00,1238.929,200,,,
+limpia_r13,limpia,13,CLI-5,6f5853c1-b0ef-4d6a-9355-0d0eb616c7e0,1,100,2026-10-06 12:59:46.644277+00:00,1237.138,200,,,
+limpia_r13,limpia,13,CLI-5,95ebece6-34e2-4195-8d33-66e613bfa9e1,1,100,2026-10-06 12:59:47.888881+00:00,1236.108,200,,,
+limpia_r14,limpia,14,CLI-1,da566f15-3c55-4fae-8a4f-2e5f5bfa2bb8,1,100,2026-10-06 13:00:02.156619+00:00,565.128,200,,,
+limpia_r14,limpia,14,CLI-1,c179b16f-2833-4dec-a93f-caf133454906,1,100,2026-10-06 13:00:02.738921+00:00,1458.019,200,,,
+limpia_r14,limpia,14,CLI-2,b580bddc-a9c6-4717-a084-38a8405dc34e,1,100,2026-10-06 13:00:02.156619+00:00,861.906,200,,,
+limpia_r14,limpia,14,CLI-2,ae318e8e-a22c-4071-8046-b2d4128389c3,1,100,2026-10-06 13:00:03.030945+00:00,1445.793,200,,,
+limpia_r14,limpia,14,CLI-3,76a7958a-c23b-4b49-8990-5911d68b85fb,1,100,2026-10-06 13:00:02.156619+00:00,1478.374,200,,,
+limpia_r14,limpia,14,CLI-3,7cb65b69-d110-4356-a59c-f57252508e1d,1,100,2026-10-06 13:00:03.647218+00:00,1349.847,200,,,
+limpia_r14,limpia,14,CLI-4,329871bd-eff7-4652-b42e-f4c387a4b350,1,100,2026-10-06 13:00:02.156619+00:00,291.794,200,,,
+limpia_r14,limpia,14,CLI-4,f55f641a-a4b1-4f7a-a37e-2c0bf7e453db,1,100,2026-10-06 13:00:02.460110+00:00,1439.506,200,,,
+limpia_r14,limpia,14,CLI-5,0b101173-27f1-4882-b935-a278b5486b1a,1,100,2026-10-06 13:00:02.156619+00:00,1185.595,200,,,
+limpia_r14,limpia,14,CLI-5,9bd66b08-a071-48b5-9e01-6cfcab1b3d40,1,100,2026-10-06 13:00:03.356431+00:00,1375.796,200,,,
+limpia_r15,limpia,15,CLI-1,6e7e572e-1aed-4a50-af3e-908d0b070dc9,1,100,2026-10-06 13:00:18.888774+00:00,1346.352,200,,,
+limpia_r15,limpia,15,CLI-1,3c46b176-1f8d-457c-aca4-7e6546a88fd1,1,100,2026-10-06 13:00:20.248703+00:00,1307.914,200,,,
+limpia_r15,limpia,15,CLI-2,8634be1b-a6fa-457e-bb54-acd13a42259c,1,100,2026-10-06 13:00:18.888774+00:00,804.765,200,,,
+limpia_r15,limpia,15,CLI-2,9e41cc94-4af4-490d-9e87-4e9ea4ae81b2,1,100,2026-10-06 13:00:19.699141+00:00,1343.962,200,,,
+limpia_r15,limpia,15,CLI-3,d395e6cb-f8aa-4563-a6b0-d8900f41fc7f,1,100,2026-10-06 13:00:18.888774+00:00,1079.142,200,,,
+limpia_r15,limpia,15,CLI-3,f27836fb-250e-4193-910b-d1aa57d806ff,1,100,2026-10-06 13:00:19.975280+00:00,1321.582,200,,,
+limpia_r15,limpia,15,CLI-4,81e44cc8-ac10-4288-a938-a826739565e8,1,100,2026-10-06 13:00:18.888774+00:00,559.195,200,,,
+limpia_r15,limpia,15,CLI-4,2d9011f7-51c6-4cd7-8fed-da597c394d5b,1,100,2026-10-06 13:00:19.473403+00:00,1307.764,200,,,
+limpia_r15,limpia,15,CLI-5,f61fc35a-c4c2-48b1-89cd-ce0e915405ac,1,100,2026-10-06 13:00:18.888774+00:00,296.376,200,,,
+limpia_r15,limpia,15,CLI-5,07cf5b91-a75d-4c5b-b779-74fce110ea53,1,100,2026-10-06 13:00:19.198855+00:00,1289.525,200,,,
+limpia_r16,limpia,16,CLI-1,b960428e-bec1-49ae-a75e-7b8f01dffcda,1,100,2026-10-06 13:00:35.032270+00:00,1020.088,200,,,
+limpia_r16,limpia,16,CLI-1,935fc3a2-2e63-4db4-897d-62850cec9eec,1,100,2026-10-06 13:00:36.053283+00:00,1194.621,200,,,
+limpia_r16,limpia,16,CLI-2,f1fea2ce-841e-47f2-a7f9-557a7b113d25,1,100,2026-10-06 13:00:35.032270+00:00,515.948,200,,,
+limpia_r16,limpia,16,CLI-2,e3ecd138-b98b-4fd9-8e4c-86f26d2f4886,1,100,2026-10-06 13:00:35.550304+00:00,1222.77,200,,,
+limpia_r16,limpia,16,CLI-3,60cc36fb-4382-4970-b9d0-e045d789e855,1,100,2026-10-06 13:00:35.032270+00:00,751.621,200,,,
+limpia_r16,limpia,16,CLI-3,c8d6bf6f-f595-4a96-8669-cf7053a49b17,1,100,2026-10-06 13:00:35.786351+00:00,1226.111,200,,,
+limpia_r16,limpia,16,CLI-4,24de5757-d58f-4cb7-a902-043f00af53a1,1,100,2026-10-06 13:00:35.032270+00:00,274.954,200,,,
+limpia_r16,limpia,16,CLI-4,defd2fcd-45d5-463c-8086-732d221e3e6c,1,100,2026-10-06 13:00:35.309358+00:00,1218.466,200,,,
+limpia_r16,limpia,16,CLI-5,5c8922c8-fbf9-46c1-9e9e-e377f33d029a,1,100,2026-10-06 13:00:35.032270+00:00,1255.88,200,,,
+limpia_r16,limpia,16,CLI-5,9973ab73-adc7-43b4-a08b-cce7718f5e4f,1,100,2026-10-06 13:00:36.290628+00:00,1198.104,200,,,
+limpia_r17,limpia,17,CLI-1,fb115e6f-6aac-48e2-9a26-6659db5c9c45,1,100,2026-10-06 13:00:50.441694+00:00,1275.068,200,,,
+limpia_r17,limpia,17,CLI-1,e78d608f-f691-4e4e-9bc9-86700e548c72,1,100,2026-10-06 13:00:51.712747+00:00,1332.965,200,,,
+limpia_r17,limpia,17,CLI-2,0aa3081e-b396-4003-a57b-3a9ebfcd69fb,1,100,2026-10-06 13:00:50.441694+00:00,263.211,200,,,
+limpia_r17,limpia,17,CLI-2,0a187b10-0fec-4d16-8e39-5fe6317cbec5,1,100,2026-10-06 13:00:50.704039+00:00,1251.048,200,,,
+limpia_r17,limpia,17,CLI-3,80925502-6106-46c0-baf9-a4ba55d005be,1,100,2026-10-06 13:00:50.441694+00:00,1026.112,200,,,
+limpia_r17,limpia,17,CLI-3,6fb79640-55ef-41f2-a866-0656de69ff8d,1,100,2026-10-06 13:00:51.476398+00:00,1321.648,200,,,
+limpia_r17,limpia,17,CLI-4,f7332f70-5dcc-49d8-abdf-868f1c0ef71f,1,100,2026-10-06 13:00:50.441694+00:00,502.199,200,,,
+limpia_r17,limpia,17,CLI-4,39a455df-f8e3-40d4-b516-b725be739b27,1,100,2026-10-06 13:00:50.940012+00:00,1251.449,200,,,
+limpia_r17,limpia,17,CLI-5,72ff8ad9-9373-46f4-ab96-1454095f66ad,1,100,2026-10-06 13:00:50.441694+00:00,748.835,200,,,
+limpia_r17,limpia,17,CLI-5,9186ded5-4a2d-47c5-8007-999d8d2d6d20,1,100,2026-10-06 13:00:51.186384+00:00,1248.42,200,,,
+limpia_r18,limpia,18,CLI-1,4c2dd977-2521-4a6f-97ff-e71fa80fd35d,1,100,2026-10-06 13:01:05.686270+00:00,1276.544,200,,,
+limpia_r18,limpia,18,CLI-1,52de20f7-f21c-4307-93ee-ef8815f332bb,1,100,2026-10-06 13:01:06.961854+00:00,1127.419,200,,,
+limpia_r18,limpia,18,CLI-2,46aac344-037c-4b90-aa2b-1edef77a83c5,1,100,2026-10-06 13:01:05.686270+00:00,261.034,200,,,
+limpia_r18,limpia,18,CLI-2,ce8efd65-893b-44c1-8044-7a69116bcbcf,1,100,2026-10-06 13:01:05.946262+00:00,1243.255,200,,,
+limpia_r18,limpia,18,CLI-3,473ee437-a908-4a90-8979-19bc649e6862,1,100,2026-10-06 13:01:05.686270+00:00,1036.679,200,,,
+limpia_r18,limpia,18,CLI-3,8862904e-3530-48be-8afc-d532e5f2558e,1,100,2026-10-06 13:01:06.721939+00:00,1145.398,200,,,
+limpia_r18,limpia,18,CLI-4,1b320f4a-b1db-4d41-b18f-f140e5837cf2,1,100,2026-10-06 13:01:05.686270+00:00,509.155,200,,,
+limpia_r18,limpia,18,CLI-4,23516e7c-83b4-4436-8f85-8f52278254ef,1,100,2026-10-06 13:01:06.206511+00:00,1228.895,200,,,
+limpia_r18,limpia,18,CLI-5,889ffa56-bafc-4173-91a4-8c190367dc57,1,100,2026-10-06 13:01:05.686270+00:00,767.321,200,,,
+limpia_r18,limpia,18,CLI-5,6c76bbc5-740d-4b33-855b-b6eedc775877,1,100,2026-10-06 13:01:06.449973+00:00,1183.702,200,,,
+limpia_r19,limpia,19,CLI-1,4b015ea1-0609-49b5-ab8f-7fda258e015d,1,100,2026-10-06 13:01:20.824378+00:00,275.696,200,,,
+limpia_r19,limpia,19,CLI-1,52df7dd8-e177-4d6f-a543-19012e99fa92,1,100,2026-10-06 13:01:21.100025+00:00,1250.099,200,,,
+limpia_r19,limpia,19,CLI-2,94988ca9-ccb1-49fc-92c4-1a09c7670186,1,100,2026-10-06 13:01:20.824378+00:00,1038.367,200,,,
+limpia_r19,limpia,19,CLI-2,24936f6a-112f-415d-94f9-390a967b2023,1,100,2026-10-06 13:01:21.862453+00:00,1214.275,200,,,
+limpia_r19,limpia,19,CLI-3,207412e7-6dd1-4190-b1b3-5ce3f1ff2035,1,100,2026-10-06 13:01:20.824378+00:00,512.652,200,,,
+limpia_r19,limpia,19,CLI-3,b3bbb1ea-908d-49f6-8f2a-8716506fa906,1,100,2026-10-06 13:01:21.336848+00:00,1253.677,200,,,
+limpia_r19,limpia,19,CLI-4,076e46e6-282e-4706-867f-0f18ffb6718d,1,100,2026-10-06 13:01:20.824378+00:00,1282.039,200,,,
+limpia_r19,limpia,19,CLI-4,15d87eb8-0e99-4bff-8297-7bf1df4a1af3,1,100,2026-10-06 13:01:22.106198+00:00,1214.046,200,,,
+limpia_r19,limpia,19,CLI-5,0d84e62a-80c9-415c-964d-03db66d1aada,1,100,2026-10-06 13:01:20.824378+00:00,750.937,200,,,
+limpia_r19,limpia,19,CLI-5,3c954972-e6ba-4ee1-9814-e54f9bc4a727,1,100,2026-10-06 13:01:21.578725+00:00,1255.613,200,,,
+limpia_r20,limpia,20,CLI-1,f8452094-9cb4-41dd-85ca-8a9bbb10754b,1,100,2026-10-06 13:01:36.936158+00:00,266.946,200,,,
+limpia_r20,limpia,20,CLI-1,532aefbc-1a3f-4dc6-95ec-755c1af69a84,1,100,2026-10-06 13:01:37.205571+00:00,1220.411,200,,,
+limpia_r20,limpia,20,CLI-2,50bbb533-0188-4e8c-bd98-d151d57bf1a3,1,100,2026-10-06 13:01:36.936158+00:00,731.73,200,,,
+limpia_r20,limpia,20,CLI-2,20fb9005-b309-4a7a-a771-20659a924cdc,1,100,2026-10-06 13:01:37.669820+00:00,1285.314,200,,,
+limpia_r20,limpia,20,CLI-3,63e92ab6-feb1-4d88-8107-03ec6b131620,1,100,2026-10-06 13:01:36.936158+00:00,1214.673,200,,,
+limpia_r20,limpia,20,CLI-3,eea20266-ae7c-4751-8cfb-e9d95b641301,1,100,2026-10-06 13:01:38.166094+00:00,1277.382,200,,,
+limpia_r20,limpia,20,CLI-4,26a0247d-7ce2-416f-a04c-05b58a7b1d5a,1,100,2026-10-06 13:01:36.936158+00:00,994.648,200,,,
+limpia_r20,limpia,20,CLI-4,f3bb471e-19ee-48d6-8fc1-ac1598adec31,1,100,2026-10-06 13:01:37.939707+00:00,1277.931,200,,,
+limpia_r20,limpia,20,CLI-5,1949bdec-6af4-4650-bed0-43f1a6082dde,1,100,2026-10-06 13:01:36.936158+00:00,502.967,200,,,
+limpia_r20,limpia,20,CLI-5,f20ed503-16da-443f-8739-1921b67147ee,1,100,2026-10-06 13:01:37.441042+00:00,1237.386,200,,,
+limpia_r21,limpia,21,CLI-1,845207eb-1df3-4030-9398-640a62dc0f9e,1,100,2026-10-06 13:01:52.140289+00:00,730.918,200,,,
+limpia_r21,limpia,21,CLI-1,8aff7132-c500-4439-94ca-f2284b6328bf,1,100,2026-10-06 13:01:52.883079+00:00,1248.827,200,,,
+limpia_r21,limpia,21,CLI-2,643a9d91-0b64-4c01-8541-ab0ef8c7c016,1,100,2026-10-06 13:01:52.140289+00:00,260.795,200,,,
+limpia_r21,limpia,21,CLI-2,384b7027-9377-4c2c-a1d3-c05dd6616fbf,1,100,2026-10-06 13:01:52.405619+00:00,1237.665,200,,,
+limpia_r21,limpia,21,CLI-3,0bb92c14-3eac-4184-a6bd-e237afbb8066,1,100,2026-10-06 13:01:52.140289+00:00,1012.42,200,,,
+limpia_r21,limpia,21,CLI-3,1f4ce074-78d4-44c3-a298-d6ea00d41a9c,1,100,2026-10-06 13:01:53.156992+00:00,1211.124,200,,,
+limpia_r21,limpia,21,CLI-4,82deb31d-804a-481d-95ff-d0287a41630e,1,100,2026-10-06 13:01:52.140289+00:00,497.526,200,,,
+limpia_r21,limpia,21,CLI-4,4fd96950-e867-4ecb-87a6-83d5e5ce8792,1,100,2026-10-06 13:01:52.643145+00:00,1241.081,200,,,
+limpia_r21,limpia,21,CLI-5,1fb4ed92-beba-4087-9f58-15093644659a,1,100,2026-10-06 13:01:52.140289+00:00,1260.016,200,,,
+limpia_r21,limpia,21,CLI-5,96a63da3-16c8-449c-a239-a7644a513836,1,100,2026-10-06 13:01:53.405554+00:00,1189.899,200,,,
+limpia_r22,limpia,22,CLI-1,653c0872-4c37-420b-a6a5-1f5d6e13f932,1,100,2026-10-06 13:02:07.630933+00:00,1040.736,200,,,
+limpia_r22,limpia,22,CLI-1,b524eaef-c857-4c25-b3ad-e20fb5a63ce4,1,100,2026-10-06 13:02:08.668260+00:00,1223.878,200,,,
+limpia_r22,limpia,22,CLI-2,39b2c65d-3304-42af-b91d-65b792f0bb8b,1,100,2026-10-06 13:02:07.630933+00:00,268.433,200,,,
+limpia_r22,limpia,22,CLI-2,37b60c0c-00f4-4ff1-85f6-cf85c64de73d,1,100,2026-10-06 13:02:07.906338+00:00,1227.384,200,,,
+limpia_r22,limpia,22,CLI-3,06f5384c-3f85-45c9-8efc-48a3508121fc,1,100,2026-10-06 13:02:07.630933+00:00,769.658,200,,,
+limpia_r22,limpia,22,CLI-3,dca57590-c7de-4124-8030-3e57651474a8,1,100,2026-10-06 13:02:08.397009+00:00,1239.309,200,,,
+limpia_r22,limpia,22,CLI-4,02bc75bd-1860-4055-a12c-049d65e6fcbb,1,100,2026-10-06 13:02:07.630933+00:00,502.048,200,,,
+limpia_r22,limpia,22,CLI-4,4d0791a0-429f-4a94-8f41-685ac471d87b,1,100,2026-10-06 13:02:08.138876+00:00,1252.882,200,,,
+limpia_r22,limpia,22,CLI-5,11df8102-aef3-4239-818e-715c40e97510,1,100,2026-10-06 13:02:07.630933+00:00,1282.62,200,,,
+limpia_r22,limpia,22,CLI-5,e0bc70f3-34d9-42b8-9dcf-53e5477675d0,1,100,2026-10-06 13:02:08.909813+00:00,1219.804,200,,,
+limpia_r23,limpia,23,CLI-1,fff08fe0-825d-4a09-aef2-f9f803fd268c,1,100,2026-10-06 13:02:22.917379+00:00,501.606,200,,,
+limpia_r23,limpia,23,CLI-1,aac94791-eb73-4572-9660-a5a3f1f2b05b,1,100,2026-10-06 13:02:23.426468+00:00,1213.735,200,,,
+limpia_r23,limpia,23,CLI-2,375c76d0-b732-4607-874e-5975263c956f,1,100,2026-10-06 13:02:22.917379+00:00,1009.306,200,,,
+limpia_r23,limpia,23,CLI-2,9928734d-acb0-4cb1-8310-c2ca8e491d73,1,100,2026-10-06 13:02:23.933245+00:00,1191.483,200,,,
+limpia_r23,limpia,23,CLI-3,f2205690-c503-438c-9468-80e87fb95557,1,100,2026-10-06 13:02:22.917379+00:00,737.788,200,,,
+limpia_r23,limpia,23,CLI-3,8ba8986e-ddf7-4b52-b44d-fa2d365dbe1a,1,100,2026-10-06 13:02:23.672669+00:00,1216.867,200,,,
+limpia_r23,limpia,23,CLI-4,0755ab3d-a9fe-4bfd-945b-add33df1c817,1,100,2026-10-06 13:02:22.917379+00:00,1244.901,200,,,
+limpia_r23,limpia,23,CLI-4,5d7e1541-2376-4af0-83c6-a3e217fc813f,1,100,2026-10-06 13:02:24.179101+00:00,1202.09,200,,,
+limpia_r23,limpia,23,CLI-5,39ffa21c-82b3-457e-adcd-a37abefb5b79,1,100,2026-10-06 13:02:22.917379+00:00,264.483,200,,,
+limpia_r23,limpia,23,CLI-5,7335b990-5fc8-4b45-a561-a76616e48af4,1,100,2026-10-06 13:02:23.193686+00:00,1208.51,200,,,
+limpia_r24,limpia,24,CLI-1,098d17a1-e19d-4df4-bd7e-2347c2cda696,1,100,2026-10-06 13:02:38.166638+00:00,740.084,200,,,
+limpia_r24,limpia,24,CLI-1,93f134c3-be55-4f98-9fbf-9c5de07a98db,1,100,2026-10-06 13:02:38.905333+00:00,1259.127,200,,,
+limpia_r24,limpia,24,CLI-2,f8f22b10-a9c2-4061-9964-53c300f74418,1,100,2026-10-06 13:02:38.166638+00:00,1250.97,200,,,
+limpia_r24,limpia,24,CLI-2,5d179bb9-f0c7-4ee8-84c8-57633548904d,1,100,2026-10-06 13:02:39.415839+00:00,1379.071,200,,,
+limpia_r24,limpia,24,CLI-3,a3b2e1ee-e003-4abb-b99e-26aab6a215a7,1,100,2026-10-06 13:02:38.166638+00:00,499.62,200,,,
+limpia_r24,limpia,24,CLI-3,4e305d4f-ff9b-418b-9487-95d7129dcf9b,1,100,2026-10-06 13:02:38.665274+00:00,1229.133,200,,,
+limpia_r24,limpia,24,CLI-4,d8dc1d1b-656b-47b8-b844-ed22947fccb2,1,100,2026-10-06 13:02:38.166638+00:00,262.592,200,,,
+limpia_r24,limpia,24,CLI-4,bdb7d4b3-a081-4e23-805e-9f846caad16e,1,100,2026-10-06 13:02:38.428177+00:00,1232.297,200,,,
+limpia_r24,limpia,24,CLI-5,58690da5-c7a5-4131-9018-e0e8e4b0d4fa,1,100,2026-10-06 13:02:38.166638+00:00,1003.32,200,,,
+limpia_r24,limpia,24,CLI-5,8e5d397a-c701-4508-b51b-2051a35bcd1b,1,100,2026-10-06 13:02:39.169904+00:00,1340.644,200,,,
+limpia_r25,limpia,25,CLI-1,d4cc77bc-0647-4db7-a8a1-49f61ada797f,1,100,2026-10-06 13:02:53.751437+00:00,263.657,200,,,
+limpia_r25,limpia,25,CLI-1,67ad4ef1-9ec3-49a2-a93a-dbd7648c3acb,1,100,2026-10-06 13:02:54.017024+00:00,1250.35,200,,,
+limpia_r25,limpia,25,CLI-2,14b786cd-da7e-4098-8a87-191e0c300c55,1,100,2026-10-06 13:02:53.751437+00:00,1049.606,200,,,
+limpia_r25,limpia,25,CLI-2,0e77a3e4-7011-4a2e-92da-642da95069db,1,100,2026-10-06 13:02:54.803738+00:00,1158.546,200,,,
+limpia_r25,limpia,25,CLI-3,41366fb2-a46d-4f4e-b8e6-1fe1423a6e32,1,100,2026-10-06 13:02:53.751437+00:00,775.361,200,,,
+limpia_r25,limpia,25,CLI-3,9ff3f477-ecca-4232-b639-673d9cae2ae1,1,100,2026-10-06 13:02:54.528032+00:00,1195.128,200,,,
+limpia_r25,limpia,25,CLI-4,0c8a574f-b2e8-455c-a07a-da40b9c3cd2b,1,100,2026-10-06 13:02:53.751437+00:00,503.688,200,,,
+limpia_r25,limpia,25,CLI-4,ae2eb4f0-50ae-4cc7-9f46-b34fb4b82850,1,100,2026-10-06 13:02:54.263038+00:00,1233.33,200,,,
+limpia_r25,limpia,25,CLI-5,19e97dc5-7ffe-40d6-bf45-1580224b9ca5,1,100,2026-10-06 13:02:53.751437+00:00,1287.605,200,,,
+limpia_r25,limpia,25,CLI-5,efeec314-6dce-429c-bdc8-4b6e6ee2e2d7,1,100,2026-10-06 13:02:55.041601+00:00,1132.508,200,,,
+limpia_r26,limpia,26,CLI-1,0bf05b27-d4a7-4ab5-930a-d02d834a5389,1,100,2026-10-06 13:03:09.024681+00:00,264.816,200,,,
+limpia_r26,limpia,26,CLI-1,3dd2d202-2757-4ad9-b4ac-40114f370848,1,100,2026-10-06 13:03:09.291724+00:00,1251.35,200,,,
+limpia_r26,limpia,26,CLI-2,c93c85e5-4e9f-43ff-b632-5aa4b45fcf4b,1,100,2026-10-06 13:03:09.024681+00:00,500.692,200,,,
+limpia_r26,limpia,26,CLI-2,c1180df9-fd62-4715-977f-a84939cb2cd9,1,100,2026-10-06 13:03:09.521533+00:00,1253.133,200,,,
+limpia_r26,limpia,26,CLI-3,78994b75-7b44-4612-9548-096ebe6075cc,1,100,2026-10-06 13:03:09.024681+00:00,1271.656,200,,,
+limpia_r26,limpia,26,CLI-3,a670c922-1071-490f-85f8-b272790532c5,1,100,2026-10-06 13:03:10.292776+00:00,1171.996,200,,,
+limpia_r26,limpia,26,CLI-4,1afc1374-a812-452e-8589-66b74377646b,1,100,2026-10-06 13:03:09.024681+00:00,740.904,200,,,
+limpia_r26,limpia,26,CLI-4,76a52a8f-a1aa-4807-812f-c86fbcd20650,1,100,2026-10-06 13:03:09.761608+00:00,1248.556,200,,,
+limpia_r26,limpia,26,CLI-5,ab7ec0ec-8eef-4279-b592-165bde46bafe,1,100,2026-10-06 13:03:09.024681+00:00,1013.669,200,,,
+limpia_r26,limpia,26,CLI-5,fba75707-3438-4215-b81c-8c7c99df34af,1,100,2026-10-06 13:03:10.033760+00:00,1206.657,200,,,
+limpia_r27,limpia,27,CLI-1,580faf04-b3b1-46cc-8446-36ca39708e3c,1,100,2026-10-06 13:03:24.790682+00:00,514.797,200,,,
+limpia_r27,limpia,27,CLI-1,4f7c02dc-7a8c-4654-b87d-b5a8d132b22a,1,100,2026-10-06 13:03:25.304047+00:00,1211.919,200,,,
+limpia_r27,limpia,27,CLI-2,5282fd86-8a5e-4491-883e-7cbda8342b0a,1,100,2026-10-06 13:03:24.789677+00:00,1055.69,200,,,
+limpia_r27,limpia,27,CLI-2,ebf257a6-40d0-4dac-801c-a807d523340b,1,100,2026-10-06 13:03:25.840110+00:00,1132.475,200,,,
+limpia_r27,limpia,27,CLI-3,af2c3b3e-4d0d-40d9-8f89-9094c1d6039b,1,100,2026-10-06 13:03:24.789677+00:00,271.024,200,,,
+limpia_r27,limpia,27,CLI-3,c1f2f6c8-ed63-4e53-abe5-e7371164376d,1,100,2026-10-06 13:03:25.055627+00:00,1229.955,200,,,
+limpia_r27,limpia,27,CLI-4,ba444f42-fe84-489e-b892-efbc8c9c8cfd,1,100,2026-10-06 13:03:24.790682+00:00,779.878,200,,,
+limpia_r27,limpia,27,CLI-4,64ab3746-81bc-41a4-99d7-4873b671baa4,1,100,2026-10-06 13:03:25.567047+00:00,1184.145,200,,,
+limpia_r27,limpia,27,CLI-5,6c5e54bc-e45a-46d5-8521-ed316431ee1f,1,100,2026-10-06 13:03:24.790682+00:00,1280.997,200,,,
+limpia_r27,limpia,27,CLI-5,0fd72efb-7c46-4b06-bc12-97867ba53fc4,1,100,2026-10-06 13:03:26.065508+00:00,1120.698,200,,,
+limpia_r28,limpia,28,CLI-1,34c906c5-ce1b-4498-b7b8-b1c21e69de65,1,100,2026-10-06 13:03:39.968048+00:00,1072.811,200,,,
+limpia_r28,limpia,28,CLI-1,1c4fa518-c609-46ce-9c8b-c1c6b68d1765,1,100,2026-10-06 13:03:41.045335+00:00,1164.774,200,,,
+limpia_r28,limpia,28,CLI-2,d2ec1d21-9bad-4857-a191-0885004ee76f,1,100,2026-10-06 13:03:39.968048+00:00,1301.073,200,,,
+limpia_r28,limpia,28,CLI-2,ef974d3a-0583-43e0-a900-6f71a609d999,1,100,2026-10-06 13:03:41.269465+00:00,1164.096,200,,,
+limpia_r28,limpia,28,CLI-3,84e132ed-c31b-4728-bf5a-4a8afa762434,1,100,2026-10-06 13:03:39.968048+00:00,286.57,200,,,
+limpia_r28,limpia,28,CLI-3,4eec2a53-83c7-48ce-8cee-102714ee0f65,1,100,2026-10-06 13:03:40.255027+00:00,1248.082,200,,,
+limpia_r28,limpia,28,CLI-4,bfb70dcc-9bbc-4dc0-bf1e-d1f79ee6a24c,1,100,2026-10-06 13:03:39.968048+00:00,800.277,200,,,
+limpia_r28,limpia,28,CLI-4,5bc3105a-b472-4b87-9139-9bb0d74fdaa3,1,100,2026-10-06 13:03:40.768728+00:00,1193.519,200,,,
+limpia_r28,limpia,28,CLI-5,5d0134b0-6686-4822-a072-90b04a6de689,1,100,2026-10-06 13:03:39.968048+00:00,549.972,200,,,
+limpia_r28,limpia,28,CLI-5,6a6712c3-815a-4e87-92dd-f555ed2b0d57,1,100,2026-10-06 13:03:40.523057+00:00,1209.512,200,,,
+limpia_r29,limpia,29,CLI-1,0d36f70f-3534-4e33-84bb-ad8dbc28cc80,1,100,2026-10-06 13:03:55.150956+00:00,1236.129,200,,,
+limpia_r29,limpia,29,CLI-1,b348b81f-3e60-4df5-9766-7dae518fa814,1,100,2026-10-06 13:03:56.388785+00:00,1298.589,200,,,
+limpia_r29,limpia,29,CLI-2,b7f3c84f-41bc-4861-909d-11bd99acc9a4,1,100,2026-10-06 13:03:55.150956+00:00,262.566,200,,,
+limpia_r29,limpia,29,CLI-2,f6d7eec7-419d-4250-ae62-452cd937a007,1,100,2026-10-06 13:03:55.414838+00:00,1217.784,200,,,
+limpia_r29,limpia,29,CLI-3,3dec3206-01a7-47a6-82d9-c6948a9df2af,1,100,2026-10-06 13:03:55.150956+00:00,996.887,200,,,
+limpia_r29,limpia,29,CLI-3,7bd2d5ae-d695-44f6-9821-a113ab12b0cd,1,100,2026-10-06 13:03:56.149725+00:00,1273.638,200,,,
+limpia_r29,limpia,29,CLI-4,a310989b-b189-4c04-b3b7-e147c4545e4a,1,100,2026-10-06 13:03:55.150956+00:00,497.4,200,,,
+limpia_r29,limpia,29,CLI-4,a4271f69-b55d-4674-a968-92f25d88ee84,1,100,2026-10-06 13:03:55.647884+00:00,1214.771,200,,,
+limpia_r29,limpia,29,CLI-5,85aa4863-95ce-474a-a820-884610a1b265,1,100,2026-10-06 13:03:55.150956+00:00,729.883,200,,,
+limpia_r29,limpia,29,CLI-5,2a4e7dbd-ab59-4a89-a0d7-eb62c6272b11,1,100,2026-10-06 13:03:55.883096+00:00,1214.608,200,,,
+limpia_r30,limpia,30,CLI-1,ee72b714-7ca2-4e12-859f-d34caac96b1f,1,100,2026-10-06 13:04:11.752724+00:00,524.506,200,,,
+limpia_r30,limpia,30,CLI-1,a0dfb987-147e-4cc7-85f2-449f39d225fd,1,100,2026-10-06 13:04:12.290147+00:00,1289.608,200,,,
+limpia_r30,limpia,30,CLI-2,8950f8e2-bbea-424d-8b17-3ea0516605b9,1,100,2026-10-06 13:04:11.752724+00:00,770.268,200,,,
+limpia_r30,limpia,30,CLI-2,a64ba1e7-3aa0-44f7-a8ad-2187540a7b4e,1,100,2026-10-06 13:04:12.538850+00:00,1296.159,200,,,
+limpia_r30,limpia,30,CLI-3,74b0ec6f-5ad4-46e6-aaaf-2483bc0a27b5,1,100,2026-10-06 13:04:11.752724+00:00,274.256,200,,,
+limpia_r30,limpia,30,CLI-3,f97d9bcf-f217-48b2-8d19-656a7ad7833e,1,100,2026-10-06 13:04:12.039596+00:00,1287.92,200,,,
+limpia_r30,limpia,30,CLI-4,ff2e61d2-c515-4028-bd15-09859045ff77,1,100,2026-10-06 13:04:11.752724+00:00,1311.337,200,,,
+limpia_r30,limpia,30,CLI-4,70908211-6523-4503-b5d9-56e65a6dba30,1,100,2026-10-06 13:04:13.075072+00:00,1272.254,200,,,
+limpia_r30,limpia,30,CLI-5,d503377d-1c1c-4dc5-b2fb-b36db344119f,1,100,2026-10-06 13:04:11.752724+00:00,1055.245,200,,,
+limpia_r30,limpia,30,CLI-5,52ab064e-6c9d-479a-a0d9-0444abbca8db,1,100,2026-10-06 13:04:12.825378+00:00,1270.115,200,,,

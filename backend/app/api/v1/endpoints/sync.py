@@ -1,34 +1,31 @@
-from datetime import datetime, timezone
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Query
 from pydantic import ValidationError
 from sqlalchemy.orm import Session
-from shared.schemas import SyncRequest, SyncResponse
+
+from shared.schemas import ChangesResponse, SyncRequest, SyncResponse
+
 from ....core.database import get_db
-from ....services.sync_service import apply_event, all_events, validate_event_payload
-from ....models.nodo_campo import NodoCampo
+from ....core.security import READ_ROLES, Subject, require_write
+from ....services.sync_service import LoteInvalido, catalog, changes_since, process_lote
 from ..dependencies import current_subject
-from ....core.security import Subject, require_write
+
 router = APIRouter(prefix="/sync", tags=["sincronización"])
+
+
 @router.post("/bulk", response_model=SyncResponse)
 def bulk_sync(request: SyncRequest, subject: Subject = Depends(current_subject), db: Session = Depends(get_db)):
-    result = {"applied": [], "duplicates": [], "conflicts": []}
+    """Push de un lote de eventos pendientes (idempotente por evento_id, atómico por lote)."""
     try:
-        validated = [(event, validate_event_payload(event)) for event in request.events]
-        for event, data in validated:
-            require_write(subject, data.proyecto)
-            status = apply_event(db, event, lote_id=str(request.lote_id))
-            result[{"applied":"applied", "duplicate":"duplicates", "conflict":"conflicts"}[status]].append(str(event.event_id))
-        node = db.query(NodoCampo).filter_by(device_id=request.device_id).one_or_none()
-        if node is None:
-            db.add(NodoCampo(device_id=request.device_id, estado_conexion="EN_LINEA", ultima_sincronizacion=datetime.now(timezone.utc)))
-        else:
-            node.estado_conexion, node.ultima_sincronizacion = "EN_LINEA", datetime.now(timezone.utc)
-        db.commit()
-    except (ValidationError, ValueError) as exc:
-        db.rollback()
+        return process_lote(db, request, authorize=lambda project: require_write(subject, project))
+    except (ValidationError, LoteInvalido) as exc:
         raise HTTPException(422, str(exc)) from exc
-    except Exception:
-        db.rollback()
-        raise
-    remote = all_events(db)
-    return SyncResponse(**result, remote_events=remote, lote_id=request.lote_id, confirmado_en=datetime.now(timezone.utc))
+
+
+@router.get("/changes", response_model=ChangesResponse)
+def pull_changes(since: int = Query(0, ge=0), limit: int = Query(5000, ge=1, le=20000),
+                 subject: Subject = Depends(current_subject), db: Session = Depends(get_db)):
+    """Pull incremental: eventos con secuencia central mayor que ``since``."""
+    if subject.role not in READ_ROLES:
+        raise HTTPException(403, "Acceso denegado: lectura no autorizada")
+    events, last_seq = changes_since(db, since, limit)
+    return ChangesResponse(events=events, last_seq=last_seq, items=catalog(db))
